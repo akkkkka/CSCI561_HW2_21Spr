@@ -1,0 +1,725 @@
+#################### ROUND 2: janapare (W) vs liujunyi (B): game 1 ####################
+##### game start! #####
+INPUT for liujunyi:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E f6 g5] in 4.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E g3 h4] in 1.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+295.99
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E b6 c5] in 3.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+298.17
+.b.b.b.b
+b.b.b.b.
+...b...b
+..b...b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J h4 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+292.49
+.b.b.b.b
+b.b.b.b.
+...b.w.b
+..b.....
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J g7 e5] in 9.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+298.12
+.b.b.b.b
+b.b.b...
+...b...b
+..b.b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E f2 g3] in 2.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+282.85
+.b.b.b.b
+b.b.b...
+...b...b
+..b.b...
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E e7 f6] in 20.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+296.1
+.b.b.b.b
+b.b.....
+...b.b.b
+..b.b...
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### Killing janapare after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  3438527 3438537 3438554
+##### GAME OVER: janapare ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 1: janapare=0 and liujunyi=1 ##########
+#################### ROUND 2: janapare (B) vs liujunyi (W): game 2 ####################
+##### game start! #####
+INPUT for janapare:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E f6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E g3 h4] in 3.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E g7 f6] in 1.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+296.92
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E h2 g3] in 4.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+298.04
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E b6 a5] in 2.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+292.13
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E c3 b4] in 16.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+295.96
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.w.....w
+w...w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J a5 c3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+275.57
+.b.b.b.b
+b.b.b...
+...b.b.b
+....b...
+.......w
+w.b.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J b2 d4] in 13.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+295.91
+.b.b.b.b
+b.b.b...
+...b.b.b
+....b...
+...w...w
+w...w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J e5 c3] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+262.24
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.......w
+w.b.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J d2 b4] in 14.89s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+295.84
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.w.....w
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### Killing janapare after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  3438527 3865717 3865721 3865725
+##### GAME OVER: janapare ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 2: janapare=0 and liujunyi=2 ##########
+#################### ROUND 2: janapare (W) vs liujunyi (B): game 3 ####################
+##### game start! #####
+INPUT for liujunyi:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E f6 g5] in 3.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E g3 h4] in 1.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+296.08
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E b6 c5] in 3.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+298.16
+.b.b.b.b
+b.b.b.b.
+...b...b
+..b...b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J h4 f6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+292.15
+.b.b.b.b
+b.b.b.b.
+...b.w.b
+..b.....
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J g7 e5] in 10.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+298.1
+.b.b.b.b
+b.b.b...
+...b...b
+..b.b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E f2 g3] in 2.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+BLACK
+281.37
+.b.b.b.b
+b.b.b...
+...b...b
+..b.b...
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E e7 f6] in 20.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+WHITE
+296.08
+.b.b.b.b
+b.b.....
+...b.b.b
+..b.b...
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### Killing janapare after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  86770 86778 86782 3438527 3865717
+##### GAME OVER: janapare ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 3: janapare=0 and liujunyi=3 ##########
+#################### ROUND 2: janapare (B) vs liujunyi (W): game 4 ####################
+##### game start! #####
+INPUT for janapare:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E f6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E g3 h4] in 2.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E g7 f6] in 1.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+297.43
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E h2 g3] in 3.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+298.37
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [E b6 a5] in 1.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+293.44
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E c3 b4] in 14.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+296.66
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.w.....w
+w...w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J a5 c3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+278.87
+.b.b.b.b
+b.b.b...
+...b.b.b
+....b...
+.......w
+w.b.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J b2 d4] in 10.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+296.63
+.b.b.b.b
+b.b.b...
+...b.b.b
+....b...
+...w...w
+w...w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### janapare plays [J e5 c3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for liujunyi:
+GAME
+WHITE
+268.53
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.......w
+w.b.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [J d2 b4] in 12.82s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_janapare_liujunyi #####
+INPUT for janapare:
+GAME
+BLACK
+296.57
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.w.....w
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_janapare_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on janapare #####
+##### Killing janapare after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  86770 442999 443002 443005 3438527 3865717
+##### GAME OVER: janapare ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 4: janapare=0 and liujunyi=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS liujunyi BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,3287 @@
+#################### ROUND 10: namba (B) vs tuningti (W): game 1 ####################
+##### game start! #####
+INPUT for namba:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h6 g5] in 12.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g3 h4] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+287.99
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g5 f4] in 16.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+299.81
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....b.w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 g5] in 2.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+271.54
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f6 e5] in 4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+297.46
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g5 h6] in 2.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+267.54
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....b...
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 4.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+294.5
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+...b...w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c3 e5] in 1.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+262.93
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....w...
+.......w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J d6 f4] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+292.65
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....b.w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 2.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+262.85
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....b.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f4 g3] in 7.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+289.73
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.......w
+w...w.b.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J h2 f4] in 3.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+255.05
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....w.w
+w...w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b6 a5] in 3.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+285.96
+.b.b.b.b
+b.b.b.b.
+.......w
+b.......
+.....w.w
+w...w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a3 b4] in 4.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+252.04
+.b.b.b.b
+b.b.b.b.
+.......w
+b.......
+.w...w.w
+....w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J a5 c3] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+281.95
+.b.b.b.b
+b.b.b.b.
+.......w
+........
+.....w.w
+..b.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J d2 b4] in 4.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+251.95
+.b.b.b.b
+b.b.b.b.
+.......w
+........
+.w...w.w
+....w...
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g7 f6] in 3.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+277.53
+.b.b.b.b
+b.b.b...
+.....b.w
+........
+.w...w.w
+....w...
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b2 a3] in 6.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+248.48
+.b.b.b.b
+b.b.b...
+.....b.w
+........
+.w...w.w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f6 e5] in 9.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+270.75
+.b.b.b.b
+b.b.b...
+.......w
+....b...
+.w...w.w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J f4 d6] in 2.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+239.29
+.b.b.b.b
+b.b.b...
+...w...w
+........
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J c7 e5] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+268.18
+.b.b.b.b
+b...b...
+.......w
+....b...
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g1 f2] in 6.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+239.19
+.b.b.b.b
+b...b...
+.......w
+....b...
+.w.....w
+w...w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 7.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+262.17
+.b.b.b.b
+b...b...
+.......w
+........
+.w.b...w
+w...w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 3.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+231.25
+.b.b.b.b
+b...b...
+.......w
+..w.....
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e7 d6] in 5.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+258.97
+.b.b.b.b
+b.......
+...b...w
+..w.....
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 e7] in 2.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+225.99
+.b.b.b.b
+b...w...
+.......w
+........
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J f8 d6] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+256.17
+.b.b...b
+b.......
+...b...w
+........
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 6.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+225.9
+.b.b...b
+b.......
+...b...w
+........
+.w.....w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d6 c5] in 5.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+249.66
+.b.b...b
+b.......
+.......w
+..b.....
+.w.....w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J b4 d6] in 2.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+220
+.b.b...b
+b.......
+...w...w
+........
+.......w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a7 b6] in 4.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+246.69
+.b.b...b
+........
+.b.w...w
+........
+.......w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a3 b4] in 4.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+215.6
+.b.b...b
+........
+.b.w...w
+........
+.w.....w
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b6 a5] in 6.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+242.43
+.b.b...b
+........
+...w...w
+b.......
+.w.....w
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E h4 g5] in 3.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+209.33
+.b.b...b
+........
+...w...w
+b.....w.
+.w......
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J a5 c3] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+239.08
+.b.b...b
+........
+...w...w
+......w.
+........
+..b.w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g5 f6] in 3.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+209.25
+.b.b...b
+........
+...w.w.w
+........
+........
+..b.w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 d2] in 3.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+235.29
+.b.b...b
+........
+...w.w.w
+........
+........
+....w...
+...b....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e1 c3] in 1.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+205.62
+.b.b...b
+........
+...w.w.w
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h8 g7] in 2.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+233.53
+.b.b....
+......b.
+...w.w.w
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J h6 f8] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+202.69
+.b.b.W..
+........
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d8 c7] in 3.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+233.23
+.b...W..
+..b.....
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f8 e7] in 3.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+199.27
+.b......
+..b.W...
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J c7 e5] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+229.63
+.b......
+....W...
+.....w..
+....b...
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E e7 d8] in 3.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+199.2
+.b.W....
+........
+.....w..
+....b...
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 3.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+226
+.b.W....
+........
+.....w..
+........
+...b....
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+196.19
+.b.W....
+........
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b8 a7] in 4.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+225.79
+...W....
+b.......
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E d8 c7] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+191.59
+........
+b.W.....
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a7 b6] in 6.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+225.57
+........
+..W.....
+.b...w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 a7] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+##### GAME OVER: tuningti wins the game! #####
+Server said: WIN
+########## ROUND 10 GAMESCORE AFTER GAME 1: namba=0 and tuningti=1 ##########
+#################### ROUND 10: namba (W) vs tuningti (B): game 2 ####################
+##### game start! #####
+INPUT for tuningti:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f6 e5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g3 f4] in 6.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+299.8
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e5 g3] in 2.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+293.13
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J h2 f4] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+297.58
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 a5] in 3.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+293.04
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.......
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g1 h2] in 6.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+293.94
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g7 f6] in 3.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+286.87
+.b.b.b.b
+b.b.b...
+...b.b.b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h2 g3] in 6.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+290.58
+.b.b.b.b
+b.b.b...
+...b.b.b
+b.......
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E h8 g7] in 4.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+280.72
+.b.b.b..
+b.b.b.b.
+...b.b.b
+b.......
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g3 h4] in 5.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+286.3
+.b.b.b..
+b.b.b.b.
+...b.b.b
+b.......
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E c7 b6] in 3.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+274.84
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f2 g3] in 4.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+283
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 c5] in 3.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+270.1
+.b.b.b..
+b...b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e1 f2] in 4.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+279.71
+.b.b.b..
+b...b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a7 b6] in 3.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+265.96
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e3 d4] in 3.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+276.22
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.b.....
+...w.w.w
+w.w...w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 e3J e3 g1] in 3.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+262.12
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w...w.
+.w.w....
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d2 e3] in 6.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+272.74
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E d8 c7] in 4.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+256.11
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c1 d2] in 4.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+268.65
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w....
+w.....B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g1 f2] in 4.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+251.39
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e3 d4] in 8.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+264.12
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+...w.w.w
+w.w...w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 4.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+243.32
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+...w.w.w
+w.w.B.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 b4] in 9.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+260.08
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.w.w.w.w
+w...B.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J a5 c3J c3 e1] in 1.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+233.54
+.b...b..
+..b.b.b.
+.b.b.b.b
+........
+...w.w.w
+w...B.w.
+.w......
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b2 c3] in 10.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+258.47
+.b...b..
+..b.b.b.
+.b.b.b.b
+........
+...w.w.w
+w.w.B.w.
+........
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 2.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+223.31
+.b...b..
+..b.b.b.
+.b.b.b.b
+..B.....
+.....w.w
+w.w...w.
+........
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a1 b2] in 3.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+255.73
+.b...b..
+..b.b.b.
+.b.b.b.b
+..B.....
+.....w.w
+w.w...w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 a5] in 2.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+219.7
+.b...b..
+..b.b.b.
+...b.b.b
+b.B.....
+.....w.w
+w.w...w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 b4] in 8.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+252.76
+.b...b..
+..b.b.b.
+...b.b.b
+b.B.....
+.w...w.w
+w.....w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J a5 c3J c3 a1] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+210.71
+.b...b..
+..b.b.b.
+...b.b.b
+..B.....
+.....w.w
+w.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a3 b4] in 3.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+252.36
+.b...b..
+..b.b.b.
+...b.b.b
+..B.....
+.w...w.w
+......w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 a3] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+207.38
+.b...b..
+..b.b.b.
+...b.b.b
+........
+.....w.w
+B.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f4 e5] in 3.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+252.16
+.b...b..
+..b.b.b.
+...b.b.b
+....w...
+.......w
+B.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J f6 d4] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+203.99
+.b...b..
+..b.b.b.
+...b...b
+........
+...b...w
+B.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g3 f4] in 5.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+251.94
+.b...b..
+..b.b.b.
+...b...b
+........
+...b.w.w
+B.......
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a3 b2] in 3.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+198.95
+.b...b..
+..b.b.b.
+...b...b
+........
+...b.w.w
+........
+.B......
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h4 g5] in 3.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+248.55
+.b...b..
+..b.b.b.
+...b...b
+......w.
+...b.w..
+........
+.B......
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b2 c1] in 0.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+195.82
+.b...b..
+..b.b.b.
+...b...b
+......w.
+...b.w..
+........
+........
+B.B.B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f4 e5] in 3.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+247.63
+.b...b..
+..b.b.b.
+...b...b
+....w.w.
+...b....
+........
+........
+B.B.B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J h6 f4] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+192.38
+.b...b..
+..b.b.b.
+...b....
+....w...
+...b.b..
+........
+........
+B.B.B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 f6] in 3.82s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+247.46
+.b...b..
+..b.b.b.
+...b.w..
+........
+...b.b..
+........
+........
+B.B.B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J g7 e5] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+##### GAME OVER: tuningti wins the game! #####
+Server said: WIN
+########## ROUND 10 GAMESCORE AFTER GAME 2: namba=0 and tuningti=2 ##########
+#################### ROUND 10: namba (B) vs tuningti (W): game 3 ####################
+##### game start! #####
+INPUT for namba:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h6 g5] in 3.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g3 h4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+296.08
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g5 f4] in 16.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+299.79
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....b.w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 g5] in 2.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+279.61
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f6 e5] in 3.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+297.32
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g5 h6] in 2.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+275.85
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....b...
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 4.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+294.39
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+...b...w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c3 e5] in 2.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+271.11
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....w...
+.......w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J d6 f4] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+292.35
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....b.w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 2.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+271.03
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....b.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f4 g3] in 8.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+289.6
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.......w
+w...w.b.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J h2 f4] in 3.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+262.82
+.b.b.b.b
+b.b.b.b.
+.b.....w
+........
+.....w.w
+w...w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b6 a5] in 3.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+285.75
+.b.b.b.b
+b.b.b.b.
+.......w
+b.......
+.....w.w
+w...w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a3 b4] in 4.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+259.54
+.b.b.b.b
+b.b.b.b.
+.......w
+b.......
+.w...w.w
+....w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J a5 c3] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+281.42
+.b.b.b.b
+b.b.b.b.
+.......w
+........
+.....w.w
+..b.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J d2 b4] in 4.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+259.46
+.b.b.b.b
+b.b.b.b.
+.......w
+........
+.w...w.w
+....w...
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g7 f6] in 3.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+276.91
+.b.b.b.b
+b.b.b...
+.....b.w
+........
+.w...w.w
+....w...
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b2 a3] in 6.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+255.78
+.b.b.b.b
+b.b.b...
+.....b.w
+........
+.w...w.w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f6 e5] in 9.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+270.13
+.b.b.b.b
+b.b.b...
+.......w
+....b...
+.w...w.w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J f4 d6] in 2.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+246.67
+.b.b.b.b
+b.b.b...
+...w...w
+........
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J c7 e5] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+268.01
+.b.b.b.b
+b...b...
+.......w
+....b...
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g1 f2] in 5.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+246.58
+.b.b.b.b
+b...b...
+.......w
+....b...
+.w.....w
+w...w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 8.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+262.04
+.b.b.b.b
+b...b...
+.......w
+........
+.w.b...w
+w...w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 3.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+238.36
+.b.b.b.b
+b...b...
+.......w
+..w.....
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e7 d6] in 5.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+258.89
+.b.b.b.b
+b.......
+...b...w
+..w.....
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 e7] in 2.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+232.92
+.b.b.b.b
+b...w...
+.......w
+........
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J f8 d6] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+255.9
+.b.b...b
+b.......
+...b...w
+........
+.w.....w
+w.......
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 6.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+232.84
+.b.b...b
+b.......
+...b...w
+........
+.w.....w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d6 c5] in 6.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+249.76
+.b.b...b
+b.......
+.......w
+..b.....
+.w.....w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J b4 d6] in 3.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+226.8
+.b.b...b
+b.......
+...w...w
+........
+.......w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a7 b6] in 4.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+246.59
+.b.b...b
+........
+.b.w...w
+........
+.......w
+w...w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a3 b4] in 4.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+222.38
+.b.b...b
+........
+.b.w...w
+........
+.w.....w
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b6 a5] in 5.86s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+242.17
+.b.b...b
+........
+...w...w
+b.......
+.w.....w
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E h4 g5] in 3.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+216.52
+.b.b...b
+........
+...w...w
+b.....w.
+.w......
+....w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J a5 c3] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+238.47
+.b.b...b
+........
+...w...w
+......w.
+........
+..b.w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g5 f6] in 3.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+216.44
+.b.b...b
+........
+...w.w.w
+........
+........
+..b.w...
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 d2] in 3.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+234.93
+.b.b...b
+........
+...w.w.w
+........
+........
+....w...
+...b....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e1 c3] in 2.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+212.89
+.b.b...b
+........
+...w.w.w
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h8 g7] in 3.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+232.78
+.b.b....
+......b.
+...w.w.w
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J h6 f8] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+209.78
+.b.b.W..
+........
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d8 c7] in 3.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+232.48
+.b...W..
+..b.....
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f8 e7] in 3.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+206.46
+.b......
+..b.W...
+...w.w..
+........
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J c7 e5] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+229.28
+.b......
+....W...
+.....w..
+....b...
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E e7 d8] in 3.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+206.37
+.b.W....
+........
+.....w..
+....b...
+........
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e5 d4] in 2.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+225.59
+.b.W....
+........
+.....w..
+........
+...b....
+..w.w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+203.54
+.b.W....
+........
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b8 a7] in 4.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+225.42
+...W....
+b.......
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E d8 c7] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+BLACK
+198.62
+........
+b.W.....
+.....w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a7 b6] in 1.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+WHITE
+225.23
+........
+..W.....
+.b...w..
+..w.....
+........
+..w.....
+........
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 a7] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+##### GAME OVER: tuningti wins the game! #####
+Server said: WIN
+########## ROUND 10 GAMESCORE AFTER GAME 3: namba=0 and tuningti=3 ##########
+#################### ROUND 10: namba (W) vs tuningti (B): game 4 ####################
+##### game start! #####
+INPUT for tuningti:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f6 e5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g3 f4] in 6.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+299.8
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e5 g3] in 2.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+293.34
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [J h2 f4] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+297.41
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 a5] in 4.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+293.24
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.......
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g1 h2] in 6.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+293.22
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g7 f6] in 3.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+287.02
+.b.b.b.b
+b.b.b...
+...b.b.b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h2 g3] in 6.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+289.88
+.b.b.b.b
+b.b.b...
+...b.b.b
+b.......
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E h8 g7] in 4.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+280.21
+.b.b.b..
+b.b.b.b.
+...b.b.b
+b.......
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E g3 h4] in 6.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+285.7
+.b.b.b..
+b.b.b.b.
+...b.b.b
+b.......
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E c7 b6] in 3.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+274.16
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f2 g3] in 4.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+282.28
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 c5] in 3.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+269.62
+.b.b.b..
+b...b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e1 f2] in 3.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+278.84
+.b.b.b..
+b...b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E a7 b6] in 3.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+265.67
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e3 d4] in 3.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+275.6
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.b.....
+...w.w.w
+w.w...w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 e3J e3 g1] in 3.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+261.86
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w...w.
+.w.w....
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E d2 e3] in 6.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+271.87
+.b.b.b..
+....b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E d8 c7] in 4.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+255.76
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c1 d2] in 4.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+267.67
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w....
+w.....B.
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E g1 f2] in 3.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+251.28
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.w.w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E e3 d4] in 7.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+263.84
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+...w.w.w
+w.w...w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E f2 e3] in 3.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+243.38
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+...w.w.w
+w.w.B.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 b4] in 8.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+259.94
+.b...b..
+..b.b.b.
+.b.b.b.b
+b.......
+.w.w.w.w
+w...B.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J a5 c3J c3 e1] in 1.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+234.58
+.b...b..
+..b.b.b.
+.b.b.b.b
+........
+...w.w.w
+w...B.w.
+.w......
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E b2 c3] in 9.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+258.39
+.b...b..
+..b.b.b.
+.b.b.b.b
+........
+...w.w.w
+w.w.B.w.
+........
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J e3 c5] in 1.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+225.15
+.b...b..
+..b.b.b.
+.b.b.b.b
+..B.....
+.....w.w
+w.w...w.
+........
+w...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a1 b2] in 3.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+256.54
+.b...b..
+..b.b.b.
+.b.b.b.b
+..B.....
+.....w.w
+w.w...w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [E b6 a5] in 2.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+222.01
+.b...b..
+..b.b.b.
+...b.b.b
+b.B.....
+.....w.w
+w.w...w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E c3 b4] in 7.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+253.69
+.b...b..
+..b.b.b.
+...b.b.b
+b.B.....
+.w...w.w
+w.....w.
+.w......
+....B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J a5 c3J c3 a1] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+214.44
+.b...b..
+..b.b.b.
+...b.b.b
+..B.....
+.....w.w
+w.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E a3 b4] in 3.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+253.26
+.b...b..
+..b.b.b.
+...b.b.b
+..B.....
+.w...w.w
+......w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J c5 a3] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+210.75
+.b...b..
+..b.b.b.
+...b.b.b
+........
+.....w.w
+B.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E h4 g5] in 5.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+253.04
+.b...b..
+..b.b.b.
+...b.b.b
+......w.
+.....w..
+B.....w.
+........
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J f6 h4J h4 f2] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for namba:
+GAME
+WHITE
+205.28
+.b...b..
+..b.b.b.
+...b...b
+........
+.....w..
+B.......
+.....b..
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on namba #####
+##### namba plays [E f4 e5] in 2.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+INPUT for tuningti:
+GAME
+BLACK
+252.85
+.b...b..
+..b.b.b.
+...b...b
+....w...
+........
+B.......
+.....b..
+B...B...
+##### Running: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### SUCCESS: /usr/bin/time -o time_10_namba_tuningti.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on tuningti #####
+##### tuningti plays [J d6 f4] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_10_namba_tuningti #####
+##### GAME OVER: tuningti wins the game! #####
+Server said: WIN
+########## ROUND 10 GAMESCORE AFTER GAME 4: namba=0 and tuningti=4 ##########
+
+
+########## GRAND WINNER ROUND 10 IS tuningti BY 4 vs 0 GAMESCORE ##########

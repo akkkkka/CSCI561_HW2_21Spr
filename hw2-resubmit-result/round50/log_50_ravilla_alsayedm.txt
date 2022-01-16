@@ -1,0 +1,1156 @@
+#################### ROUND 50: ravilla (B) vs alsayedm (W): game 1 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.0144519805908203s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  1324958 1324960 1324962
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 50 GAMESCORE AFTER GAME 1: ravilla=1 and alsayedm=0 ##########
+#################### ROUND 50: ravilla (W) vs alsayedm (B): game 2 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 64.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.0166831016540527s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+235.3
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 43.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.983316898346
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b4 a5] in 0.0116069316864014s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+191.36
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b8 a7] in 28.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.97170996666
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E e3 d4] in 0.0121841430664062s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+162.39
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+...w....
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 6.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.959525823593
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+........
+w...b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J d2 f4] in 0.0112900733947754s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+156
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+.....w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 37.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.948235750198
+...b.b.b
+b.b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b2 c3] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+118.21
+...b.b.b
+b.b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.w...w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 28.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.938235750198
+...b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+.....w..
+w.w...w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.0151169300079346s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+89.65
+...b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+.w...w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 10.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.92311882019
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.b...
+.w...w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g3 h4] in 0.0117368698120117s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+78.77
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.b...
+.w...w.w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 g3] in 3.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.911381950378
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.....
+.w.....w
+w.....b.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J h2 f4] in 0.00901198387145996s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+75.32
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.....
+.w...w.w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E h6 g5] in 21.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.902369966507
+...b.b.b
+..b.b.b.
+.b.b....
+w.b...b.
+.w...w.w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J f4 h6] in 0.00983309745788574s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+53.59
+...b.b.b
+..b.b.b.
+.b.b...w
+w.b.....
+.w.....w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 29.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.892536869049
+...b.b.b
+..b.b...
+.b.b.b.w
+w.b.....
+.w.....w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f2 e3] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+23.83
+...b.b.b
+..b.b...
+.b.b.b.w
+w.b.....
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  1324958 2320149 2320152 2320153
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 50 GAMESCORE AFTER GAME 2: ravilla=2 and alsayedm=0 ##########
+#################### ROUND 50: ravilla (B) vs alsayedm (W): game 3 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.0151939392089844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 211.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+BLACK
+299.984806060791
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E a7 b6] in 0.0116109848022461s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+88.43
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  1324958 2320149 2406783 2406784 2406785
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 50 GAMESCORE AFTER GAME 3: ravilla=3 and alsayedm=0 ##########
+#################### ROUND 50: ravilla (W) vs alsayedm (B): game 4 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 44.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.0134201049804688s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+255.64
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 34.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.98657989502
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b4 a5] in 0.0116760730743408s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+221.37
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b8 a7] in 24.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.974903821945
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E e3 d4] in 0.0120089054107666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+196.64
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+...w....
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 5.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.962894916534
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+........
+w...b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J d2 f4] in 0.00994491577148438s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+191.27
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+.....w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 33.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.952950000763
+...b.b.b
+b.b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b2 c3] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+157.92
+...b.b.b
+b.b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.w...w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 23.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.942950000763
+...b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+.....w..
+w.w...w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.0131230354309082s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+134.19
+...b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+.w...w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 8.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.929826965332
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.b...
+.w...w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g3 h4] in 0.0102767944335938s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+125.53
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.b...
+.w...w.w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 g3] in 2.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.919550170898
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.....
+.w.....w
+w.....b.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J h2 f4] in 0.00784206390380859s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+122.58
+...b.b.b
+..b.b.b.
+.b.b...b
+w.b.....
+.w...w.w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E h6 g5] in 18.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.911708106995
+...b.b.b
+..b.b.b.
+.b.b....
+w.b...b.
+.w...w.w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J f4 h6] in 0.00902390480041504s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+103.74
+...b.b.b
+..b.b.b.
+.b.b...w
+w.b.....
+.w.....w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 27.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.902684202194
+...b.b.b
+..b.b...
+.b.b.b.w
+w.b.....
+.w.....w
+w.......
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f2 e3] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+76.2
+...b.b.b
+..b.b...
+.b.b.b.w
+w.b.....
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E h8 g7] in 37.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.892684202194
+...b.b..
+..b.b.b.
+.b.b.b.w
+w.b.....
+.w.....w
+w...w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E e3 f4] in 0.0140421390533447s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+39.15
+...b.b..
+..b.b.b.
+.b.b.b.w
+w.b.....
+.w...w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 12.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.878642063141
+...b.b..
+..b.b.b.
+.b.b...w
+w.b.b...
+.w...w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g1 h2] in 0.010828971862793s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+26.74
+...b.b..
+..b.b.b.
+.b.b...w
+w.b.b...
+.w...w.w
+w.......
+.......w
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 g3] in 4.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.867813091278
+...b.b..
+..b.b.b.
+.b.b...w
+w.b.....
+.w.....w
+w.....b.
+.......w
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J h2 f4] in 0.00800514221191406s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+22.31
+...b.b..
+..b.b.b.
+.b.b...w
+w.b.....
+.w...w.w
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 13.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.859807949066
+...b.b..
+..b.b...
+.b.b.b.w
+w.b.....
+.w...w.w
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E h4 g5] in 0.0121390819549561s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+8.36999999999999
+...b.b..
+..b.b...
+.b.b.b.w
+w.b...w.
+.w...w..
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f6 h4] in 1.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.847668867111
+...b.b..
+..b.b...
+.b.b...w
+w.b.....
+.w...w.b
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f4 e5] in 0.0112428665161133s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+7.15999999999999
+...b.b..
+..b.b...
+.b.b...w
+w.b.w...
+.w.....b
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J d6 f4] in 4.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.836426000595
+...b.b..
+..b.b...
+.b.....w
+w.b.....
+.w...b.b
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J b4 d6 ; J d6 b8] in 0.0081031322479248s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+3.00999999999999
+.W.b.b..
+....b...
+.b.....w
+w.......
+.....b.b
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E e7 f6] in 5.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for ravilla:
+GAME
+WHITE
+299.828322868347
+.W.b.b..
+........
+.b...b.w
+w.......
+.....b.b
+w.......
+........
+w.w.w...
+##### Running: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_alsayedm.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J a5 c7] in 0.00796103477478027s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+-2.11000000000001
+.W.b.b..
+..w.....
+.....b.w
+........
+.....b.b
+w.......
+........
+w.w.w...
+Not running alsayedm because of negative remaining time -- passing illegal move instead
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_alsayedm #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: alsayedm loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 4: ravilla=4 and alsayedm=0 ##########
+
+
+########## GRAND WINNER ROUND 50 IS ravilla BY 4 vs 0 GAMESCORE ##########

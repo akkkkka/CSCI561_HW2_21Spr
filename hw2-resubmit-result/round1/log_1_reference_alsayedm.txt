@@ -1,0 +1,1774 @@
+#################### ROUND 1: reference (W) vs alsayedm (B): game 1 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 82.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e3 d4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+217.29
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 20.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.64
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 f4] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+197.11
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 71.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.23
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+125.93
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+...w.w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 c3] in 4.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.89
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.....w..
+w.b...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+121.41
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 47.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.51
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f4 e5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+73.83
+.b.b.b.b
+..b.b.b.
+.b.b...b
+....w...
+...w....
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J d6 f4] in 10.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.15
+.b.b.b.b
+..b.b.b.
+.b.....b
+........
+...w.b..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J g3 e5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+63.56
+.b.b.b.b
+..b.b.b.
+.b.....b
+....w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  3535537 3535605 3535651
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 1: reference=1 and alsayedm=0 ##########
+#################### ROUND 1: reference (B) vs alsayedm (W): game 2 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h6 g5] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  3535537 3763810 3763813 3763815
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 2: reference=2 and alsayedm=0 ##########
+#################### ROUND 1: reference (W) vs alsayedm (B): game 3 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 80.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e3 d4] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+219.3
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 18.82s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.69
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 f4] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+200.48
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 62.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.31
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 h4] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+137.98
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w.w
+w.w.....
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 g3] in 14.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.04
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.......w
+w.w...b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J h2 f4] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+123.63
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.....w.w
+w.w.....
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  715630 715633 715636 3535537 3763810
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 3: reference=3 and alsayedm=0 ##########
+#################### ROUND 1: reference (B) vs alsayedm (W): game 4 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 149.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.69
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 e5] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+150.65
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f4 d6] in 12.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.41
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+..b.....
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c7 e5] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+137.8
+.b.b.b.b
+b...b.b.
+.....b.b
+..b.b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E c3 b4] in 92.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.19
+.b.b.b.b
+b...b.b.
+.....b.b
+..b.b...
+.w......
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e7 d6] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+45.55
+.b.b.b.b
+b.....b.
+...b.b.b
+..b.b...
+.w......
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  715630 1114640 1114646 1114647 3535537 3763810
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 4: reference=4 and alsayedm=0 ##########
+#################### ROUND 1: reference (W) vs alsayedm (B): game 5 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 47.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e3 d4] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+252.02
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 11.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 f4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+240.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 43.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.43
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+197.83
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+...w.w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 c3] in 2.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.22
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.....w..
+w.b...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+195.05
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 27.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.01
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f4 e5] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+167.88
+.b.b.b.b
+..b.b.b.
+.b.b...b
+....w...
+...w....
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J d6 f4] in 5.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.76
+.b.b.b.b
+..b.b.b.
+.b.....b
+........
+...w.b..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J g3 e5] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+161.93
+.b.b.b.b
+..b.b.b.
+.b.....b
+....w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 a5] in 113.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.55
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E a1 b2] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+48.29
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w.......
+.w...w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b8 a7] in 53.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.36
+...b.b.b
+b.b.b.b.
+.......b
+b...w...
+...w....
+w.......
+.w...w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h2 g3] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+-5.60999999999999
+...b.b.b
+b.b.b.b.
+.......b
+b...w...
+...w....
+w.....w.
+.w...w..
+..w.w.w.
+Not running alsayedm because of negative remaining time -- passing illegal move instead
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: alsayedm loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 5: reference=5 and alsayedm=0 ##########
+#################### ROUND 1: reference (B) vs alsayedm (W): game 6 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h6 g5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 218.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.77
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g5 h4] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+81.9
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  715630 1114640 1361777 1361778 1361779 3535537 3763810
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 6: reference=6 and alsayedm=0 ##########
+#################### ROUND 1: reference (W) vs alsayedm (B): game 7 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 45.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e3 d4] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+254.25
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 10.86s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.8
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 f4] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+243.39
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 39.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.56
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+203.43
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+...w.w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 c3] in 2.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.28
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.....w..
+w.b...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+200.77
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 25.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.08
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f4 e5] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+174.79
+.b.b.b.b
+..b.b.b.
+.b.b...b
+....w...
+...w....
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J d6 f4] in 5.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.82
+.b.b.b.b
+..b.b.b.
+.b.....b
+........
+...w.b..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J g3 e5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+168.99
+.b.b.b.b
+..b.b.b.
+.b.....b
+....w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 a5] in 106.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.62
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h2 g3] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+62.43
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w.....w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  715630 1114640 1361777 1419244 1419245 1419246 3535537 3763810
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 7: reference=7 and alsayedm=0 ##########
+#################### ROUND 1: reference (B) vs alsayedm (W): game 8 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 122.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.78
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 e5] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+177.3
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f4 d6] in 10.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.54
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+..b.....
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c7 e5] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+166.75
+.b.b.b.b
+b...b.b.
+.....b.b
+..b.b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E c3 b4] in 80.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+BLACK
+299.36
+.b.b.b.b
+b...b.b.
+.....b.b
+..b.b...
+.w......
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e7 d6] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+WHITE
+85.97
+.b.b.b.b
+b.....b.
+...b.b.b
+..b.b...
+.w......
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+kill -9  715630 1114640 1361777 1419244 1439892 1439893 1439894 3535537 3763810
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 1 GAMESCORE AFTER GAME 8: reference=8 and alsayedm=0 ##########
+#################### ROUND 1: reference (W) vs alsayedm (B): game 9 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 45.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e3 d4] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+254.83
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 e3] in 10.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.76
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 f4] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+244.07
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 35.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.52
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+208.41
+.b.b.b.b
+b.b.b.b.
+...b...b
+....b...
+...w.w..
+w.....w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 c3] in 2.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.31
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+.....w..
+w.b...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+206.14
+.b.b.b.b
+b.b.b.b.
+...b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 25.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+299.09
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...w.w..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f4 e5] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+180.65
+.b.b.b.b
+..b.b.b.
+.b.b...b
+....w...
+...w....
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J d6 f4] in 5.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.85
+.b.b.b.b
+..b.b.b.
+.b.....b
+........
+...w.b..
+w.....w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J g3 e5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+175.55
+.b.b.b.b
+..b.b.b.
+.b.....b
+....w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 a5] in 96.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.65
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f2 e3] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+78.63
+.b.b.b.b
+..b.b.b.
+.......b
+b...w...
+...w....
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E c7 b6] in 85.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for reference:
+GAME
+WHITE
+298.44
+.b.b.b.b
+....b.b.
+.b.....b
+b...w...
+...w....
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_alsayedm.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g1 f2] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+INPUT for alsayedm:
+GAME
+BLACK
+-6.82000000000002
+.b.b.b.b
+....b.b.
+.b.....b
+b...w...
+...w....
+w...w...
+.....w.w
+w.w.w...
+Not running alsayedm because of negative remaining time -- passing illegal move instead
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_alsayedm #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: alsayedm loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 9: reference=9 and alsayedm=0 ##########
+
+
+########## GRAND WINNER ROUND 1 IS reference BY 9 vs 0 GAMESCORE ##########

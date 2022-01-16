@@ -1,0 +1,232 @@
+##### Single move 1 start! #####
+INPUT for diwen:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E h6 g5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 2 start! #####
+INPUT for diwen:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [J f4 h6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 3 start! #####
+INPUT for diwen:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [J a3 c3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### GAME OVER: diwen loses because of illegal move [J a3 c3] #####
+Server said: FAIL
+##### Single move 4 start! #####
+INPUT for diwen:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E c1 d2] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 5 start! #####
+INPUT for diwen:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E g1 f2] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 6 start! #####
+INPUT for diwen:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E h4 g3] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 7 start! #####
+INPUT for diwen:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E g7 h8] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 8 start! #####
+INPUT for diwen:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E g7 h8] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### GAME OVER: diwen loses because of illegal move [E g7 h8] #####
+Server said: FAIL
+##### Single move 9 start! #####
+INPUT for diwen:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [J g5 e3 ; J e3 g1] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### CONGRATULATIONS: diwen receives 1 point #####
+##### Single move 10 start! #####
+INPUT for diwen:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### SUCCESS: /usr/bin/time -o time_single_diwen.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on diwen #####
+##### diwen plays [E d4 c5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_diwen #####
+##### GAME OVER: diwen loses because of illegal move [E d4 c5] #####
+Server said: FAIL
+
+
+########## Total score: 7 ##########

@@ -1,0 +1,195 @@
+#################### ROUND 2: mohithra (B) vs tejaswin (W): game 1 ####################
+##### game start! #####
+INPUT for mohithra:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 717, in <module>
+    bot = Bot(player_game, playerColor)
+  File "homework.py", line 258, in __init__
+    cal_depth  = self.get_calibrated(self.game.remaining_time)
+  File "homework.py", line 266, in get_calibrated
+    f = open("calibrate.txt","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'calibrate.txt'
+##### End of output of failed program #####
+##### mohithra plays [No Move] in 0.464739084243774s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: mohithra loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: mohithra=0 and tejaswin=1 ##########
+#################### ROUND 2: mohithra (W) vs tejaswin (B): game 2 ####################
+##### game start! #####
+INPUT for tejaswin:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on tejaswin #####
+##### SUCCESS: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on tejaswin #####
+##### tejaswin plays [E f6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+INPUT for mohithra:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 717, in <module>
+    bot = Bot(player_game, playerColor)
+  File "homework.py", line 258, in __init__
+    cal_depth  = self.get_calibrated(self.game.remaining_time)
+  File "homework.py", line 266, in get_calibrated
+    f = open("calibrate.txt","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'calibrate.txt'
+##### End of output of failed program #####
+##### mohithra plays [No Move] in 0.444635152816772s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: mohithra loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: mohithra=0 and tejaswin=2 ##########
+#################### ROUND 2: mohithra (B) vs tejaswin (W): game 3 ####################
+##### game start! #####
+INPUT for mohithra:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 717, in <module>
+    bot = Bot(player_game, playerColor)
+  File "homework.py", line 258, in __init__
+    cal_depth  = self.get_calibrated(self.game.remaining_time)
+  File "homework.py", line 266, in get_calibrated
+    f = open("calibrate.txt","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'calibrate.txt'
+##### End of output of failed program #####
+##### mohithra plays [No Move] in 0.33281683921814s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: mohithra loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: mohithra=0 and tejaswin=3 ##########
+#################### ROUND 2: mohithra (W) vs tejaswin (B): game 4 ####################
+##### game start! #####
+INPUT for tejaswin:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on tejaswin #####
+##### SUCCESS: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on tejaswin #####
+##### tejaswin plays [E f6 e5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+INPUT for mohithra:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_mohithra_tejaswin.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mohithra #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 717, in <module>
+    bot = Bot(player_game, playerColor)
+  File "homework.py", line 258, in __init__
+    cal_depth  = self.get_calibrated(self.game.remaining_time)
+  File "homework.py", line 266, in get_calibrated
+    f = open("calibrate.txt","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'calibrate.txt'
+##### End of output of failed program #####
+##### mohithra plays [No Move] in 0.380854845046997s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_mohithra_tejaswin #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: mohithra loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: mohithra=0 and tejaswin=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS tejaswin BY 4 vs 0 GAMESCORE ##########

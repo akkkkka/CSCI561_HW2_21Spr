@@ -1,0 +1,237 @@
+##### Single move 1 start! #####
+INPUT for wanrongz:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E b6 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 2 start! #####
+INPUT for wanrongz:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E f4 g3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### GAME OVER: wanrongz loses because of illegal move [E f4 g3] #####
+Server said: FAIL
+##### Single move 3 start! #####
+INPUT for wanrongz:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E f8 g7] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### GAME OVER: wanrongz loses because of illegal move [E f8 g7] #####
+Server said: FAIL
+##### Single move 4 start! #####
+INPUT for wanrongz:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E b4 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 5 start! #####
+INPUT for wanrongz:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E d4 e5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 6 start! #####
+INPUT for wanrongz:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E d6 e5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 7 start! #####
+INPUT for wanrongz:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [E g7 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 8 start! #####
+INPUT for wanrongz:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [J g7 e5 ; J e5 g3] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 9 start! #####
+INPUT for wanrongz:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [J g5 e3 ; J e3 g1] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+##### Single move 10 start! #####
+INPUT for wanrongz:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### SUCCESS: /usr/bin/time -o time_single_wanrongz.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on wanrongz #####
+##### wanrongz plays [J e5 g3 ; J g3 e1] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_wanrongz #####
+##### CONGRATULATIONS: wanrongz receives 1 point #####
+
+
+########## Total score: 8 ##########

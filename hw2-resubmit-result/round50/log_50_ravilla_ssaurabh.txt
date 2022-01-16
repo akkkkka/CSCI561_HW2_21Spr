@@ -1,0 +1,331 @@
+#################### ROUND 50: ravilla (W) vs ssaurabh (B): game 1 ####################
+##### game start! #####
+INPUT for ssaurabh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E f6 g5] in 3.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E a3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+BLACK
+296.01
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '296.01'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.25089693069458s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 1: ravilla=1 and ssaurabh=0 ##########
+#################### ROUND 50: ravilla (B) vs ssaurabh (W): game 2 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E e3 f4] in 1.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ravilla:
+GAME
+BLACK
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E a7 b6] in 0.0111751556396484s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+298.36
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '298.36'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.323185920715332s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 2: ravilla=2 and ssaurabh=0 ##########
+#################### ROUND 50: ravilla (W) vs ssaurabh (B): game 3 ####################
+##### game start! #####
+INPUT for ssaurabh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E f6 g5] in 4.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E a3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+BLACK
+295.95
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '295.95'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.369702100753784s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 3: ravilla=3 and ssaurabh=0 ##########
+#################### ROUND 50: ravilla (B) vs ssaurabh (W): game 4 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.0168609619140625s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E c3 d4] in 1.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ravilla:
+GAME
+BLACK
+299.983139038086
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E d6 c5] in 0.00993895530700684s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+298.34
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b.b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '298.34'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.320215940475464s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 4: ravilla=4 and ssaurabh=0 ##########
+
+
+########## GRAND WINNER ROUND 50 IS ravilla BY 4 vs 0 GAMESCORE ##########

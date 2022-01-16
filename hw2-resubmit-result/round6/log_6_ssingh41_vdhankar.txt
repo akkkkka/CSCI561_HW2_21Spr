@@ -1,0 +1,4053 @@
+#################### ROUND 6: ssingh41 (B) vs vdhankar (W): game 1 ####################
+##### game start! #####
+INPUT for ssingh41:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E h6 g5] in 3.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 18.3401279449463s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+296.28
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f6 e5] in 3.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+281.659872055054
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 2.64106702804565s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+292.34
+.b.b.b.b
+b.b.b.b.
+.b.b.w..
+....b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e7 g5] in 1.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+279.018805027008
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 24.7480428218842s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+291.18
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g5 f4] in 6.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+254.270762205124
+.b.b.b.b
+b.b...b.
+.b.b....
+....b...
+.....b..
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 g5] in 8.30783915519714s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+284.83
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.w.
+........
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d6 c5] in 2.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+245.962923049927
+.b.b.b.b
+b.b...b.
+.b......
+..b.b.w.
+........
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 17.1074869632721s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+282.44
+.b.b.b.b
+b.b...b.
+.b......
+..b.b.w.
+........
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c7 d6] in 5.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+228.855436086655
+.b.b.b.b
+b.....b.
+.b.b....
+..b.b.w.
+........
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 34.7131910324097s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+277.34
+.b.b.b.b
+b.....b.
+.b.b....
+..b.b.w.
+.....w..
+w.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e5 g3] in 0.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+194.142245054245
+.b.b.b.b
+b.....b.
+.b.b....
+..b...w.
+........
+w.w...b.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 12.4022150039673s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+276.5
+.b.b.b.b
+b.....b.
+.b.b....
+..b...w.
+.....w..
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d6 e5] in 5.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+181.740030050278
+.b.b.b.b
+b.....b.
+.b......
+..b.b.w.
+.....w..
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 d6] in 2.98642778396606s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+271.48
+.b.b.b.b
+b.....b.
+.b.w....
+..b...w.
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g7 f6] in 2.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+178.753602266312
+.b.b.b.b
+b.......
+.b.w.b..
+..b...w.
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e7] in 2.13485312461853s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+269.44
+.b.b.b.b
+b...w...
+.b.w....
+..b.....
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J d8 f6] in 0.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+176.618749141693
+.b...b.b
+b.......
+.b.w.b..
+..b.....
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 20.9718971252441s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+268.57
+.b...b.b
+b.......
+.b.w.b..
+..b.....
+........
+w.w.w...
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c5 d4] in 3.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+155.646852016449
+.b...b.b
+b.......
+.b.w.b..
+........
+...b....
+w.w.w...
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 c5] in 6.01938199996948s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265.44
+.b...b.b
+b.......
+.b.w.b..
+..w.....
+........
+w.w.....
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J b6 d4] in 0.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+149.627470016479
+.b...b.b
+b.......
+...w.b..
+........
+...b....
+w.w.....
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c3 e5 ; J e5 g7] in 3.87099194526672s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265.29
+.b...b.b
+b.....w.
+...w....
+........
+........
+w.......
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J h8 f6] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+145.756478071213
+.b...b..
+b.......
+...w.b..
+........
+........
+w.......
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 30.1310119628906s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265
+.b...b..
+b.......
+...w.b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b8 c7] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+115.625466108322
+.....b..
+b.b.....
+...w.b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b8] in 4.58159494400024s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+264.63
+.W...b..
+b.......
+.....b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f6 g5] in 0.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+111.043871164322
+.W...b..
+b.......
+........
+......b.
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 15.3954291343689s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+264.08
+.W...b..
+b.......
+........
+......b.
+........
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g5 f4] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+95.648442029953
+.W...b..
+b.......
+........
+........
+.....b..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5] in 1.14373397827148s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+263.67
+.W...b..
+b.......
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f8 g7] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+94.5047080516815
+.W......
+b.....b.
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b8 c7] in 3.32683610916138s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+263.38
+........
+b.W...b.
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g7 f6] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+91.1778719425201
+........
+b.W.....
+.....b..
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 g7] in 0.621936082839966s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+263.29
+........
+b.W...w.
+........
+........
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+90.5559358596802
+........
+..W...w.
+.b......
+........
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 a5] in 0.337892055511475s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 1: ssingh41=0 and vdhankar=1 ##########
+#################### ROUND 6: ssingh41 (W) vs vdhankar (B): game 2 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 13.4116489887238s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g3 f4] in 2.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+286.588351011276
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 9.2209358215332s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+297.23
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f4 e5] in 4.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+277.367415189743
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+....w...
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d4] in 2.80029892921448s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+293.12
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+...b...b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e3 c5] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+274.567116260529
+.b.b.b.b
+b.b.b.b.
+.b.b....
+..w.....
+.......b
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 1.1462550163269s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+292.88
+.b.b.b.b
+b.b.b.b.
+...b....
+........
+...b...b
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J c3 e5] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+273.420861244202
+.b.b.b.b
+b.b.b.b.
+...b....
+....w...
+.......b
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 f4] in 12.6774170398712s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+292.51
+.b.b.b.b
+b.b.b.b.
+........
+........
+.....b.b
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 3.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+260.74344420433
+.b.b.b.b
+b.b.b.b.
+........
+........
+.w...b.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d6] in 75.833459854126s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+288.78
+.b.b.b.b
+b.b...b.
+...b....
+........
+.w...b.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b2 a3] in 3.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+184.909984350204
+.b.b.b.b
+b.b...b.
+...b....
+........
+.w...b.b
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 37.6717238426208s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+285.45
+.b.b.b.b
+b.b.....
+...b...b
+........
+.w...b.b
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c1 b2] in 4.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+147.238260507584
+.b.b.b.b
+b.b.....
+...b...b
+........
+.w...b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 37.9662501811981s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+280.76
+.b.b.b.b
+b.b.....
+.......b
+....b...
+.w...b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 a5] in 5.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+109.272010326385
+.b.b.b.b
+b.b.....
+.......b
+w...b...
+.....b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 27.2124180793762s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+274.86
+.b.b.b.b
+b.b.....
+........
+w...b.b.
+.....b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 5.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+82.0595922470093
+.b.b.b.b
+b.b.....
+........
+w...b.b.
+.w...b.b
+........
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 22.6065130233765s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+269.43
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w.b.b.b
+........
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f2 e3] in 9.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+59.4530792236328
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w.b.b.b
+....w...
+.w.w...w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 f2] in 3.35233092308044s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+260.14
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w...b.b
+........
+.w.w.b.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e1 g3 ; J g3 e5] in 2.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+56.1007483005524
+.b.b.b.b
+b.b.....
+........
+w...w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 16.0029439926147s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+257.49
+.b.b.b.b
+b.......
+.b......
+w...w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J a5 c7] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+40.0978043079376
+.b.b.b.b
+b.w.....
+........
+....w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b8 d6 ; J d6 f4] in 1.91761994361877s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+257.12
+...b.b.b
+b.......
+........
+......b.
+.w...b.b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g1 f2] in 2.82s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+38.1801843643188
+...b.b.b
+b.......
+........
+......b.
+.w...b.b
+........
+.w.w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a7 b6] in 13.9200918674469s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+254.3
+...b.b.b
+........
+.b......
+......b.
+.w...b.b
+........
+.w.w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b2 a3] in 0.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+24.2600924968719
+...b.b.b
+........
+.b......
+......b.
+.w...b.b
+w.......
+...w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 a5] in 0.581591844558716s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+253.38
+...b.b.b
+........
+........
+b.....b.
+.w...b.b
+w.......
+...w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d2 c3] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+23.6785006523132
+...b.b.b
+........
+........
+b.....b.
+.w...b.b
+w.w.....
+.....w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 0.676634073257446s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+252.89
+...b.b..
+......b.
+........
+b.....b.
+.w...b.b
+w.w.....
+.....w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a1 b2] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+23.0018665790558
+...b.b..
+......b.
+........
+b.....b.
+.w...b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 f6] in 0.569490909576416s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+252.24
+...b.b..
+........
+.....b..
+b.....b.
+.w...b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 c5] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+22.4323756694794
+...b.b..
+........
+.....b..
+b.w...b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 0.638067960739136s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+251.75
+...b.b..
+........
+........
+b.w.b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c5 b6] in 1.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.7943077087402
+...b.b..
+........
+.w......
+b...b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 g7] in 0.399677038192749s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+250.51
+...b....
+......b.
+.w......
+b...b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b6 c7] in 1.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.3946306705475
+...b....
+..w...b.
+........
+b...b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 b6] in 0.473114013671875s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+249.41
+........
+......b.
+.b......
+b...b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c3 d4] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.9215166568756
+........
+......b.
+.b......
+b...b.b.
+...w.b.b
+w.......
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 c3 ; J c3 a1] in 0.351726055145264s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+248.92
+........
+......b.
+.b......
+b.....b.
+.....b.b
+w.......
+.....w.w
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E h2 g3] in 0.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.5697906017303
+........
+......b.
+.b......
+b.....b.
+.....b.b
+w.....w.
+.....w..
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h2] in 0.429865121841431s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+248.77
+........
+......b.
+.b......
+b.....b.
+.......b
+w.......
+.....w.b
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f2 g3] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.1399254798889
+........
+......b.
+.b......
+b.....b.
+.......b
+w.....w.
+.......b
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 0.361902952194214s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+248.68
+........
+......b.
+.b......
+b.....b.
+........
+w.......
+.....b.b
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+19.7780225276947
+........
+......b.
+.b......
+b.....b.
+.w......
+........
+.....b.b
+B.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a5 c3] in 0.332311868667603s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 2: ssingh41=0 and vdhankar=2 ##########
+#################### ROUND 6: ssingh41 (B) vs vdhankar (W): game 3 ####################
+##### game start! #####
+INPUT for ssingh41:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E h6 g5] in 3.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 17.9979040622711s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+296.25
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f6 e5] in 4.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+282.002095937729
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 2.74428796768188s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+292.07
+.b.b.b.b
+b.b.b.b.
+.b.b.w..
+....b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e7 g5] in 1.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+279.257807970047
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 24.2310121059418s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+290.94
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g5 f4] in 6.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+255.026795864105
+.b.b.b.b
+b.b...b.
+.b.b....
+....b...
+.....b..
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 g5] in 7.51787281036377s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+284.75
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.w.
+........
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d6 c5] in 2.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+247.508923053741
+.b.b.b.b
+b.b...b.
+.b......
+..b.b.w.
+........
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 16.2957468032837s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+282.38
+.b.b.b.b
+b.b...b.
+.b......
+..b.b.w.
+........
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c7 d6] in 4.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+231.213176250458
+.b.b.b.b
+b.....b.
+.b.b....
+..b.b.w.
+........
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 30.2343230247498s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+277.62
+.b.b.b.b
+b.....b.
+.b.b....
+..b.b.w.
+.....w..
+w.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e5 g3] in 0.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+200.978853225708
+.b.b.b.b
+b.....b.
+.b.b....
+..b...w.
+........
+w.w...b.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 11.3160259723663s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+276.72
+.b.b.b.b
+b.....b.
+.b.b....
+..b...w.
+.....w..
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d6 e5] in 4.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+189.662827253342
+.b.b.b.b
+b.....b.
+.b......
+..b.b.w.
+.....w..
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 d6] in 2.62315392494202s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+271.97
+.b.b.b.b
+b.....b.
+.b.w....
+..b...w.
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g7 f6] in 1.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+187.0396733284
+.b.b.b.b
+b.......
+.b.w.b..
+..b...w.
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e7] in 2.08159303665161s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+270.32
+.b.b.b.b
+b...w...
+.b.w....
+..b.....
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J d8 f6] in 0.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+184.958080291748
+.b...b.b
+b.......
+.b.w.b..
+..b.....
+........
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 19.0532817840576s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+269.54
+.b...b.b
+b.......
+.b.w.b..
+..b.....
+........
+w.w.w...
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c5 d4] in 2.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+165.90479850769
+.b...b.b
+b.......
+.b.w.b..
+........
+...b....
+w.w.w...
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 c5] in 4.62716913223267s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+266.61
+.b...b.b
+b.......
+.b.w.b..
+..w.....
+........
+w.w.....
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J b6 d4] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+161.277629375458
+.b...b.b
+b.......
+...w.b..
+........
+...b....
+w.w.....
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c3 e5 ; J e5 g7] in 3.08836007118225s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+266.48
+.b...b.b
+b.....w.
+...w....
+........
+........
+w.......
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J h8 f6] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+158.189269304276
+.b...b..
+b.......
+...w.b..
+........
+........
+w.......
+.w...w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 25.0490019321442s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+266.22
+.b...b..
+b.......
+...w.b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b8 c7] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+133.140267372131
+.....b..
+b.b.....
+...w.b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b8] in 3.97936105728149s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265.83
+.W...b..
+b.......
+.....b..
+........
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f6 g5] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+129.16090631485
+.W...b..
+b.......
+........
+......b.
+........
+w.......
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 11.8003599643707s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265.39
+.W...b..
+b.......
+........
+......b.
+........
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g5 f4] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+117.360546350479
+.W...b..
+b.......
+........
+........
+.....b..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5] in 0.821484804153442s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+265.1
+.W...b..
+b.......
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f8 g7] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+116.539061546326
+.W......
+b.....b.
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b8 c7] in 2.36271381378174s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+264.93
+........
+b.W...b.
+........
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g7 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+114.176347732544
+........
+b.W.....
+.....b..
+....w...
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 g7] in 0.218356847763062s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+BLACK
+264.88
+........
+b.W...w.
+........
+........
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a7 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+113.957990884781
+........
+..W...w.
+.b......
+........
+........
+w.......
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 a5] in 0.338305950164795s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 3: ssingh41=0 and vdhankar=3 ##########
+#################### ROUND 6: ssingh41 (W) vs vdhankar (B): game 4 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 9.10494112968445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g3 f4] in 1.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+290.895058870316
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 5.76756286621094s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+298.24
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f4 e5] in 2.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+285.127496004105
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+....w...
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d4] in 2.25761699676514s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+295.49
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+...b...b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e3 c5] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+282.869879007339
+.b.b.b.b
+b.b.b.b.
+.b.b....
+..w.....
+.......b
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.991824865341187s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+295.32
+.b.b.b.b
+b.b.b.b.
+...b....
+........
+...b...b
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J c3 e5] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+281.878054141998
+.b.b.b.b
+b.b.b.b.
+...b....
+....w...
+.......b
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 f4] in 8.73027300834656s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+294.93
+.b.b.b.b
+b.b.b.b.
+........
+........
+.....b.b
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 3.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+273.147781133652
+.b.b.b.b
+b.b.b.b.
+........
+........
+.w...b.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d6] in 46.700178861618s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+291.87
+.b.b.b.b
+b.b...b.
+...b....
+........
+.w...b.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b2 a3] in 2.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+226.447602272034
+.b.b.b.b
+b.b...b.
+...b....
+........
+.w...b.b
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 22.3112871646881s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+289.75
+.b.b.b.b
+b.b.....
+...b...b
+........
+.w...b.b
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c1 b2] in 2.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+204.136315107346
+.b.b.b.b
+b.b.....
+...b...b
+........
+.w...b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 21.4590940475464s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+286.96
+.b.b.b.b
+b.b.....
+.......b
+....b...
+.w...b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 a5] in 3.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+182.677221059799
+.b.b.b.b
+b.b.....
+.......b
+w...b...
+.....b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 14.9911830425262s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+283.4
+.b.b.b.b
+b.b.....
+........
+w...b.b.
+.....b.b
+w.......
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 3.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+167.686038017273
+.b.b.b.b
+b.b.....
+........
+w...b.b.
+.w...b.b
+........
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 12.8079299926758s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+280.3
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w.b.b.b
+........
+.w.w.w.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f2 e3] in 5.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+154.878108024597
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w.b.b.b
+....w...
+.w.w...w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 f2] in 1.84532904624939s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+275
+.b.b.b.b
+b.b.....
+........
+w.....b.
+.w...b.b
+........
+.w.w.b.w
+w...w.w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J e1 g3 ; J g3 e5] in 1.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+153.032778978348
+.b.b.b.b
+b.b.....
+........
+w...w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 8.96695804595947s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+273.41
+.b.b.b.b
+b.......
+.b......
+w...w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [J a5 c7] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+144.065820932388
+.b.b.b.b
+b.w.....
+........
+....w.b.
+.w.....b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b8 d6 ; J d6 f4] in 2.67662405967712s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+273.21
+...b.b.b
+b.......
+........
+......b.
+.w...b.b
+........
+.w.w...w
+w.....w.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E g1 f2] in 1.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+141.389196872711
+...b.b.b
+b.......
+........
+......b.
+.w...b.b
+........
+.w.w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a7 b6] in 14.5704138278961s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+271.61
+...b.b.b
+........
+.b......
+......b.
+.w...b.b
+........
+.w.w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b2 a3] in 0.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+126.818783044815
+...b.b.b
+........
+.b......
+......b.
+.w...b.b
+w.......
+...w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 3.94066882133484s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+271.01
+...b.b..
+......b.
+.b......
+......b.
+.w...b.b
+w.......
+...w.w.w
+w.......
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a1 b2] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+122.87811422348
+...b.b..
+......b.
+.b......
+......b.
+.w...b.b
+w.......
+.w.w.w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 f6] in 6.09378004074097s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+270.62
+...b.b..
+........
+.b...b..
+......b.
+.w...b.b
+w.......
+.w.w.w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d2 c3] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+116.784334182739
+...b.b..
+........
+.b...b..
+......b.
+.w...b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 2.07720494270325s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+270.09
+...b.b..
+........
+.b......
+....b.b.
+.w...b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 a5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+114.707129240036
+...b.b..
+........
+.b......
+w...b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 c5] in 1.55292701721191s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+269.77
+...b.b..
+........
+........
+w.b.b.b.
+.....b.b
+w.w.....
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c3 b4] in 0.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+113.154202222824
+...b.b..
+........
+........
+w.b.b.b.
+.w...b.b
+w.......
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d4] in 2.41006398200989s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+269.2
+...b.b..
+........
+........
+w...b.b.
+.w.b.b.b
+w.......
+.w...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b2 c3] in 0.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+110.744138240814
+...b.b..
+........
+........
+w...b.b.
+.w.b.b.b
+w.w.....
+.....w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b2] in 1.32086300849915s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+268.62
+...b.b..
+........
+........
+w...b.b.
+.w...b.b
+w.......
+.b...w.w
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E h2 g3] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+109.423275232315
+...b.b..
+........
+........
+w...b.b.
+.w...b.b
+w.....w.
+.b...w..
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h2] in 3.27001810073853s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+268.16
+...b.b..
+........
+........
+w...b.b.
+.w.....b
+w.......
+.b...w.b
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E f2 e3] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+106.153257131577
+...b.b..
+........
+........
+w...b.b.
+.w.....b
+w...w...
+.b.....b
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 7.10666990280151s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+267.51
+...b.b..
+........
+........
+w...b.b.
+.w.....b
+w...w...
+.b......
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E e3 f4] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+99.046587228775
+...b.b..
+........
+........
+w...b.b.
+.w...w.b
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 g3] in 1.96577906608582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+267.21
+...b.b..
+........
+........
+w.....b.
+.w.....b
+w.....b.
+.b......
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a5 b6] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+97.0808081626892
+...b.b..
+........
+.w......
+......b.
+.w.....b
+w.....b.
+.b......
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b2 c1] in 9.47020101547241s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+267
+...b.b..
+........
+.w......
+......b.
+.w.....b
+w.....b.
+........
+..B...B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b6 a7] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+87.6106071472168
+...b.b..
+w.......
+........
+......b.
+.w.....b
+w.....b.
+........
+..B...B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 6.56262016296387s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+266.54
+...b.b..
+w.......
+........
+......b.
+.w.....b
+w.....b.
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a7 b8] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+81.0479869842529
+.W.b.b..
+........
+........
+......b.
+.w.....b
+w.....b.
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c1 d2] in 13.1735789775848s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+266.36
+.W.b.b..
+........
+........
+......b.
+.w.....b
+w.....b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b8 c7] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+67.8744080066681
+...b.b..
+..W.....
+........
+......b.
+.w.....b
+w.....b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 b6] in 0.583044052124023s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+266.12
+.....b..
+........
+.b......
+......b.
+.w.....b
+w.....b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 c5] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+67.2913639545441
+.....b..
+........
+.b......
+..w...b.
+.......b
+w.....b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.554628849029541s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+266.02
+.....b..
+........
+........
+......b.
+...b...b
+w.....b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E a3 b4] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+66.7367351055145
+.....b..
+........
+........
+......b.
+.w.b...b
+......b.
+...B...B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 3.98861193656921s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+265.9
+.....b..
+........
+........
+......b.
+.w.b...b
+....B.b.
+.......B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E b4 c5] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+62.7481231689453
+.....b..
+........
+........
+..w...b.
+...b...b
+....B.b.
+.......B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f2] in 2.86719703674316s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+265.8
+.....b..
+........
+........
+..w...b.
+...b...b
+....B...
+.....b.B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E c5 d6] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+59.8809261322021
+.....b..
+........
+...w....
+......b.
+...b...b
+....B...
+.....b.B
+........
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g1] in 4.68411898612976s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for ssingh41:
+GAME
+WHITE
+265.62
+.....b..
+........
+...w....
+......b.
+...b...b
+....B...
+.......B
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### SUCCESS: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssingh41 #####
+##### ssingh41 plays [E d6 e7] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+55.1968071460724
+.....b..
+....w...
+........
+......b.
+...b...b
+....B...
+.......B
+......B.
+##### Running: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_6_ssingh41_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f8 d6] in 0.202525854110718s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_ssingh41_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 4: ssingh41=0 and vdhankar=4 ##########
+
+
+########## GRAND WINNER ROUND 6 IS vdhankar BY 4 vs 0 GAMESCORE ##########

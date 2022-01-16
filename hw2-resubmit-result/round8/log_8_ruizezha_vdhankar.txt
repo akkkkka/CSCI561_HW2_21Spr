@@ -1,0 +1,3473 @@
+#################### ROUND 8: ruizezha (B) vs vdhankar (W): game 1 ####################
+##### game start! #####
+INPUT for ruizezha:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h6 g5] in 12.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 9.91233897209167s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+287.78
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g5 f4] in 6.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+290.087661027908
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....b.w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 g5] in 6.31646609306335s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+281.45
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d6 e5] in 12.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+283.771194934845
+.b.b.b.b
+b.b.b.b.
+.b...b..
+....b.w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h6] in 15.2416641712189s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+268.86
+.b.b.b.b
+b.b.b.b.
+.b...b.w
+....b...
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E f6 g5] in 9.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+268.529530763626
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.b.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 2.81673407554626s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+259.7
+.b.b.b.b
+b.b.b.b.
+.b...w.w
+....b...
+........
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e7 g5] in 22.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+265.71279668808
+.b.b.b.b
+b.b...b.
+.b.....w
+....b.b.
+........
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 31.8120410442352s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+237.36
+.b.b.b.b
+b.b...b.
+.b.....w
+....b.b.
+........
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g5 h4] in 5.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+233.900755643845
+.b.b.b.b
+b.b...b.
+.b.....w
+....b...
+.......b
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 13.4695589542389s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+231.49
+.b.b.b.b
+b.b...b.
+.b.....w
+....b...
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+220.431196689606
+.b.b.b.b
+b.b...b.
+.......w
+b...b...
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 3.9761950969696s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+231.13
+.b.b.b.b
+b.b...b.
+.......w
+b...b...
+.....w.b
+w.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e5 g3] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+216.455001592636
+.b.b.b.b
+b.b...b.
+.......w
+b.......
+.......b
+w.w...b.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 7.08766484260559s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+230.93
+.b.b.b.b
+b.b...b.
+.......w
+b.......
+.....w.b
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c7 b6] in 1.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+209.367336750031
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w.b
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 e3] in 14.175323009491s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+229.25
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w.b
+w.w.w...
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h4 g3] in 2.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+195.19201374054
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w..
+w.w.w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 b4] in 20.1625320911407s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+227.03
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.w...w..
+w...w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J a5 c3] in 0.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+175.029481649399
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.....w..
+w.b.w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 b4] in 17.7670900821686s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+226.39
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w.b.
+.w......
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 h2] in 5.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+157.26239156723
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w...
+.w.....b
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 f2] in 62.4073460102081s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+221.38
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E f8 e7] in 3.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+94.8550455570221
+.b.b...b
+b...b.b.
+.b.....w
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f8] in 1.58364701271057s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+218.3
+.b.b.W.b
+b...b...
+.b......
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d8 c7] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+93.2713985443115
+.b...W.b
+b.b.b...
+.b......
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f8 d6] in 1.33044695854187s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+217.63
+.b.....b
+b.b.....
+.b.W....
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J c7 e5 ; J e5 g3 ; J g3 e1] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+91.9409515857697
+.b.....b
+b.......
+.b......
+........
+.w......
+w...w...
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 12.9326369762421s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+217.18
+.b.....b
+b.......
+.b......
+........
+.w...w..
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a5] in 99.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+79.0083146095276
+.b.....b
+b.......
+........
+b.......
+.w...w..
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 e5] in 7.30595803260803s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+117.94
+.b.....b
+b.......
+........
+b...w...
+.w......
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J a5 c3] in 20.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+71.7023565769196
+.b.....b
+b.......
+........
+....w...
+........
+w.b.....
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4] in 7.08039212226868s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+97.33
+.b.....b
+b.......
+........
+....w...
+...w....
+w.......
+.......b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### Killing ruizezha after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  4113271 4113275 4113278
+##### GAME OVER: ruizezha ran over time limit by 12s #####
+########## ROUND 8 GAMESCORE AFTER GAME 1: ruizezha=0 and vdhankar=1 ##########
+#################### ROUND 8: ruizezha (W) vs vdhankar (B): game 2 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.8166310787201s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a3 b4] in 15.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.18336892128
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 9.77509689331055s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+284.29
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w.....b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b4 c5] in 17.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+278.408272027969
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+..w.....
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.851094961166382s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+267.11
+.b.b.b.b
+b.b.b.b.
+...b.b..
+........
+...b...b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e3 c5] in 1.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+277.557177066803
+.b.b.b.b
+b.b.b.b.
+...b.b..
+..w.....
+.......b
+..w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b4] in 2.40072011947632s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+265.32
+.b.b.b.b
+b.b.b.b.
+.....b..
+........
+.b.....b
+..w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J c3 a5] in 1.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+275.156456947327
+.b.b.b.b
+b.b.b.b.
+.....b..
+w.......
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d6] in 24.7916111946106s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+264.23
+.b.b.b.b
+b.b...b.
+...b.b..
+w.......
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b2 c3] in 3.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+250.364845752716
+.b.b.b.b
+b.b...b.
+...b.b..
+w.......
+.......b
+..w...w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 29.6151320934296s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+260.81
+.b.b.b.b
+b.b...b.
+...b....
+w.....b.
+.......b
+..w...w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a1 b2] in 3.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+220.749713659286
+.b.b.b.b
+b.b...b.
+...b....
+w.....b.
+.......b
+..w...w.
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 20.6943509578705s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+257.31
+.b.b.b.b
+b.b...b.
+........
+w...b.b.
+.......b
+..w...w.
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b2 a3] in 3.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+200.055362701416
+.b.b.b.b
+b.b...b.
+........
+w...b.b.
+.......b
+w.w...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 14.0533850193024s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+254.14
+.b.b.b.b
+b.b.....
+.......b
+w...b.b.
+.......b
+w.w...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c3 d4] in 2.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+186.001977682114
+.b.b.b.b
+b.b.....
+.......b
+w...b.b.
+...w...b
+w.....w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 c3] in 1.0482280254364s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+251.31
+.b.b.b.b
+b.b.....
+.......b
+w.....b.
+.......b
+w.b...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J d2 b4] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+184.953749656677
+.b.b.b.b
+b.b.....
+.......b
+w.....b.
+.w.....b
+w.....w.
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 d6] in 5.76109600067139s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+250.78
+.b.b.b.b
+b.......
+...b...b
+w.....b.
+.w.....b
+w.....w.
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 f4] in 1.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+179.192653656006
+.b.b.b.b
+b.......
+...b...b
+w.....b.
+.w...w.b
+w.......
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e3] in 3.04463887214661s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+248.95
+.b.b.b.b
+b.......
+...b...b
+w.......
+.w.....b
+w...b...
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J f2 d4] in 1.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+176.148014783859
+.b.b.b.b
+b.......
+...b...b
+w.......
+.w.w...b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 g7] in 22.4307668209076s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+247.31
+.b.b...b
+b.....b.
+...b...b
+w.......
+.w.w...b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d4 c5] in 4.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+153.717247962952
+.b.b...b
+b.....b.
+...b...b
+w.w.....
+.w.....b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 10.621621131897s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+242.86
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w.....b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h2 g3] in 5.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+143.095626831055
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w.....b
+w.....w.
+........
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 4.15752005577087s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+237.19
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w......
+w.......
+.....b..
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e1 g3] in 1.89s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+138.938106775284
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w......
+w.....w.
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 19.6047840118408s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+235.3
+.b.b...b
+b.....b.
+........
+w.w.b.b.
+.w......
+w.....w.
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 h4] in 5.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+119.333322763443
+.b.b...b
+b.....b.
+........
+w.w.b.b.
+.w.....w
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 5.81463122367859s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+230.26
+.b.b...b
+b.....b.
+........
+w.w...b.
+.w.b...w
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J h4 f6] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+113.518691539764
+.b.b...b
+b.....b.
+.....w..
+w.w.....
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g7 e5] in 4.60426187515259s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+230.01
+.b.b...b
+b.......
+........
+w.w.b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c5 b6] in 71.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+108.914429664612
+.b.b...b
+b.......
+.w......
+w...b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a7 c5] in 1.15441298484802s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+158.88
+.b.b...b
+........
+........
+w.b.b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J b4 d6] in 31.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+107.760016679764
+.b.b...b
+........
+...w....
+w...b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 7.67344903945923s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+127.46
+.b.b....
+......b.
+...w....
+w...b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a5 b6] in 65.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+100.086567640305
+.b.b....
+......b.
+.w.w....
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 3.73671293258667s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+61.76
+.b.b....
+........
+.w.w...b
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a7] in 45.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+96.3498547077179
+.b.b....
+w.......
+...w...b
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 3.8587749004364s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+16.23
+.b.b....
+w.......
+...w....
+....b.b.
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### Killing ruizezha after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+kill -9  650497 650499 650502 4113271
+##### GAME OVER: ruizezha ran over time limit by 12s #####
+########## ROUND 8 GAMESCORE AFTER GAME 2: ruizezha=0 and vdhankar=2 ##########
+#################### ROUND 8: ruizezha (B) vs vdhankar (W): game 3 ####################
+##### game start! #####
+INPUT for ruizezha:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h6 g5] in 11.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 8.42062306404114s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+288.66
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g5 f4] in 4.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+291.579376935959
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....b.w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 g5] in 4.34248995780945s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+284.07
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d6 e5] in 8.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+287.236886978149
+.b.b.b.b
+b.b.b.b.
+.b...b..
+....b.w.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h6] in 7.8974621295929s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+275.7
+.b.b.b.b
+b.b.b.b.
+.b...b.w
+....b...
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E f6 g5] in 5.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+279.339424848557
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.b.
+.......w
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 1.40517687797546s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+270.54
+.b.b.b.b
+b.b.b.b.
+.b...w.w
+....b...
+........
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e7 g5] in 12.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+277.934247970581
+.b.b.b.b
+b.b...b.
+.b.....w
+....b.b.
+........
+w.w.....
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 15.9844899177551s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+257.55
+.b.b.b.b
+b.b...b.
+.b.....w
+....b.b.
+........
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g5 h4] in 3.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+261.949758052826
+.b.b.b.b
+b.b...b.
+.b.....w
+....b...
+.......b
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 7.04412293434143s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+254.4
+.b.b.b.b
+b.b...b.
+.b.....w
+....b...
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+254.905635118484
+.b.b.b.b
+b.b...b.
+.......w
+b...b...
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 1.99434995651245s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+254.2
+.b.b.b.b
+b.b...b.
+.......w
+b...b...
+.....w.b
+w.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e5 g3] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+252.911285161972
+.b.b.b.b
+b.b...b.
+.......w
+b.......
+.......b
+w.w...b.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 4.10317206382751s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+254.09
+.b.b.b.b
+b.b...b.
+.......w
+b.......
+.....w.b
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c7 b6] in 1.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+248.808113098145
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w.b
+w.w.....
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 e3] in 7.66934299468994s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+253.05
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w.b
+w.w.w...
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h4 g3] in 1.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+241.138770103455
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.....w..
+w.w.w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 b4] in 10.9442207813263s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+251.68
+.b.b.b.b
+b.....b.
+.b.....w
+b.......
+.w...w..
+w...w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J a5 c3] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+230.194549322128
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.....w..
+w.b.w.b.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 b4] in 8.92331194877625s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+251.32
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w.b.
+.w......
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 h2] in 2.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+221.271237373352
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w...
+.w.....b
+w.w.w...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 f2] in 32.0813660621643s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+248.57
+.b.b.b.b
+b.....b.
+.b.....w
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E f8 e7] in 1.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+189.189871311188
+.b.b...b
+b...b.b.
+.b.....w
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f8] in 0.704935073852539s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+246.95
+.b.b.W.b
+b...b...
+.b......
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d8 c7] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+188.484936237335
+.b...W.b
+b.b.b...
+.b......
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f8 d6] in 0.745393991470337s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+246.6
+.b.....b
+b.b.....
+.b.W....
+........
+.w...w..
+w...w...
+.w...w.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J c7 e5 ; J e5 g3 ; J g3 e1] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+187.739542245865
+.b.....b
+b.......
+.b......
+........
+.w......
+w...w...
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 6.72602486610413s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+246.35
+.b.....b
+b.......
+.b......
+........
+.w...w..
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a5] in 52.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+181.013517379761
+.b.....b
+b.......
+........
+b.......
+.w...w..
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 e5] in 3.61216306686401s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+193.91
+.b.....b
+b.......
+........
+b...w...
+.w......
+w.......
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J a5 c3] in 10.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+177.401354312897
+.b.....b
+b.......
+........
+....w...
+........
+w.b.....
+.w.....b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4] in 3.79734110832214s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+183.32
+.b.....b
+b.......
+........
+....w...
+...w....
+w.......
+.......b
+w.w.B...
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E e1 f2] in 147.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+173.604013204575
+.b.....b
+b.......
+........
+....w...
+...w....
+w.......
+.....B.b
+w.w.....
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c1 d2] in 25.4400081634521s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+BLACK
+35.75
+.b.....b
+b.......
+........
+....w...
+...w....
+w.......
+...w.B.b
+w.......
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### Killing ruizezha after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+*** Killing lingering child process [sh] ***
+kill -9  650497 766038 766039 766040 4113271
+##### GAME OVER: ruizezha ran over time limit by 12s #####
+########## ROUND 8 GAMESCORE AFTER GAME 3: ruizezha=0 and vdhankar=3 ##########
+#################### ROUND 8: ruizezha (W) vs vdhankar (B): game 4 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 5.95221090316772s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a3 b4] in 8.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+294.047789096832
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 5.09625482559204s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+291.28
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w.....b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b4 c5] in 9.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.95153427124
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+..w.....
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.503217935562134s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+281.94
+.b.b.b.b
+b.b.b.b.
+...b.b..
+........
+...b...b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e3 c5] in 0.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.448316335678
+.b.b.b.b
+b.b.b.b.
+...b.b..
+..w.....
+.......b
+..w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b4] in 1.30039310455322s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+281.02
+.b.b.b.b
+b.b.b.b.
+.....b..
+........
+.b.....b
+..w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J c3 a5] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+287.147923231125
+.b.b.b.b
+b.b.b.b.
+.....b..
+w.......
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d6] in 12.7347850799561s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+280.37
+.b.b.b.b
+b.b...b.
+...b.b..
+w.......
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b2 c3] in 1.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+274.413138151169
+.b.b.b.b
+b.b...b.
+...b.b..
+w.......
+.......b
+..w...w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 14.6512448787689s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+278.46
+.b.b.b.b
+b.b...b.
+...b....
+w.....b.
+.......b
+..w...w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a1 b2] in 1.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+259.7618932724
+.b.b.b.b
+b.b...b.
+...b....
+w.....b.
+.......b
+..w...w.
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 10.5425860881805s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+276.5
+.b.b.b.b
+b.b...b.
+........
+w...b.b.
+.......b
+..w...w.
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b2 a3] in 1.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+249.219307184219
+.b.b.b.b
+b.b...b.
+........
+w...b.b.
+.......b
+w.w...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 7.08582282066345s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+274.81
+.b.b.b.b
+b.b.....
+.......b
+w...b.b.
+.......b
+w.w...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c3 d4] in 1.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+242.133484363556
+.b.b.b.b
+b.b.....
+.......b
+w...b.b.
+...w...b
+w.....w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 c3] in 0.533772945404053s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+273.32
+.b.b.b.b
+b.b.....
+.......b
+w.....b.
+.......b
+w.b...w.
+...w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J d2 b4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+241.599711418152
+.b.b.b.b
+b.b.....
+.......b
+w.....b.
+.w.....b
+w.....w.
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 d6] in 2.98317408561707s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+272.98
+.b.b.b.b
+b.......
+...b...b
+w.....b.
+.w.....b
+w.....w.
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 f4] in 0.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+238.616537332535
+.b.b.b.b
+b.......
+...b...b
+w.....b.
+.w...w.b
+w.......
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e3] in 1.56997203826904s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+272.04
+.b.b.b.b
+b.......
+...b...b
+w.......
+.w.....b
+w...b...
+.....w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J f2 d4] in 0.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+237.046565294266
+.b.b.b.b
+b.......
+...b...b
+w.......
+.w.w...b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 g7] in 11.4995400905609s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+271.21
+.b.b...b
+b.....b.
+...b...b
+w.......
+.w.w...b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d4 c5] in 2.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+225.547025203705
+.b.b...b
+b.....b.
+...b...b
+w.w.....
+.w.....b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 e5] in 5.68078994750977s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+268.78
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w.....b
+w.......
+.......w
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E h2 g3] in 3.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+219.866235256195
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w.....b
+w.....w.
+........
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 2.43254685401917s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+265.67
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w......
+w.......
+.....b..
+..w.w.w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J e1 g3] in 1.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+217.433688402176
+.b.b...b
+b.....b.
+.......b
+w.w.b...
+.w......
+w.....w.
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.7394859790802s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+264.48
+.b.b...b
+b.....b.
+........
+w.w.b.b.
+.w......
+w.....w.
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E g3 h4] in 3.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+205.694202423096
+.b.b...b
+b.....b.
+........
+w.w.b.b.
+.w.....w
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 3.37497901916504s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+261.28
+.b.b...b
+b.....b.
+........
+w.w...b.
+.w.b...w
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J h4 f6] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+202.319223403931
+.b.b...b
+b.....b.
+.....w..
+w.w.....
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g7 e5] in 2.71396613121033s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+261.14
+.b.b...b
+b.......
+........
+w.w.b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E c5 b6] in 43.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+199.60525727272
+.b.b...b
+b.......
+.w......
+w...b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a7 c5] in 0.755716800689697s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+217.36
+.b.b...b
+........
+........
+w.b.b...
+.w.b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [J b4 d6] in 22.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+198.849540472031
+.b.b...b
+........
+...w....
+w...b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 5.3415892124176s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+195.28
+.b.b....
+......b.
+...w....
+w...b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a5 b6] in 58.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+193.507951259613
+.b.b....
+......b.
+.w.w....
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 3.3104829788208s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+136.76
+.b.b....
+........
+.w.w...b
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E b6 a7] in 42.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+190.197468280792
+.b.b....
+w.......
+...w...b
+....b...
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 3.5778820514679s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+94.65
+.b.b....
+w.......
+...w....
+....b.b.
+...b....
+w.......
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E a3 b4] in 47.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+186.619586229324
+.b.b....
+w.......
+...w....
+....b.b.
+.w.b....
+........
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 e3] in 4.61207890510559s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+47.09
+.b.b....
+w.......
+...w....
+....b.b.
+.w......
+....b...
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### SUCCESS: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ruizezha #####
+##### ruizezha plays [E d6 c7] in 52.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+182.007507324219
+.b.b....
+w.w.....
+........
+....b.b.
+.w......
+....b...
+........
+..w...w.
+##### Running: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_8_ruizezha_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 b6] in 1.42642307281494s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+INPUT for ruizezha:
+GAME
+WHITE
+-5.55999999999998
+.b......
+w.......
+.b......
+....b.b.
+.w......
+....b...
+........
+..w...w.
+Not running ruizezha because of negative remaining time -- passing illegal move instead
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_ruizezha_vdhankar #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ruizezha loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 8 GAMESCORE AFTER GAME 4: ruizezha=0 and vdhankar=4 ##########
+
+
+########## GRAND WINNER ROUND 8 IS vdhankar BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,483 @@
+#################### ROUND 2: jiahaozo (W) vs ssnair (B): game 1 ####################
+##### game start! #####
+INPUT for ssnair:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E b6 a5] in 2.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0128128528594971s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+BLACK
+297.19
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E a7 b6] in 2.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.987187147141
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E c3 d4] in 0.431608915328979s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+BLACK
+294.57
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E b8 a7] in 0.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.555578231812
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.423990964889526s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 1: jiahaozo=0 and ssnair=1 ##########
+#################### ROUND 2: jiahaozo (B) vs ssnair (W): game 2 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.0360429286956787s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E c3 b4] in 2.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.963957071304
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [J a5 c3] in 0.367249965667725s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+WHITE
+297.38
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [J b2 d4] in 2.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.596707105637
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.336176872253418s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 2: jiahaozo=0 and ssnair=2 ##########
+#################### ROUND 2: jiahaozo (W) vs ssnair (B): game 3 ####################
+##### game start! #####
+INPUT for ssnair:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E b6 a5] in 2.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0496439933776855s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+BLACK
+297.08
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E a7 b6] in 2.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.950356006622
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E c3 d4] in 0.423741102218628s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+BLACK
+294.73
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E b8 a7] in 0.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.526614904404
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.369417905807495s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 3: jiahaozo=0 and ssnair=3 ##########
+#################### ROUND 2: jiahaozo (B) vs ssnair (W): game 4 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.0240669250488281s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [E c3 b4] in 2.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.975933074951
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [J a5 c3] in 0.390332937240601s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for ssnair:
+GAME
+WHITE
+297.29
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssnair #####
+##### ssnair plays [J b2 d4] in 2.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.585600137711
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_ssnair.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.353097915649414s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_ssnair #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 4: jiahaozo=0 and ssnair=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS ssnair BY 4 vs 0 GAMESCORE ##########

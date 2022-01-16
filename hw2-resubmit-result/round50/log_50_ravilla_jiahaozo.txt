@@ -1,0 +1,407 @@
+#################### ROUND 50: ravilla (B) vs jiahaozo (W): game 1 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.0193350315093994s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0279800891876221s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+BLACK
+299.980664968491
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f6 g5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.972019910812
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.....b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.342669010162354s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+2
+########## ROUND 50 GAMESCORE AFTER GAME 1: ravilla=1 and jiahaozo=0 ##########
+#################### ROUND 50: ravilla (W) vs jiahaozo (B): game 2 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.0159530639648438s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.984046936035
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [J a5 c3] in 0.373314142227173s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+WHITE
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J b2 d4] in 0.0607810020446777s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.610732793808
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.348159074783325s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 50 GAMESCORE AFTER GAME 2: ravilla=2 and jiahaozo=0 ##########
+#################### ROUND 50: ravilla (B) vs jiahaozo (W): game 3 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0115461349487305s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+BLACK
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f6 g5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.988453865051
+.b.b.b.b
+b.b.b.b.
+...b...b
+b.....b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.366346120834351s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+2
+########## ROUND 50 GAMESCORE AFTER GAME 3: ravilla=3 and jiahaozo=0 ##########
+#################### ROUND 50: ravilla (W) vs jiahaozo (B): game 4 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.0125758647918701s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.030595064163208s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.987424135208
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [J a5 c3] in 0.3713219165802s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for ravilla:
+GAME
+WHITE
+299.969404935837
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J b2 d4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.616102218628
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_50_ravilla_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.359750986099243s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 50 GAMESCORE AFTER GAME 4: ravilla=4 and jiahaozo=0 ##########
+
+
+########## GRAND WINNER ROUND 50 IS ravilla BY 4 vs 0 GAMESCORE ##########

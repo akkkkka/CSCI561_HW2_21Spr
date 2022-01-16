@@ -1,0 +1,507 @@
+#################### ROUND 4: aljarbua (W) vs beiyouzh (B): game 1 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0196948051452637s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E g3 f4] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.980305194855
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0376529693603516s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+WHITE
+299.76
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E f4 e5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.942652225494
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+....w...
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0122578144073486s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h4 g3 ] #####
+Server said: FAIL
+########## ROUND 4 GAMESCORE AFTER GAME 1: aljarbua=1 and beiyouzh=0 ##########
+#################### ROUND 4: aljarbua (B) vs beiyouzh (W): game 2 ####################
+##### game start! #####
+INPUT for aljarbua:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E d6 e5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0121729373931885s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.77
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [J e5 g3] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.987827062607
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+........
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J h2 f4 ] in 0.0117559432983398s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.45
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E c7 d6] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.976071119308
+.b.b.b.b
+b...b.b.
+.b.b.b.b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g1 h2 ] in 0.0237610340118408s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.15
+.b.b.b.b
+b...b.b.
+.b.b.b.b
+........
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E d6 e5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.952310085297
+.b.b.b.b
+b...b.b.
+.b...b.b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0117678642272949s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h2 g3 ] #####
+Server said: FAIL
+########## ROUND 4 GAMESCORE AFTER GAME 2: aljarbua=2 and beiyouzh=0 ##########
+#################### ROUND 4: aljarbua (W) vs beiyouzh (B): game 3 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0122308731079102s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E g3 f4] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.987769126892
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0118870735168457s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E f4 e5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.975882053375
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+....w...
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0358259677886963s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h4 g3 ] #####
+Server said: FAIL
+########## ROUND 4 GAMESCORE AFTER GAME 3: aljarbua=3 and beiyouzh=0 ##########
+#################### ROUND 4: aljarbua (B) vs beiyouzh (W): game 4 ####################
+##### game start! #####
+INPUT for aljarbua:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E d6 e5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0120680332183838s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.77
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [J e5 g3] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.987931966782
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+........
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J h2 f4 ] in 0.0137841701507568s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.43
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E c7 d6] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.974147796631
+.b.b.b.b
+b...b.b.
+.b.b.b.b
+........
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g1 h2 ] in 0.0117428302764893s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for aljarbua:
+GAME
+BLACK
+299.08
+.b.b.b.b
+b...b.b.
+.b.b.b.b
+........
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on aljarbua #####
+##### aljarbua plays [E d6 e5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.962404966354
+.b.b.b.b
+b...b.b.
+.b...b.b
+....b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_4_aljarbua_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0130419731140137s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_4_aljarbua_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h2 g3 ] #####
+Server said: FAIL
+########## ROUND 4 GAMESCORE AFTER GAME 4: aljarbua=4 and beiyouzh=0 ##########
+
+
+########## GRAND WINNER ROUND 4 IS aljarbua BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,441 @@
+#################### ROUND 2: jiahaozo (B) vs neetukum (W): game 1 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.00762605667114258s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E c3 b4] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.992373943329
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [J a5 c3] in 0.252821207046509s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+WHITE
+299.9
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E d2 b4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.739552736282
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.w......
+w.b.w.w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E f6 g5] in 0.228275060653687s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+WHITE
+299.84
+.b.b.b.b
+b.b.b.b.
+...b...b
+......b.
+.w......
+w.b.w.w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E b2 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.511277675629
+.b.b.b.b
+b.b.b.b.
+...b...b
+......b.
+.w.w....
+w.b.w.w.
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+free(): double free detected in tcache 2
+##### End of output of failed program #####
+##### jiahaozo plays [E c3 d2 ; E d2 g5 ; E g5 h4] in 0.259395122528076s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move [c3 d2
+, d2 g5
+, g5 h4
+] is invalid
+A simple move can only have one step
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+##### GAME OVER: jiahaozo loses because of illegal move [E c3 d2 ; E d2 g5 ; E g5 h4] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+4
+########## ROUND 2 GAMESCORE AFTER GAME 1: jiahaozo=0 and neetukum=1 ##########
+#################### ROUND 2: jiahaozo (W) vs neetukum (B): game 2 ####################
+##### game start! #####
+INPUT for neetukum:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E h6 g5] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.00742387771606445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+BLACK
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E b6 a5] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.992576122284
+.b.b.b.b
+b.b.b.b.
+...b.b..
+b.....b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.21642017364502s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+2
+########## ROUND 2 GAMESCORE AFTER GAME 2: jiahaozo=0 and neetukum=2 ##########
+#################### ROUND 2: jiahaozo (B) vs neetukum (W): game 3 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.00782608985900879s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E e3 d4] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.992173910141
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E d6 e5] in 0.331823110580444s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+WHITE
+299.89
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b...b...
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E c3 b4] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.660350799561
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b...b...
+.w.w....
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [J d2 b4] in 0.0082399845123291s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+##### GAME OVER: jiahaozo loses because of illegal move [J d2 b4] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 3: jiahaozo=0 and neetukum=3 ##########
+#################### ROUND 2: jiahaozo (W) vs neetukum (B): game 4 ####################
+##### game start! #####
+INPUT for neetukum:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E f6 e5] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0102591514587402s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for neetukum:
+GAME
+BLACK
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### SUCCESS: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on neetukum #####
+##### neetukum plays [E g7 f6] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.989740848541
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_jiahaozo_neetukum.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.274368047714233s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_jiahaozo_neetukum #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+2
+########## ROUND 2 GAMESCORE AFTER GAME 4: jiahaozo=0 and neetukum=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS neetukum BY 4 vs 0 GAMESCORE ##########

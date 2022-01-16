@@ -1,0 +1,179 @@
+#################### ROUND 50: ravilla (W) vs samana (B): game 1 ####################
+##### game start! #####
+INPUT for samana:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.980968952178955s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 1: ravilla=1 and samana=0 ##########
+#################### ROUND 50: ravilla (B) vs samana (W): game 2 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+INPUT for samana:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.800341844558716s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 2: ravilla=2 and samana=0 ##########
+#################### ROUND 50: ravilla (W) vs samana (B): game 3 ####################
+##### game start! #####
+INPUT for samana:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.817222118377686s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 3: ravilla=3 and samana=0 ##########
+#################### ROUND 50: ravilla (B) vs samana (W): game 4 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+INPUT for samana:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_50_ravilla_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.697260141372681s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 4: ravilla=4 and samana=0 ##########
+
+
+########## GRAND WINNER ROUND 50 IS ravilla BY 4 vs 0 GAMESCORE ##########

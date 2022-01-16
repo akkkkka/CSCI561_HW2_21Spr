@@ -1,0 +1,255 @@
+#################### ROUND 2: alsayedm (W) vs xzhang63 (B): game 1 ####################
+##### game start! #####
+INPUT for xzhang63:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [E	b6	c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 211.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for xzhang63:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+##### GAME OVER: xzhang63 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: alsayedm=1 and xzhang63=0 ##########
+#################### ROUND 2: alsayedm (B) vs xzhang63 (W): game 2 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 70.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for xzhang63:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [E	a3	b4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for alsayedm:
+GAME
+BLACK
+229.09
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 a3] in 29.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for xzhang63:
+GAME
+WHITE
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+b.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [] in 0.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+##### GAME OVER: xzhang63 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: alsayedm=2 and xzhang63=0 ##########
+#################### ROUND 2: alsayedm (W) vs xzhang63 (B): game 3 ####################
+##### game start! #####
+INPUT for xzhang63:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [E	b6	c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 150.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for xzhang63:
+GAME
+BLACK
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+##### GAME OVER: xzhang63 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: alsayedm=3 and xzhang63=0 ##########
+#################### ROUND 2: alsayedm (B) vs xzhang63 (W): game 4 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 48.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+INPUT for xzhang63:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_xzhang63.txt -f "%U" ./homework > stulog.txt 2>&1 on xzhang63 #####
+##### xzhang63 plays [] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_xzhang63 #####
+##### GAME OVER: xzhang63 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: alsayedm=4 and xzhang63=0 ##########
+
+
+########## GRAND WINNER ROUND 2 IS alsayedm BY 4 vs 0 GAMESCORE ##########

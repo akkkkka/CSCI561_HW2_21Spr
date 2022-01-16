@@ -1,0 +1,187 @@
+#################### ROUND 2: seokjooy (B) vs yanchao (W): game 1 ####################
+##### game start! #####
+INPUT for seokjooy:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.332061052322388s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: seokjooy loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: seokjooy=0 and yanchao=1 ##########
+#################### ROUND 2: seokjooy (W) vs yanchao (B): game 2 ####################
+##### game start! #####
+INPUT for yanchao:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on yanchao #####
+##### SUCCESS: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on yanchao #####
+##### yanchao plays [E f6 g5] in 5.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+INPUT for seokjooy:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.366075038909912s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: seokjooy loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: seokjooy=0 and yanchao=2 ##########
+#################### ROUND 2: seokjooy (B) vs yanchao (W): game 3 ####################
+##### game start! #####
+INPUT for seokjooy:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.32039999961853s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: seokjooy loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: seokjooy=0 and yanchao=3 ##########
+#################### ROUND 2: seokjooy (W) vs yanchao (B): game 4 ####################
+##### game start! #####
+INPUT for yanchao:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on yanchao #####
+##### SUCCESS: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on yanchao #####
+##### yanchao plays [E f6 g5] in 5.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+INPUT for seokjooy:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_seokjooy_yanchao.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.555423974990845s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_seokjooy_yanchao #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: seokjooy loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: seokjooy=0 and yanchao=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS yanchao BY 4 vs 0 GAMESCORE ##########

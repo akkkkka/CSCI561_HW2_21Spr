@@ -1,0 +1,1023 @@
+#################### ROUND 2: devbhank (W) vs irward (B): game 1 ####################
+##### game start! #####
+INPUT for irward:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 c5] in 0.0146439075469971s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E a3 b4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.985356092453
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J c5 a3] in 0.05908203125s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+b.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E c3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.926274061203
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.w......
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 c5] in 0.0887110233306885s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.93
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.....
+.w......
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b4 d6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.837563037872
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+........
+........
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J c7 e5] in 0.0225989818572998s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.89
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+........
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.814964056015
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+...w....
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e5 c3] in 0.0153450965881348s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.85
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+........
+b.b...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b2 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.799618959427
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+...w....
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f6 e5] in 0.0172691345214844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.81
+.b.b.b.b
+b...b.b.
+.......b
+....b...
+...w....
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d4 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.782349824905
+.b.b.b.b
+b...b.b.
+.....w.b
+........
+........
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e7 g5] in 0.0154159069061279s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.76
+.b.b.b.b
+b.....b.
+.......b
+......b.
+........
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E g3 f4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.766933917999
+.b.b.b.b
+b.....b.
+.......b
+......b.
+.....w..
+b.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J g5 e3] in 0.0136489868164062s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.74
+.b.b.b.b
+b.....b.
+.......b
+........
+........
+b...b...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d2 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.753284931183
+.b.b.b.b
+b.....b.
+.......b
+........
+.....w..
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.049407958984375s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.7
+...b.b.b
+b.b...b.
+.......b
+........
+.....w..
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f4 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.703876972198
+...b.b.b
+b.b...b.
+.......b
+....w...
+........
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 d6] in 0.0127630233764648s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.66
+...b.b.b
+b.....b.
+...b...b
+....w...
+........
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J e5 c7 ; E c7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move [e5 c7
+, c7 b8
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+##### GAME OVER: devbhank loses because of illegal move [J e5 c7 ; E c7 b8] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: devbhank=0 and irward=1 ##########
+#################### ROUND 2: devbhank (B) vs irward (W): game 2 ####################
+##### game start! #####
+INPUT for devbhank:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 f4] in 0.0154449939727783s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J g5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+299.984555006027
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f2 d4] in 0.028939962387085s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f6 g5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+299.95561504364
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 f4] in 0.0665848255157471s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.89
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+...w.w..
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J g5 e3 ; E e3 f2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move [g5 e3
+, e3 f2
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+##### GAME OVER: devbhank loses because of illegal move [J g5 e3 ; E e3 f2] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: devbhank=0 and irward=2 ##########
+#################### ROUND 2: devbhank (W) vs irward (B): game 3 ####################
+##### game start! #####
+INPUT for irward:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 c5] in 0.0147449970245361s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.985255002975
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J c5 a3] in 0.0275969505310059s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.96
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+b.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E c3 b4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.957658052444
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+.w......
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 c5] in 0.011713981628418s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.93
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.....
+.w......
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b4 d6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.945944070816
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+........
+........
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J c7 e5] in 0.0150330066680908s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.9
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+........
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e3 d4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.930911064148
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+...w....
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e5 c3] in 0.0114641189575195s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.87
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+........
+b.b...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b2 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.91944694519
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+...w....
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f6 e5] in 0.01572585105896s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.83
+.b.b.b.b
+b...b.b.
+.......b
+....b...
+...w....
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d4 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.903721094131
+.b.b.b.b
+b...b.b.
+.....w.b
+........
+........
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e7 g5] in 0.021049976348877s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.79
+.b.b.b.b
+b.....b.
+.......b
+......b.
+........
+b.....w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E g3 f4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.882671117783
+.b.b.b.b
+b.....b.
+.......b
+......b.
+.....w..
+b.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J g5 e3] in 0.0535049438476562s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.76
+.b.b.b.b
+b.....b.
+.......b
+........
+........
+b...b...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d2 f4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.829166173935
+.b.b.b.b
+b.....b.
+.......b
+........
+.....w..
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.0508759021759033s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.71
+...b.b.b
+b.b...b.
+.......b
+........
+.....w..
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f4 e5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+BLACK
+299.778290271759
+...b.b.b
+b.b...b.
+.......b
+....w...
+........
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 d6] in 0.0126090049743652s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+WHITE
+299.68
+...b.b.b
+b.....b.
+...b...b
+....w...
+........
+b.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J e5 c7 ; E c7 b8] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move [e5 c7
+, c7 b8
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+##### GAME OVER: devbhank loses because of illegal move [J e5 c7 ; E c7 b8] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: devbhank=0 and irward=3 ##########
+#################### ROUND 2: devbhank (B) vs irward (W): game 4 ####################
+##### game start! #####
+INPUT for devbhank:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 f4] in 0.0152161121368408s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J g5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+299.984783887863
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f2 d4] in 0.0442080497741699s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for irward:
+GAME
+WHITE
+299.940575838089
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 f4] in 0.0218169689178467s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+INPUT for devbhank:
+GAME
+BLACK
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+...w.w..
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_2_devbhank_irward.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J g5 e3 ; E e3 f2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+Move [g5 e3
+, e3 f2
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_devbhank_irward #####
+##### GAME OVER: devbhank loses because of illegal move [J g5 e3 ; E e3 f2] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: devbhank=0 and irward=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS irward BY 4 vs 0 GAMESCORE ##########

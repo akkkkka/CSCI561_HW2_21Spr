@@ -1,0 +1,4827 @@
+#################### ROUND 22: vdhankar (W) vs bodala (B): game 1 ####################
+##### game start! #####
+INPUT for bodala:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f6 e5] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 8.6671040058136s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.78
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 a5] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+291.332895994186
+.b.b.b.b
+b.b.b.b.
+...b...b
+b...b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 8.46048998832703s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.61
+.b.b.b.b
+b.b.b.b.
+...b...b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g7 f6] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+282.872406005859
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a3 b4] in 4.84653902053833s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.44
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c7 b6] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+278.025866985321
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b2 a3] in 6.60092997550964s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.25
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.w.....w
+w.w.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+271.424937009811
+.b.b.b.b
+b...b...
+...b.b.b
+b.b.b...
+.w.....w
+w.w.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 4.00503087043762s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.02
+.b.b.b.b
+b...b...
+...b.b.b
+b.b.b...
+.w.w...w
+w.w...w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c5 e3] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+267.419906139374
+.b.b.b.b
+b...b...
+...b.b.b
+b...b...
+.w.....w
+w.w.b.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4] in 9.9555139541626s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.84
+.b.b.b.b
+b...b...
+...b.b.b
+b...b...
+.w.w...w
+w.w...w.
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E e5 f4] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+257.464392185211
+.b.b.b.b
+b...b...
+...b.b.b
+b.......
+.w.w.b.w
+w.w...w.
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5 ; J e5 g7] in 3.46286392211914s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.52
+.b.b.b.b
+b...b.w.
+...b...b
+b.......
+.w.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J h8 f6] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+254.001528263092
+.b.b.b..
+b...b...
+...b.b.b
+b.......
+.w.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b4 c5] in 5.49955415725708s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.11
+.b.b.b..
+b...b...
+...b.b.b
+b.w.....
+...w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J d6 b4] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+248.501974105835
+.b.b.b..
+b...b...
+.....b.b
+b.......
+.b.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a3 c5] in 4.80451202392578s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.99
+.b.b.b..
+b...b...
+.....b.b
+b.w.....
+...w...w
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f6 g5] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+243.697462081909
+.b.b.b..
+b...b...
+.......b
+b.w...b.
+...w...w
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 3.47758507728577s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.78
+.b.b.b..
+b...b...
+.....w.b
+b.w.....
+...w....
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J e7 g5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+240.219877004623
+.b.b.b..
+b.......
+.......b
+b.w...b.
+...w....
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 e5] in 25.2375450134277s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.47
+.b.b.b..
+b.......
+.......b
+b.w.w.b.
+........
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g5 h4] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+214.982331991196
+.b.b.b..
+b.......
+.......b
+b.w.w...
+.......b
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 47.1820528507233s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.02
+.b.b.b..
+b.......
+.......b
+b.w.w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d8 c7] in 0.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+167.800279140472
+.b...b..
+b.b.....
+.......b
+b.w.w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d6] in 36.5139908790588s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+296.31
+.b...b..
+b.b.....
+...w...b
+b...w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h6 g5] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+131.286288261414
+.b...b..
+b.b.....
+...w....
+b...w.b.
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 31.6374571323395s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.89
+.b...b..
+b.b.....
+...w....
+b...w.b.
+.......b
+..w.w...
+...w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c7 b6] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+99.6488311290741
+.b...b..
+b.......
+.b.w....
+b...w.b.
+.......b
+..w.w...
+...w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 17.3262958526611s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.69
+.b...b..
+b.......
+.b.w....
+b...w.b.
+.......b
+..w.w...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+82.322535276413
+.b...b..
+b.......
+...w....
+b.b.w.b.
+.......b
+..w.w...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 6.60570693016052s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.56
+.b...b..
+b.......
+...w....
+b.b.w.b.
+...w...b
+..w.....
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c5 e3] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+75.7168283462524
+.b...b..
+b.......
+...w....
+b...w.b.
+.......b
+..w.b...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 f4 ; J f4 h6] in 1.82891607284546s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.43
+.b...b..
+b.......
+...w...w
+b...w...
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a7 b6] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+73.887912273407
+.b...b..
+........
+.b.w...w
+b...w...
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 f6] in 7.26901507377625s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.33
+.b...b..
+........
+.b.w.w.w
+b.......
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+66.6188971996307
+.b...b..
+........
+...w.w.w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e7] in 6.72677803039551s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.17
+.b...b..
+....w...
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b8 a7] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+59.8921191692352
+.....b..
+b...w...
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d8] in 3.85750699043274s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.05
+...W.b..
+b.......
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c5 b4] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+56.0346121788025
+...W.b..
+b.......
+...w...w
+b.......
+.b.....b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 d4] in 3.04667592048645s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.91
+...W.b..
+b.......
+...w...w
+b.......
+.b.w...b
+........
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 a3] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+52.987936258316
+...W.b..
+b.......
+...w...w
+b.......
+...w...b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 c5] in 5.67485594749451s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.72
+...W.b..
+b.......
+...w...w
+b.w.....
+.......b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a5 b4] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+47.3130803108215
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c1 d2] in 1.36557388305664s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.61
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+b.......
+...w...w
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a3 b2] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+45.9475064277649
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+........
+.b.w...w
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a1 c3 ; J c3 a5] in 0.375150918960571s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.54
+...W.b..
+b.......
+...w...w
+w.w.....
+.......b
+........
+...w...w
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h4 g3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+45.5723555088043
+...W.b..
+b.......
+...w...w
+w.w.....
+........
+......b.
+...w...w
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 0.332743167877197s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.48
+...W.b..
+b.......
+...w...w
+w.w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+45.2396123409271
+...W.b..
+........
+.b.w...w
+w.w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a5 c7] in 0.363094806671143s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.42
+...W.b..
+..w.....
+...w...w
+..w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f8 e7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+44.876517534256
+...W....
+..w.b...
+...w...w
+..w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.353193044662476s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 1: vdhankar=1 and bodala=0 ##########
+#################### ROUND 22: vdhankar (B) vs bodala (W): game 2 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.7119691371918s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g3 h4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.288030862808
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 12.3603098392487s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J h4 f6] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+275.92772102356
+.b.b.b.b
+b.b.b.b.
+.b.b.w..
+....b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e7 g5] in 9.34479999542236s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h2 g3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+266.582921028137
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 f4] in 21.4170870780945s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.83
+.b.b.b.b
+b.b...b.
+.b.b....
+....b...
+.....b..
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J e3 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+245.165833950043
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.w.
+........
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 15.8482489585876s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.78
+.b.b.b.b
+b.b...b.
+.b.b....
+......w.
+...b....
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c3 e5] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+229.317584991455
+.b.b.b.b
+b.b...b.
+.b.b....
+....w.w.
+........
+w.....w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 f4 ; J f4 h2] in 14.7646520137787s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.71
+.b.b.b.b
+b.b...b.
+.b......
+......w.
+........
+w.......
+.w.w.w.b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 g3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+214.552932977676
+.b.b.b.b
+b.b...b.
+.b......
+......w.
+........
+w.....w.
+.w.w...b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 d6] in 42.9087550640106s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.65
+.b.b.b.b
+b.....b.
+.b.b....
+......w.
+........
+w.....w.
+.w.w...b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g1 f2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+171.644177913666
+.b.b.b.b
+b.....b.
+.b.b....
+......w.
+........
+w.....w.
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 65.3162569999695s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.59
+.b.b.b.b
+b.....b.
+.b......
+..b...w.
+........
+w.....w.
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+106.327920913696
+.b.b.b.b
+b.....b.
+.b......
+..b...w.
+........
+w...w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 b4] in 38.493931055069s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.55
+.b.b.b.b
+b.....b.
+.b......
+......w.
+.b......
+w...w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J a3 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+67.8339898586273
+.b.b.b.b
+b.....b.
+.b......
+..w...w.
+........
+....w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4 ; J d4 f2] in 22.3276419639587s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.5
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+......w.
+.w.w.b.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d2 e3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+45.5063478946686
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w...b.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g1] in 24.4490160942078s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.44
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w.....b
+w.w.w.B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E e1 f2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.0573318004608
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w...w.b
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 0.506186008453369s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.39
+.b.b.b.b
+b.......
+.......b
+......w.
+........
+....w.w.
+.w...w.b
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c1 d2] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.5511457920074
+.b.b.b.b
+b.......
+.......b
+......w.
+........
+....w.w.
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f4] in 0.350117206573486s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.32
+.b.b.b.b
+b.......
+........
+........
+.....b..
+....w.w.
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J g3 e5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.201028585434
+.b.b.b.b
+b.......
+........
+....w...
+........
+....w...
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a7 b6] in 0.69172191619873s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.26
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w...
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 g3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+19.5093066692352
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w.w.
+.w.w...b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 0.81924295425415s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.21
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w.w.
+.w.w.B.b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d2 c3] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+18.6900637149811
+.b.b.b.b
+........
+.b......
+....w...
+........
+..w.w.w.
+.w...B.b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4 ; J d4 f6] in 0.386634111404419s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.13
+.b.b.b.b
+........
+.b...B..
+........
+........
+..w...w.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b2 a3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+18.3034296035767
+.b.b.b.b
+........
+.b...B..
+........
+........
+w.w...w.
+.......b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 0.609806060791016s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.09
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.......b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a1 b2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+17.6936235427856
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.w.....b
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 0.481506109237671s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.04
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g3 h4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+17.212117433548
+.b.b.b.b
+........
+.b......
+....B...
+.......w
+w.w.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 c5] in 0.515383005142212s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.98
+.b.b.b.b
+........
+........
+..b.B...
+.......w
+w.w.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+16.6967344284058
+.b.b.b.b
+........
+........
+..b.B...
+.w.....w
+w.......
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d4] in 0.416695833206177s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.93
+.b.b.b.b
+........
+........
+....B...
+.w.b...w
+w.......
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b2 c3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+16.2800385951996
+.b.b.b.b
+........
+........
+....B...
+.w.b...w
+w.w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b2] in 0.359155178070068s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.88
+.b.b.b.b
+........
+........
+....B...
+.w.....w
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h4 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+15.9208834171295
+.b.b.b.b
+........
+........
+....B.w.
+.w......
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 f4] in 0.676521062850952s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.83
+.b.b.b.b
+........
+........
+......w.
+.w...B..
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+15.2443623542786
+.b.b.b.b
+........
+........
+..w...w.
+.....B..
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h6] in 0.436812162399292s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.78
+.b.b.b.b
+........
+.......B
+..w.....
+........
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+14.8075501918793
+.b.b.b.b
+........
+.......B
+..w.....
+.w......
+........
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b2 c1] in 0.40106201171875s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.74
+.b.b.b.b
+........
+.......B
+..w.....
+.w......
+........
+........
+..B...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+14.4064881801605
+.b.b.b.b
+........
+.......B
+w.w.....
+........
+........
+........
+..B...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 0.44970703125s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.7
+.b.b.b.b
+........
+.......B
+w.w.....
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c5 d6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+13.9567811489105
+.b.b.b.b
+........
+...w...B
+w.......
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 0.389984130859375s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.65
+.b.b.b..
+......b.
+...w...B
+w.......
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a5 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+13.5667970180511
+.b.b.b..
+......b.
+.w.w...B
+........
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 0.388577938079834s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.6
+.b.b.b..
+......b.
+.w.w...B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d6 e7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+13.1782190799713
+.b.b.b..
+....w.b.
+.w.....B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.344886779785156s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.54
+.b...b..
+......b.
+.w...b.B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+12.8333323001862
+.b...b..
+w.....b.
+.....b.B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 e7] in 0.365922927856445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 2: vdhankar=2 and bodala=0 ##########
+#################### ROUND 22: vdhankar (W) vs bodala (B): game 3 ####################
+##### game start! #####
+INPUT for bodala:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f6 e5] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 8.99773001670837s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.75
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 a5] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+291.002269983292
+.b.b.b.b
+b.b.b.b.
+...b...b
+b...b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 9.7269880771637s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.56
+.b.b.b.b
+b.b.b.b.
+...b...b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g7 f6] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+281.275281906128
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a3 b4] in 4.55543994903564s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.43
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c7 b6] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+276.719841957092
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b2 a3] in 6.931391954422s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299.25
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.w.....w
+w.w.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+269.78845000267
+.b.b.b.b
+b...b...
+...b.b.b
+b.b.b...
+.w.....w
+w.w.w.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 4.10025215148926s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+299
+.b.b.b.b
+b...b...
+...b.b.b
+b.b.b...
+.w.w...w
+w.w...w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c5 e3] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+265.688197851181
+.b.b.b.b
+b...b...
+...b.b.b
+b...b...
+.w.....w
+w.w.b.w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4] in 9.04036784172058s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.83
+.b.b.b.b
+b...b...
+...b.b.b
+b...b...
+.w.w...w
+w.w...w.
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E e5 f4] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+256.64783000946
+.b.b.b.b
+b...b...
+...b.b.b
+b.......
+.w.w.b.w
+w.w...w.
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5 ; J e5 g7] in 3.67891097068787s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.56
+.b.b.b.b
+b...b.w.
+...b...b
+b.......
+.w.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J h8 f6] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+252.968919038773
+.b.b.b..
+b...b...
+...b.b.b
+b.......
+.w.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b4 c5] in 5.3341498374939s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+298.12
+.b.b.b..
+b...b...
+...b.b.b
+b.w.....
+...w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J d6 b4] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+247.634769201279
+.b.b.b..
+b...b...
+.....b.b
+b.......
+.b.w...w
+w.w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a3 c5] in 5.27994394302368s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.98
+.b.b.b..
+b...b...
+.....b.b
+b.w.....
+...w...w
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f6 g5] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+242.354825258255
+.b.b.b..
+b...b...
+.......b
+b.w...b.
+...w...w
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 3.25948190689087s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.79
+.b.b.b..
+b...b...
+.....w.b
+b.w.....
+...w....
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J e7 g5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+239.095343351364
+.b.b.b..
+b.......
+.......b
+b.w...b.
+...w....
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 e5] in 24.3969202041626s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.48
+.b.b.b..
+b.......
+.......b
+b.w.w.b.
+........
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g5 h4] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+214.698423147202
+.b.b.b..
+b.......
+.......b
+b.w.w...
+.......b
+..w.....
+...w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 46.669527053833s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+297.08
+.b.b.b..
+b.......
+.......b
+b.w.w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d8 c7] in 0.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+168.028896093369
+.b...b..
+b.b.....
+.......b
+b.w.w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d6] in 35.5943942070007s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+296.48
+.b...b..
+b.b.....
+...w...b
+b...w...
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h6 g5] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+132.434501886368
+.b...b..
+b.b.....
+...w....
+b...w.b.
+.......b
+..w.w...
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 30.6488718986511s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+296.02
+.b...b..
+b.b.....
+...w....
+b...w.b.
+.......b
+..w.w...
+...w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c7 b6] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+101.785629987717
+.b...b..
+b.......
+.b.w....
+b...w.b.
+.......b
+..w.w...
+...w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 17.0748479366302s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.84
+.b...b..
+b.......
+.b.w....
+b...w.b.
+.......b
+..w.w...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+84.7107820510864
+.b...b..
+b.......
+...w....
+b.b.w.b.
+.......b
+..w.w...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 7.1400740146637s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.71
+.b...b..
+b.......
+...w....
+b.b.w.b.
+...w...b
+..w.....
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c5 e3] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+77.5707080364227
+.b...b..
+b.......
+...w....
+b...w.b.
+.......b
+..w.b...
+...w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 f4 ; J f4 h6] in 1.73076987266541s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.58
+.b...b..
+b.......
+...w...w
+b...w...
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a7 b6] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+75.8399381637573
+.b...b..
+........
+.b.w...w
+b...w...
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 f6] in 7.57580304145813s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.48
+.b...b..
+........
+.b.w.w.w
+b.......
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 c5] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+68.2641351222992
+.b...b..
+........
+...w.w.w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e7] in 5.90922403335571s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.34
+.b...b..
+....w...
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b8 a7] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+62.3549110889435
+.....b..
+b...w...
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 d8] in 3.76580595970154s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.24
+...W.b..
+b.......
+...w...w
+b.b.....
+.......b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c5 b4] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+58.5891051292419
+...W.b..
+b.......
+...w...w
+b.......
+.b.....b
+..w.....
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 d4] in 3.13586091995239s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+295.1
+...W.b..
+b.......
+...w...w
+b.......
+.b.w...b
+........
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 a3] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+55.4532442092896
+...W.b..
+b.......
+...w...w
+b.......
+...w...b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 c5] in 5.57701516151428s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.92
+...W.b..
+b.......
+...w...w
+b.w.....
+.......b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a5 b4] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+49.8762290477753
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+b.......
+.......w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c1 d2] in 1.41287398338318s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.83
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+b.......
+...w...w
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a3 b2] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+48.4633550643921
+...W.b..
+b.......
+...w...w
+..w.....
+.b.....b
+........
+.b.w...w
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a1 c3 ; J c3 a5] in 0.350558996200562s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.75
+...W.b..
+b.......
+...w...w
+w.w.....
+.......b
+........
+...w...w
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h4 g3] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+48.1127960681915
+...W.b..
+b.......
+...w...w
+w.w.....
+........
+......b.
+...w...w
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h2 f4] in 0.343175172805786s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.68
+...W.b..
+b.......
+...w...w
+w.w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+47.7696208953857
+...W.b..
+........
+.b.w...w
+w.w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a5 c7] in 0.348788976669312s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+BLACK
+294.62
+...W.b..
+..w.....
+...w...w
+..w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f8 e7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+WHITE
+47.4208319187164
+...W....
+..w.b...
+...w...w
+..w.....
+.....w..
+........
+...w....
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.369925975799561s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 3: vdhankar=3 and bodala=0 ##########
+#################### ROUND 22: vdhankar (B) vs bodala (W): game 4 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.7043800354004s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g3 h4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.2956199646
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 11.3435568809509s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J h4 f6] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+276.952063083649
+.b.b.b.b
+b.b.b.b.
+.b.b.w..
+....b...
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e7 g5] in 8.36781597137451s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h2 g3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+268.584247112274
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 f4] in 21.6139080524445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.83
+.b.b.b.b
+b.b...b.
+.b.b....
+....b...
+.....b..
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J e3 g5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+246.97033905983
+.b.b.b.b
+b.b...b.
+.b.b....
+....b.w.
+........
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 16.083065032959s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b...b.
+.b.b....
+......w.
+...b....
+w.w...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J c3 e5] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+230.887274026871
+.b.b.b.b
+b.b...b.
+.b.b....
+....w.w.
+........
+w.....w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 f4 ; J f4 h2] in 14.7802629470825s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.7
+.b.b.b.b
+b.b...b.
+.b......
+......w.
+........
+w.......
+.w.w.w.b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 g3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+216.107011079788
+.b.b.b.b
+b.b...b.
+.b......
+......w.
+........
+w.....w.
+.w.w...b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 d6] in 42.9345090389252s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.65
+.b.b.b.b
+b.....b.
+.b.b....
+......w.
+........
+w.....w.
+.w.w...b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g1 f2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+173.172502040863
+.b.b.b.b
+b.....b.
+.b.b....
+......w.
+........
+w.....w.
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 65.8721899986267s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.6
+.b.b.b.b
+b.....b.
+.b......
+..b...w.
+........
+w.....w.
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 e3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+107.300312042236
+.b.b.b.b
+b.....b.
+.b......
+..b...w.
+........
+w...w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 b4] in 38.5563659667969s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.54
+.b.b.b.b
+b.....b.
+.b......
+......w.
+.b......
+w...w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J a3 c5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+68.7439460754395
+.b.b.b.b
+b.....b.
+.b......
+..w...w.
+........
+....w.w.
+.w.w...b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4 ; J d4 f2] in 22.2278459072113s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.48
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+......w.
+.w.w.b.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d2 e3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+46.5161001682281
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w...b.b
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g1] in 24.1647539138794s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.43
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w.....b
+w.w.w.B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E e1 f2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+22.3513462543488
+.b.b.b.b
+b.....b.
+........
+......w.
+........
+....w.w.
+.w...w.b
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 0.530827045440674s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.38
+.b.b.b.b
+b.......
+.......b
+......w.
+........
+....w.w.
+.w...w.b
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c1 d2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.8205192089081
+.b.b.b.b
+b.......
+.......b
+......w.
+........
+....w.w.
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f4] in 0.356297016143799s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.32
+.b.b.b.b
+b.......
+........
+........
+.....b..
+....w.w.
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [J g3 e5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.4642221927643
+.b.b.b.b
+b.......
+........
+....w...
+........
+....w...
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a7 b6] in 0.641304016113281s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.26
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w...
+.w.w.w.b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E f2 g3] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.822918176651
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w.w.
+.w.w...b
+w.....B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 0.861361026763916s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.2
+.b.b.b.b
+........
+.b......
+....w...
+........
+....w.w.
+.w.w.B.b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d2 c3] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+19.9615571498871
+.b.b.b.b
+........
+.b......
+....w...
+........
+..w.w.w.
+.w...B.b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4 ; J d4 f6] in 0.446982145309448s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.13
+.b.b.b.b
+........
+.b...B..
+........
+........
+..w...w.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b2 a3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+19.5145750045776
+.b.b.b.b
+........
+.b...B..
+........
+........
+w.w...w.
+.......b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 0.59833288192749s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.08
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.......b
+w.......
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a1 b2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+18.9162421226501
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.w.....b
+........
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 0.497380971908569s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+299.02
+.b.b.b.b
+........
+.b......
+....B...
+........
+w.w...w.
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E g3 h4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+18.4188611507416
+.b.b.b.b
+........
+.b......
+....B...
+.......w
+w.w.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 c5] in 0.579827070236206s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.96
+.b.b.b.b
+........
+........
+..b.B...
+.......w
+w.w.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+17.8390340805054
+.b.b.b.b
+........
+........
+..b.B...
+.w.....w
+w.......
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d4] in 0.553740978240967s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.91
+.b.b.b.b
+........
+........
+....B...
+.w.b...w
+w.......
+.w......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b2 c3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+17.2852931022644
+.b.b.b.b
+........
+........
+....B...
+.w.b...w
+w.w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b2] in 0.419863939285278s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.86
+.b.b.b.b
+........
+........
+....B...
+.w.....w
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E h4 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+16.8654291629791
+.b.b.b.b
+........
+........
+....B.w.
+.w......
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 f4] in 0.637386083602905s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.82
+.b.b.b.b
+........
+........
+......w.
+.w...B..
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+16.2280430793762
+.b.b.b.b
+........
+........
+..w...w.
+.....B..
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h6] in 0.414127111434937s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.78
+.b.b.b.b
+........
+.......B
+..w.....
+........
+w.......
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+15.8139159679413
+.b.b.b.b
+........
+.......B
+..w.....
+.w......
+........
+.b......
+......B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b2 c1] in 0.470525026321411s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.73
+.b.b.b.b
+........
+.......B
+..w.....
+.w......
+........
+........
+..B...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+15.3433909416199
+.b.b.b.b
+........
+.......B
+w.w.....
+........
+........
+........
+..B...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 0.459395885467529s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.69
+.b.b.b.b
+........
+.......B
+w.w.....
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E c5 d6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+14.8839950561523
+.b.b.b.b
+........
+...w...B
+w.......
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 0.383649826049805s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.64
+.b.b.b..
+......b.
+...w...B
+w.......
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E a5 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+14.5003452301025
+.b.b.b..
+......b.
+.w.w...B
+........
+........
+........
+.......B
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 0.362367153167725s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.59
+.b.b.b..
+......b.
+.w.w...B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E d6 e7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+14.1379780769348
+.b.b.b..
+....w.b.
+.w.....B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.377706050872803s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for bodala:
+GAME
+WHITE
+298.53
+.b...b..
+......b.
+.w...b.B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on bodala #####
+##### bodala plays [E b6 a7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+INPUT for vdhankar:
+GAME
+BLACK
+13.760272026062
+.b...b..
+w.....b.
+.....b.B
+........
+........
+......B.
+........
+..B.....
+##### Running: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_bodala.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 e7] in 0.39159893989563s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_bodala #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 4: vdhankar=4 and bodala=0 ##########
+
+
+########## GRAND WINNER ROUND 22 IS vdhankar BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,263 @@
+##### Single move 1 start! #####
+INPUT for seokjooy:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.197236061096191s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 2 start! #####
+INPUT for seokjooy:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.193026065826416s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 3 start! #####
+INPUT for seokjooy:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192111968994141s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 4 start! #####
+INPUT for seokjooy:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.191344976425171s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 5 start! #####
+INPUT for seokjooy:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192270040512085s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 6 start! #####
+INPUT for seokjooy:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192249059677124s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 7 start! #####
+INPUT for seokjooy:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.191898822784424s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 8 start! #####
+INPUT for seokjooy:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192188024520874s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 9 start! #####
+INPUT for seokjooy:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192008018493652s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 10 start! #####
+INPUT for seokjooy:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_seokjooy.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on seokjooy #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 472, in <module>
+    player_1 = Agent()
+  File "homework.py", line 31, in __init__
+    self.start_time = time.clock()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### seokjooy plays [No Move] in 0.192161083221436s #####
+##### No output.txt found. GAME OVER #####
+
+
+########## Total score: 0 ##########

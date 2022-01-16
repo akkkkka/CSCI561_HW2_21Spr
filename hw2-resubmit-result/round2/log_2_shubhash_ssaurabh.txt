@@ -1,0 +1,331 @@
+#################### ROUND 2: shubhash (B) vs ssaurabh (W): game 1 ####################
+##### game start! #####
+INPUT for shubhash:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E f6 g5] in 21.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E c3 b4] in 1.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for shubhash:
+GAME
+BLACK
+278.25
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E g5 h4] in 24.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+298.42
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+.w.....b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '298.42'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.48015308380127s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: shubhash=1 and ssaurabh=0 ##########
+#################### ROUND 2: shubhash (W) vs ssaurabh (B): game 2 ####################
+##### game start! #####
+INPUT for ssaurabh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E f6 g5] in 4.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for shubhash:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E c3 b4] in 25.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+BLACK
+295.06
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '295.06'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.34375s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: shubhash=2 and ssaurabh=0 ##########
+#################### ROUND 2: shubhash (B) vs ssaurabh (W): game 3 ####################
+##### game start! #####
+INPUT for shubhash:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E f6 g5] in 28.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E c3 b4] in 2.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for shubhash:
+GAME
+BLACK
+271.72
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E g5 h4] in 28.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+WHITE
+297.9
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+........
+.w.....b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '297.9'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.421969890594482s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: shubhash=3 and ssaurabh=0 ##########
+#################### ROUND 2: shubhash (W) vs ssaurabh (B): game 4 ####################
+##### game start! #####
+INPUT for ssaurabh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### ssaurabh plays [E f6 g5] in 4.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for shubhash:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### SUCCESS: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shubhash #####
+##### shubhash plays [E c3 b4] in 26.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+INPUT for ssaurabh:
+GAME
+BLACK
+295.29
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_shubhash_ssaurabh.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on ssaurabh #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 415, in <module>
+    if int(time_left) > 400:
+ValueError: invalid literal for int() with base 10: '295.29'
+##### End of output of failed program #####
+##### ssaurabh plays [No Move] in 0.457800149917603s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shubhash_ssaurabh #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: ssaurabh loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: shubhash=4 and ssaurabh=0 ##########
+
+
+########## GRAND WINNER ROUND 2 IS shubhash BY 4 vs 0 GAMESCORE ##########

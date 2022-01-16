@@ -1,0 +1,2950 @@
+#################### ROUND 1: reference (W) vs beiyouzh (B): game 1 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0146949291229248s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.985305070877
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0116779804229736s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.64
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 b4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.973627090454
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.b
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0239629745483398s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.28
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w..
+w...w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f2 h4] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.949664115906
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f6 e5 ] in 0.0131011009216309s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.82
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b2 c3] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.936563014984
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w.w.w...
+...w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e5 d4 ] in 0.0121779441833496s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E e5 d4 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 1: reference=1 and beiyouzh=0 ##########
+#################### ROUND 1: reference (B) vs beiyouzh (W): game 2 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h6 g5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.059237003326416s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.69
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g7 h6] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.940762996674
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0140979290008545s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.36
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g5 h4] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.926665067673
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+........
+.....w.b
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g1 h2 ] in 0.0138399600982666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.04
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+........
+.....w.b
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.912825107574
+.b.b.b.b
+b.b.b...
+...b.b.b
+..b.....
+.....w.b
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e3 d4 ] in 0.0212490558624268s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+298.64
+.b.b.b.b
+b.b.b...
+...b.b.b
+..b.....
+...w.w.b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c5 e3 ; J e3 g1] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.891576051712
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.....w.b
+w.w...w.
+.w.w...w
+w.w.w.B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E d2 e3 ] in 0.0124189853668213s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+298.22
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.....w.b
+w.w.w.w.
+.w.....w
+w.w.w.B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J h4 f2] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.879157066345
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.....w..
+w.w.w...
+.w...b.w
+w.w.w.B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J e1 g3 ] in 0.0337121486663818s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+297.74
+.b.b.b.b
+b.b.b...
+...b.b.b
+........
+.....w..
+w.w.w.w.
+.w.....w
+w.w...B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 c5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.845444917679
+.b.b.b.b
+b.b.b...
+.....b.b
+..b.....
+.....w..
+w.w.w.w.
+.w.....w
+w.w...B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c1 d2 ] in 0.0125210285186768s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+297.42
+.b.b.b.b
+b.b.b...
+.....b.b
+..b.....
+.....w..
+w.w.w.w.
+.w.w...w
+w.....B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e7 d6] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.83292388916
+.b.b.b.b
+b.b.....
+...b.b.b
+..b.....
+.....w..
+w.w.w.w.
+.w.w...w
+w.....B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 h4 ] in 0.0117559432983398s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+297.06
+.b.b.b.b
+b.b.....
+...b.b.b
+..b.....
+.....w.w
+w.w.w...
+.w.w...w
+w.....B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E a7 b6] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.821167945862
+.b.b.b.b
+..b.....
+.b.b.b.b
+..b.....
+.....w.w
+w.w.w...
+.w.w...w
+w.....B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0123019218444824s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+296.61
+.b.b.b.b
+..b.....
+.b.b.b.b
+..b.....
+.....w.w
+w.w.w.w.
+.w.w....
+w.....B.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g1 f2] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.808866024017
+.b.b.b.b
+..b.....
+.b.b.b.b
+..b.....
+.....w.w
+w.w.w.w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e3 d4 ] in 0.0119280815124512s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+296.24
+.b.b.b.b
+..b.....
+.b.b.b.b
+..b.....
+...w.w.w
+w.w...w.
+.w.w.B..
+w.......
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c5 e3 ; J e3 c1] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.796937942505
+.b.b.b.b
+..b.....
+.b.b.b.b
+........
+.....w.w
+w.w...w.
+.w...B..
+w.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c3 b4 ] in 0.0113170146942139s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+295.88
+.b.b.b.b
+..b.....
+.b.b.b.b
+........
+.w...w.w
+w.....w.
+.w...B..
+w.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f2 e3] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.785620927811
+.b.b.b.b
+..b.....
+.b.b.b.b
+........
+.w...w.w
+w...B.w.
+.w......
+w.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b2 c3 ] in 0.0129060745239258s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+295.52
+.b.b.b.b
+..b.....
+.b.b.b.b
+........
+.w...w.w
+w.w.B.w.
+........
+w.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J e3 g5] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.772714853287
+.b.b.b.b
+..b.....
+.b.b.b.b
+......B.
+.w.....w
+w.w...w.
+........
+w.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E a1 b2 ] in 0.0154671669006348s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+295.12
+.b.b.b.b
+..b.....
+.b.b.b.b
+......B.
+.w.....w
+w.w...w.
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 a5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.757247686386
+.b.b.b.b
+..b.....
+...b.b.b
+b.....B.
+.w.....w
+w.w...w.
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0117537975311279s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+294.81
+.b.b.b.b
+..b.....
+...b.b.b
+b.....B.
+.w...w.w
+w.w.....
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J g5 e3] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.745493888855
+.b.b.b.b
+..b.....
+...b.b.b
+b.......
+.w.....w
+w.w.B...
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g5 ] in 0.0170090198516846s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+294.46
+.b.b.b.b
+..b.....
+...b.b.b
+b.....w.
+.w......
+w.w.B...
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J h6 f4] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.728484869003
+.b.b.b.b
+..b.....
+...b.b..
+b.......
+.w...b..
+w.w.B...
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c3 d4 ] in 0.0413050651550293s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+294.17
+.b.b.b.b
+..b.....
+...b.b..
+b.......
+.w.w.b..
+w...B...
+.w......
+..B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J a5 c3 ; J c3 a1] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.687179803848
+.b.b.b.b
+..b.....
+...b.b..
+........
+...w.b..
+w...B...
+........
+B.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E a3 b4 ] in 0.0117487907409668s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+293.84
+.b.b.b.b
+..b.....
+...b.b..
+........
+.w.w.b..
+....B...
+........
+B.B.....
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J e3 c5 ; J c5 a3] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: reference wins the game! #####
+Server said: WIN
+########## ROUND 1 GAMESCORE AFTER GAME 2: reference=2 and beiyouzh=0 ##########
+#################### ROUND 1: reference (W) vs beiyouzh (B): game 3 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.013002872467041s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.986997127533
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0509850978851318s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.65
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h2 g3] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.936012029648
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f6 e5 ] in 0.0183289051055908s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.28
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.....w.b
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.917683124542
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+...w.w.b
+w...w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J e5 c3 ] in 0.0391139984130859s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.91
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+.....w.b
+w.b.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 b4] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.878569126129
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+.w...w.b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E d6 e5 ] in 0.0169010162353516s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.53
+.b.b.b.b
+b.b.b.b.
+.b......
+....b...
+.w...w.b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f4 d6] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.861668109894
+.b.b.b.b
+b.b.b.b.
+.b.w....
+........
+.w.....b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J c7 e5 ] in 0.067451000213623s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.22
+.b.b.b.b
+b...b.b.
+.b......
+....b...
+.w.....b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b2 c3] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.79421710968
+.b.b.b.b
+b...b.b.
+.b......
+....b...
+.w.....b
+w.w.w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e5 d4 ] in 0.0119450092315674s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.83
+.b.b.b.b
+b...b.b.
+.b......
+........
+.w.b...b
+w.w.w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c3 e5] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.782272100449
+.b.b.b.b
+b...b.b.
+.b......
+....w...
+.w.....b
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b6 a5 ] in 0.0159409046173096s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.45
+.b.b.b.b
+b...b.b.
+........
+b...w...
+.w.....b
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c1 b2] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.766331195831
+.b.b.b.b
+b...b.b.
+........
+b...w...
+.w.....b
+w...w.w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J a5 c3 ] in 0.0134181976318359s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.09
+.b.b.b.b
+b...b.b.
+........
+....w...
+.......b
+w.b.w.w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.752912998199
+.b.b.b.b
+b...b.b.
+........
+....w...
+...w...b
+w...w.w.
+.....w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g7 h6 ] in 0.0184030532836914s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.73
+.b.b.b.b
+b...b...
+.......b
+....w...
+...w...b
+w...w.w.
+.....w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e1 d2] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.734509944916
+.b.b.b.b
+b...b...
+.......b
+....w...
+...w...b
+w...w.w.
+...w.w..
+w.....w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0126290321350098s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.38
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w...b
+w...w.w.
+...w.w..
+w.....w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.721880912781
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w.w.b
+w...w...
+...w.w..
+w.....w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0231568813323975s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.03
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w.w..
+w...w.b.
+...w.w..
+w.....w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f2 h4 ; J h4 f6] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.698724031448
+.b.b.b.b
+b...b...
+.....w..
+....w...
+...w.w..
+w...w...
+...w....
+w.....w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e7 d6 ] in 0.0572988986968994s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E e7 d6 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 3: reference=3 and beiyouzh=0 ##########
+#################### ROUND 1: reference (B) vs beiyouzh (W): game 4 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0295679569244385s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.7
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 e5] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.970432043076
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0108580589294434s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h2 g3 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 4: reference=4 and beiyouzh=0 ##########
+#################### ROUND 1: reference (W) vs beiyouzh (B): game 5 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0123879909515381s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.987612009048
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0114510059356689s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.66
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 b4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.976161003113
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.b
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0420470237731934s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.32
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w..
+w...w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f2 h4] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.93411397934
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f6 e5 ] in 0.0326640605926514s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.85
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g1 f2] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.901449918747
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w...w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e5 d4 ] in 0.0139620304107666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E e5 d4 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 5: reference=5 and beiyouzh=0 ##########
+#################### ROUND 1: reference (B) vs beiyouzh (W): game 6 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0205750465393066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.64
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 e5] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.979424953461
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0200159549713135s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h2 g3 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 6: reference=6 and beiyouzh=0 ##########
+#################### ROUND 1: reference (W) vs beiyouzh (B): game 7 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0126080513000488s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.9873919487
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0201668739318848s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.69
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 b4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.967225074768
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.b
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0210790634155273s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.33
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w..
+w...w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f2 h4] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.946146011353
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f6 e5 ] in 0.0129210948944092s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.82
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w...w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b2 c3] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.933224916458
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.w...w.w
+w.w.w...
+...w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e5 d4 ] in 0.0236611366271973s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E e5 d4 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 7: reference=7 and beiyouzh=0 ##########
+#################### ROUND 1: reference (B) vs beiyouzh (W): game 8 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h6 g5] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 f4 ] in 0.0119428634643555s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.65
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g7 h6] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.988057136536
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0148289203643799s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+299.34
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h8 g7] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.973228216171
+.b.b.b..
+b.b.b.b.
+.b.b.b.b
+......b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g1 h2 ] in 0.0126419067382812s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+298.99
+.b.b.b..
+b.b.b.b.
+.b.b.b.b
+......b.
+.....w..
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.960586309433
+.b.b.b..
+b.b.b.b.
+...b.b.b
+..b...b.
+.....w..
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g3 h4 ] in 0.0130898952484131s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+BLACK
+298.63
+.b.b.b..
+b.b.b.b.
+...b.b.b
+..b...b.
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E d6 e5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+WHITE
+299.947496414185
+.b.b.b..
+b.b.b.b.
+.....b.b
+..b.b.b.
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h2 g3 ] in 0.0118598937988281s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: beiyouzh loses because of illegal move [E h2 g3 ] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 8: reference=8 and beiyouzh=0 ##########
+#################### ROUND 1: reference (W) vs beiyouzh (B): game 9 ####################
+##### game start! #####
+INPUT for beiyouzh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0147039890289307s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.985296010971
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g5 h4 ] in 0.0229380130767822s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.67
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h2 g3] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.962357997894
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f6 e5 ] in 0.0425450801849365s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+299.34
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+.....w.b
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c3 d4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.919812917709
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b...
+...w.w.b
+w...w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J e5 c3 ] in 0.0121521949768066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.98
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+.....w.b
+w.b.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d2 b4] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.907660722733
+.b.b.b.b
+b.b.b.b.
+.b.b....
+........
+.w...w.b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E d6 e5 ] in 0.0121259689331055s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.47
+.b.b.b.b
+b.b.b.b.
+.b......
+....b...
+.w...w.b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f4 d6] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.895534753799
+.b.b.b.b
+b.b.b.b.
+.b.w....
+........
+.w.....b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J c7 e5 ] in 0.0570380687713623s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+298.17
+.b.b.b.b
+b...b.b.
+.b......
+....b...
+.w.....b
+w...w.w.
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b2 c3] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.838496685028
+.b.b.b.b
+b...b.b.
+.b......
+....b...
+.w.....b
+w.w.w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e5 d4 ] in 0.0121810436248779s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.79
+.b.b.b.b
+b...b.b.
+.b......
+........
+.w.b...b
+w.w.w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c3 e5] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.826315641403
+.b.b.b.b
+b...b.b.
+.b......
+....w...
+.w.....b
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b6 a5 ] in 0.0132429599761963s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.41
+.b.b.b.b
+b...b.b.
+........
+b...w...
+.w.....b
+w...w.w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E c1 b2] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.813072681427
+.b.b.b.b
+b...b.b.
+........
+b...w...
+.w.....b
+w...w.w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J a5 c3 ] in 0.0327279567718506s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+297.07
+.b.b.b.b
+b...b.b.
+........
+....w...
+.......b
+w.b.w.w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J b2 d4] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.780344724655
+.b.b.b.b
+b...b.b.
+........
+....w...
+...w...b
+w...w.w.
+.....w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g7 h6 ] in 0.0128560066223145s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.74
+.b.b.b.b
+b...b...
+.......b
+....w...
+...w...b
+w...w.w.
+.....w..
+w...w.w.
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g1 h2] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.767488718033
+.b.b.b.b
+b...b...
+.......b
+....w...
+...w...b
+w...w.w.
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h6 g5 ] in 0.0166270732879639s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.4
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w...b
+w...w.w.
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g3 f4] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.750861644745
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w.w.b
+w...w...
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h4 g3 ] in 0.0170619487762451s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+296.05
+.b.b.b.b
+b...b...
+........
+....w.b.
+...w.w..
+w...w.b.
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J f4 h6] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.733799695969
+.b.b.b.b
+b...b...
+.......w
+....w...
+...w....
+w...w.b.
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E e7 d6 ] in 0.0178570747375488s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+295.69
+.b.b.b.b
+b.......
+...b...w
+....w...
+...w....
+w...w.b.
+.....w.w
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J h2 f4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.715942621231
+.b.b.b.b
+b.......
+...b...w
+....w...
+...w.w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E d6 c5 ] in 0.0232648849487305s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+295.35
+.b.b.b.b
+b.......
+.......w
+..b.w...
+...w.w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d4 b6] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.692677736282
+.b.b.b.b
+b.......
+.w.....w
+....w...
+.....w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [J a7 c5 ] in 0.0125758647918701s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+295.01
+.b.b.b.b
+........
+.......w
+..b.w...
+.....w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E e5 d6] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.68010187149
+.b.b.b.b
+........
+...w...w
+..b.....
+.....w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c5 b4 ] in 0.0240590572357178s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+294.69
+.b.b.b.b
+........
+...w...w
+........
+.b...w..
+w...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J a3 c5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.656042814255
+.b.b.b.b
+........
+...w...w
+..w.....
+.....w..
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E h8 g7 ] in 0.0218911170959473s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+294.36
+.b.b.b..
+......b.
+...w...w
+..w.....
+.....w..
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f4 e5] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.634151697159
+.b.b.b..
+......b.
+...w...w
+..w.w...
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E g7 f6 ] in 0.0442101955413818s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+294.02
+.b.b.b..
+........
+...w.b.w
+..w.w...
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J e5 g7] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.589941501617
+.b.b.b..
+......w.
+...w...w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E f8 e7 ] in 0.0446329116821289s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+293.72
+.b.b....
+....b.w.
+...w...w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J d6 f8] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.545308589935
+.b.b.W..
+......w.
+.......w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E d8 c7 ] in 0.0135078430175781s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+293.45
+.b...W..
+..b...w.
+.......w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g7 h8] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.531800746918
+.b...W.W
+..b.....
+.......w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c7 b6 ] in 0.0219020843505859s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+293.15
+.b...W.W
+........
+.b.....w
+..w.....
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J c5 a7] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.509898662567
+.b...W.W
+w.......
+.......w
+........
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b8 c7 ] in 0.05029296875s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+292.9
+.....W.W
+w.b.....
+.......w
+........
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E a7 b8] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.459605693817
+.W...W.W
+..b.....
+.......w
+........
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E c7 b6 ] in 0.0121059417724609s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+292.65
+.W...W.W
+........
+.b.....w
+........
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f8 e7] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.447499752045
+.W.....W
+....W...
+.b.....w
+........
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b6 a5 ] in 0.0293068885803223s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+292.34
+.W.....W
+....W...
+.......w
+b.......
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E h6 g7] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.418192863464
+.W.....W
+....W.w.
+........
+b.......
+........
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E a5 b4 ] in 0.038776159286499s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+292.05
+.W.....W
+....W.w.
+........
+........
+.b......
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E g7 f8] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.379416704178
+.W...W.W
+....W...
+........
+........
+.b......
+....w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E b4 a3 ] in 0.0172159671783447s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+291.75
+.W...W.W
+....W...
+........
+........
+........
+b...w...
+.....w..
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E f2 g3] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for beiyouzh:
+GAME
+BLACK
+299.362200737
+.W...W.W
+....W...
+........
+........
+........
+b...w.w.
+........
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" ./homework > stulog.txt 2>&1 on beiyouzh #####
+##### beiyouzh plays [E a3 b2 ] in 0.0115261077880859s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+INPUT for reference:
+GAME
+WHITE
+291.47
+.W...W.W
+....W...
+........
+........
+........
+....w.w.
+.b......
+w...w...
+##### Running: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_beiyouzh.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [J a1 c3] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_beiyouzh #####
+##### GAME OVER: reference wins the game! #####
+Server said: WIN
+########## ROUND 1 GAMESCORE AFTER GAME 9: reference=9 and beiyouzh=0 ##########
+
+
+########## GRAND WINNER ROUND 1 IS reference BY 9 vs 0 GAMESCORE ##########

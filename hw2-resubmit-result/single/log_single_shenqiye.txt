@@ -1,0 +1,251 @@
+##### Single move 1 start! #####
+INPUT for shenqiye:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [E b6 c5] in 4.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 2 start! #####
+INPUT for shenqiye:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### Output of failed program (stdout + stderr): #####
+Exception in thread "main" java.lang.NullPointerException
+	at homework.genOutput(homework.java:92)
+	at homework.play(homework.java:82)
+	at homework.main(homework.java:76)
+##### End of output of failed program #####
+##### shenqiye plays [] in 0.0742239952087402s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### GAME OVER: shenqiye loses because of illegal move [] #####
+Server said: FAIL
+##### Single move 3 start! #####
+INPUT for shenqiye:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### Output of failed program (stdout + stderr): #####
+Exception in thread "main" java.lang.NullPointerException
+	at homework.genOutput(homework.java:92)
+	at homework.play(homework.java:82)
+	at homework.main(homework.java:76)
+##### End of output of failed program #####
+##### shenqiye plays [] in 0.0738339424133301s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### GAME OVER: shenqiye loses because of illegal move [] #####
+Server said: FAIL
+##### Single move 4 start! #####
+INPUT for shenqiye:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [E h4 g5] in 2.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 5 start! #####
+INPUT for shenqiye:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [E h2 g3] in 1.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 6 start! #####
+INPUT for shenqiye:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [E d6 e5] in 0.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 7 start! #####
+INPUT for shenqiye:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [E g7 h8] in 1.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 8 start! #####
+INPUT for shenqiye:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [J g7 e5 ; J e5 g3 ; J g3 e1] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 9 start! #####
+INPUT for shenqiye:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [J g5 e3 ; J e3 g1] in 0.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+##### Single move 10 start! #####
+INPUT for shenqiye:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### SUCCESS: /usr/bin/time -o time_single_shenqiye.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on shenqiye #####
+##### shenqiye plays [J e5 g3 ; J g3 e1 ; J e1 c3] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_shenqiye #####
+##### CONGRATULATIONS: shenqiye receives 1 point #####
+
+
+########## Total score: 8 ##########

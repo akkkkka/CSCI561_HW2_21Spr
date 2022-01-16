@@ -1,0 +1,239 @@
+##### Single move 1 start! #####
+INPUT for weixingl:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [E B6 C5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 2 start! #####
+INPUT for weixingl:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [J F4 H6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 3 start! #####
+INPUT for weixingl:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [J A1 C3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 4 start! #####
+INPUT for weixingl:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [E B4 C5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 5 start! #####
+INPUT for weixingl:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [E D4 E5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 6 start! #####
+INPUT for weixingl:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [E H4 G3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 7 start! #####
+INPUT for weixingl:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [E G7 H8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 8 start! #####
+INPUT for weixingl:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [J G7 E5 ; J E5 G3 ; J G3 E1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 9 start! #####
+INPUT for weixingl:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [J G5 E3 ; J E3 G1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+##### Single move 10 start! #####
+INPUT for weixingl:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### SUCCESS: /usr/bin/time -o time_single_weixingl.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on weixingl #####
+##### weixingl plays [J E5 G3 ; J G3 E1 ; J E1 C3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_weixingl #####
+##### CONGRATULATIONS: weixingl receives 1 point #####
+
+
+########## Total score: 10 ##########

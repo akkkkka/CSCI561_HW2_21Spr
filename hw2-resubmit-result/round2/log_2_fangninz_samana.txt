@@ -1,0 +1,179 @@
+#################### ROUND 2: fangninz (B) vs samana (W): game 1 ####################
+##### game start! #####
+INPUT for fangninz:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h6 g5] in 3.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+INPUT for samana:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.638223886489868s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: fangninz=1 and samana=0 ##########
+#################### ROUND 2: fangninz (W) vs samana (B): game 2 ####################
+##### game start! #####
+INPUT for samana:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.820693969726562s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: fangninz=2 and samana=0 ##########
+#################### ROUND 2: fangninz (B) vs samana (W): game 3 ####################
+##### game start! #####
+INPUT for fangninz:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h6 g5] in 3.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+INPUT for samana:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.834978103637695s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: fangninz=3 and samana=0 ##########
+#################### ROUND 2: fangninz (W) vs samana (B): game 4 ####################
+##### game start! #####
+INPUT for samana:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_fangninz_samana.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on samana #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 557, in <module>
+    main_start_time =time.clock() #process_time()
+AttributeError: module 'time' has no attribute 'clock'
+##### End of output of failed program #####
+##### samana plays [No Move] in 0.849791049957275s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_fangninz_samana #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: samana loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: fangninz=4 and samana=0 ##########
+
+
+########## GRAND WINNER ROUND 2 IS fangninz BY 4 vs 0 GAMESCORE ##########

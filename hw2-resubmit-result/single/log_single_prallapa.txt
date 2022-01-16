@@ -1,0 +1,249 @@
+##### Single move 1 start! #####
+INPUT for prallapa:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [E b6 a5] in 0.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 2 start! #####
+INPUT for prallapa:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 389, in <module>
+    final_result = minimax_search(game, s0)
+  File "homework.py", line 284, in minimax_search
+    value, move = max_value(game, state, 0, -MAX_INT, MAX_INT)
+  File "homework.py", line 316, in max_value
+    v2, a2 = min_value(game, result_state, depth, alpha, beta)
+  File "homework.py", line 378, in min_value
+    return v, move
+UnboundLocalError: local variable 'move' referenced before assignment
+##### End of output of failed program #####
+##### prallapa plays [No Move] in 0.197771787643433s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 3 start! #####
+INPUT for prallapa:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 408, in <module>
+    avail_jumps = s.black_reg_actions[a[3]]["jumps"]
+KeyError: (7, 2)
+##### End of output of failed program #####
+##### prallapa plays [No Move] in 0.284364938735962s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 4 start! #####
+INPUT for prallapa:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [E b4 a5] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 5 start! #####
+INPUT for prallapa:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [E a3 b4] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 6 start! #####
+INPUT for prallapa:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [E d6 e5] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 7 start! #####
+INPUT for prallapa:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [E g7 f8] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 8 start! #####
+INPUT for prallapa:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [J g7 e5 ; J e5 g3 ; J g3 e1] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+##### Single move 9 start! #####
+INPUT for prallapa:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 408, in <module>
+    avail_jumps = s.black_reg_actions[a[3]]["jumps"]
+KeyError: (7, 2)
+##### End of output of failed program #####
+##### prallapa plays [No Move] in 0.319195032119751s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 10 start! #####
+INPUT for prallapa:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### SUCCESS: /usr/bin/time -o time_single_prallapa.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on prallapa #####
+##### prallapa plays [J e5 g3 ; J g3 e1 ; J e1 c3] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_single_prallapa #####
+##### CONGRATULATIONS: prallapa receives 1 point #####
+
+
+########## Total score: 7 ##########

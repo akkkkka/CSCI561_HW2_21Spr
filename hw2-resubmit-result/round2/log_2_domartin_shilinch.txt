@@ -1,0 +1,4261 @@
+#################### ROUND 2: domartin (B) vs shilinch (W): game 1 ####################
+##### game start! #####
+INPUT for domartin:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f6 e5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+299.98
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g7 f6] in 1.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.98
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 0.0117599964141846s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+298.35
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b6 a5] in 1.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.968240003586
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 h2] in 0.0451328754425049s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+296.57
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c7 b6] in 1.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.923107128143
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f4] in 0.0104568004608154s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+295.04
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.....w.w
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h8 g7] in 1.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.912650327683
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b...b...
+.....w.w
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g5] in 0.0135579109191895s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.96
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b...b.w.
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J f6 h4] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.899092416763
+.b.b.b..
+b...b.b.
+.b.b...b
+b...b...
+.....w.b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 g5] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.79
+.b.b.b..
+b...b.b.
+.b.b...b
+b...b.w.
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h6 f4] in 0.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.759092416763
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b.b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 1.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.64
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b.b
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h4 f2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.639092416763
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b..
+w.w.w...
+.w.w.b.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e3 g5] in 2.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.58
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w.....
+.w.w.b.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 g1] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+296.169092416763
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w.....
+.w.w...w
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 2.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.08
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w...w.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d6 c5] in 1.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+293.549092416763
+.b.b.b..
+b...b.b.
+.b......
+b.b.b.w.
+........
+w.w...w.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 f4] in 0.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.62
+.b.b.b..
+b...b.b.
+.b......
+b.b.b.w.
+.....w..
+w.w.....
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e5 g3] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+292.579092416763
+.b.b.b..
+b...b.b.
+.b......
+b.b...w.
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f6] in 1.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.49
+.b.b.b..
+b...b.b.
+.b...w..
+b.b.....
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J g7 e5] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+291.159092416763
+.b.b.b..
+b...b...
+.b......
+b.b.b...
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b4] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.31
+.b.b.b..
+b...b...
+.b......
+b.b.b...
+.w......
+..w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c5 a3] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+290.819092416763
+.b.b.b..
+b...b...
+.b......
+b...b...
+........
+b.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 0.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.2
+.b.b.b..
+b...b...
+.b......
+b...b...
+.w......
+b.....b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J a5 c3] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+290.019092416763
+.b.b.b..
+b...b...
+.b......
+....b...
+........
+b.b...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b2 d4 ; J d4 f6] in 3.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.1
+.b.b.b..
+b...b...
+.b...w..
+........
+........
+b.....b.
+...w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e7 g5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+286.409092416763
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.....b.
+...w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d2 c3] in 45.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.87
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.w...b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g1 h2] in 2.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+240.499092416763
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.w...b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 14.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+288.29
+.b.b.b..
+b.......
+.b......
+......b.
+.w......
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g5 h4] in 1.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+225.899092416763
+.b.b.b..
+b.......
+.b......
+........
+.w.....b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b4 a5] in 2.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286.96
+.b.b.b..
+b.......
+.b......
+w.......
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b6 c5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+223.619092416763
+.b.b.b..
+b.......
+........
+w.b.....
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b6] in 2.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286.63
+.b.b.b..
+b.......
+.w......
+..b.....
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h2 g1] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+220.849092416763
+.b.b.b..
+b.......
+.w......
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 c7] in 1.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286.16
+.b.b.b..
+b.w.....
+........
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J d8 b6] in 0.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+219.259092416763
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e1 f2] in 5.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.....b.
+.....w..
+w.w...B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J g3 e1] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+213.709092416763
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.......
+........
+w.w.B.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c1 d2] in 0.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.94
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.......
+...w....
+w...B.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e1 c3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+212.869092416763
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.B.....
+........
+w.....B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a1 b2] in 0.0123691558837891s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.91
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.B.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 a1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+##### GAME OVER: domartin wins the game! #####
+Server said: WIN
+########## ROUND 2 GAMESCORE AFTER GAME 1: domartin=1 and shilinch=0 ##########
+#################### ROUND 2: domartin (W) vs shilinch (B): game 2 ####################
+##### game start! #####
+INPUT for shilinch:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 a5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.98
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a7 b6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+299.96
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b2 c3] in 2.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.96
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w....
+w.w.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b8 a7] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+297.54
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w....
+w.w.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g3 h4] in 1.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.95
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 c5] in 0.0872149467468262s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+295.77
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+...w...w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J d4 b6] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.862785053253
+...b.b.b
+b.b.b.b.
+.w.b.b.b
+b.......
+.......w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a7 c5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+295.57
+...b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a1 b2] in 3.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.852785053253
+...b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 b6] in 3.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+291.95
+...b.b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.......w
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h4 g5] in 2.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+296.322785053253
+...b.b.b
+....b.b.
+.b.b.b.b
+b.b...w.
+........
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J f6 h4] in 4.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+289.29
+...b.b.b
+....b.b.
+.b.b...b
+b.b.....
+.......b
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a3 b4] in 3.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+291.762785053253
+...b.b.b
+....b.b.
+.b.b...b
+b.b.....
+.w.....b
+..w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J c5 a3] in 6.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+286.1
+...b.b.b
+....b.b.
+.b.b...b
+b.......
+.......b
+b.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E e3 d4] in 3.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+284.812785053253
+...b.b.b
+....b.b.
+.b.b...b
+b.......
+...w...b
+b.w.....
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d8 c7] in 3.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+282.27
+.....b.b
+..b.b.b.
+.b.b...b
+b.......
+...w...b
+b.w.....
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 e3] in 1.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+281.492785053253
+.....b.b
+..b.b.b.
+.b.b...b
+b.......
+...w...b
+b.w.w...
+.w.w...w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e7 f6] in 2.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+280.96
+.....b.b
+..b...b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w...w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g1 f2] in 1.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+279.472785053253
+.....b.b
+..b...b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f8 e7] in 1.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+279.2
+.......b
+..b.b.b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d4 c5] in 0.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+278.452785053253
+.......b
+..b.b.b.
+.b.b.b.b
+b.w.....
+.......b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d4] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+278.26
+.......b
+..b.b.b.
+...b.b.b
+b.......
+...b...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e3 c5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+278.332785053253
+.......b
+..b.b.b.
+...b.b.b
+b.w.....
+.......b
+b.w.....
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d6 b4] in 1.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+277.93
+.......b
+..b.b.b.
+.....b.b
+b.......
+.b.....b
+b.w.....
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 e3] in 1.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+276.872785053253
+.......b
+..b.b.b.
+.....b.b
+b.......
+.b.....b
+b.w.w...
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 b6] in 0.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+276.69
+.......b
+....b.b.
+.b...b.b
+b.......
+.b.....b
+b.w.w...
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E e3 d4] in 0.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+276.122785053253
+.......b
+....b.b.
+.b...b.b
+b.......
+.b.w...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e7 d6] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+275.91
+.......b
+......b.
+.b.b.b.b
+b.......
+.b.w...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d4 c5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+275.892785053253
+.......b
+......b.
+.b.b.b.b
+b.w.....
+.b.....b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d4] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+275.59
+.......b
+......b.
+...b.b.b
+b.......
+.b.b...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 e5 ; J e5 c7] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+275.472785053253
+.......b
+..w...b.
+.....b.b
+b.......
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 e5] in 2.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+275.4
+.......b
+..w...b.
+.......b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c7 b8] in 1.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+272.672785053253
+.W.....b
+......b.
+.......b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 f6] in 3.89s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+274.08
+.W.....b
+........
+.....b.b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b2 c3] in 1.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+268.782785053253
+.W.....b
+........
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h8 g7] in 1.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+272.67
+.W......
+......b.
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 1.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+267.272785053253
+........
+W.....b.
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 g5] in 0.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+271.63
+........
+W.....b.
+.......b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+266.282785053253
+.W......
+......b.
+.......b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 f6] in 0.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+270.85
+.W......
+........
+.....b.b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+265.562785053253
+........
+W.......
+.....b.b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e5 d4] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+270.27
+........
+W.......
+.....b.b
+b.....b.
+.b.b...b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 e5 ; J e5 g7] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+265.462785053253
+........
+W.....w.
+.......b
+b.....b.
+.b.....b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f4] in 1.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+270.07
+........
+W.....w.
+.......b
+b.......
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g7 f8] in 1.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+264.372785053253
+.....W..
+W.......
+.......b
+b.......
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+268.84
+.....W..
+W.......
+........
+b.....b.
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f8 e7] in 1.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+263.702785053253
+........
+W...W...
+........
+b.....b.
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 g3] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.82
+........
+W...W...
+........
+b.....b.
+.b.....b
+b.....b.
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h2 f4 ; J f4 h6] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+263.202785053253
+........
+W...W...
+.......w
+b.......
+.b.....b
+b.......
+...w....
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b2] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.73
+........
+W...W...
+.......w
+b.......
+.b.....b
+........
+.b.w....
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c1 a3 ; J a3 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+262.982785053253
+........
+W...W...
+.......w
+b.w.....
+.......b
+........
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g3] in 5.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.68
+........
+W...W...
+.......w
+b.w.....
+........
+......b.
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+257.682785053253
+.W......
+....W...
+.......w
+b.w.....
+........
+......b.
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h2] in 6.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.48
+.W......
+....W...
+.......w
+b.w.....
+........
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+251.612785053253
+........
+W...W...
+.......w
+b.w.....
+........
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b4] in 6.86s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.36
+........
+W...W...
+.......w
+..w.....
+.b......
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d2 c3] in 0.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+244.752785053253
+........
+W...W...
+.......w
+..w.....
+.b......
+..w.....
+.......b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b4 d2] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.27
+........
+W...W...
+.......w
+..w.....
+........
+........
+...b...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e1 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+244.532785053253
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.......b
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g1] in 6.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.23
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+237.812785053253
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 f2] in 13.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.97
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+223.972785053253
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 10s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.57
+........
+W...W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+213.972785053253
+.W......
+....W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f2] in 0.0247647762298584s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.23
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+213.948020277023
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 10.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+265.86
+........
+W...W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+203.878020277023
+.W......
+....W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f2] in 0.0158109664916992s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+265.56
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+##### GAME ENDS IN A DRAW. Time left for domartin: 265.15s, shilinch: 203.862209310532s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, domartin wins by time remaining #####
+########## ROUND 2 GAMESCORE AFTER GAME 2: domartin=2 and shilinch=0 ##########
+#################### ROUND 2: domartin (B) vs shilinch (W): game 3 ####################
+##### game start! #####
+INPUT for domartin:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g7 f6] in 1.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.98
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 0.0161449909210205s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+297.99
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+....b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b6 a5] in 1.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.963855009079
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 h2] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+296.15
+.b.b.b.b
+b.b.b...
+...b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c7 b6] in 1.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.953855009079
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f4] in 0.0142650604248047s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+294.62
+.b.b.b.b
+b...b...
+.b.b.b.b
+b...b...
+.....w.w
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h8 g7] in 1.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.939589948654
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b...b...
+.....w.w
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g5] in 0.0153100490570068s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.35
+.b.b.b..
+b...b.b.
+.b.b.b.b
+b...b.w.
+.....w..
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J f6 h4] in 0.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.924279899597
+.b.b.b..
+b...b.b.
+.b.b...b
+b...b...
+.....w.b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 g5] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.19
+.b.b.b..
+b...b.b.
+.b.b...b
+b...b.w.
+.......b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h6 f4] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.784279899597
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b.b
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 1.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293.06
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b.b
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h4 f2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.654279899597
+.b.b.b..
+b...b.b.
+.b.b....
+b...b...
+.....b..
+w.w.w...
+.w.w.b.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e3 g5] in 2.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+293
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w.....
+.w.w.b.w
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 g1] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+296.094279899597
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w.....
+.w.w...w
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 2.92s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+292.53
+.b.b.b..
+b...b.b.
+.b.b....
+b...b.w.
+........
+w.w...w.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d6 c5] in 1.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+293.174279899597
+.b.b.b..
+b...b.b.
+.b......
+b.b.b.w.
+........
+w.w...w.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 f4] in 0.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+291.04
+.b.b.b..
+b...b.b.
+.b......
+b.b.b.w.
+.....w..
+w.w.....
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e5 g3] in 0.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+292.204279899597
+.b.b.b..
+b...b.b.
+.b......
+b.b...w.
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f6] in 1.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.92
+.b.b.b..
+b...b.b.
+.b...w..
+b.b.....
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J g7 e5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+290.724279899597
+.b.b.b..
+b...b...
+.b......
+b.b.b...
+........
+w.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b4] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.72
+.b.b.b..
+b...b...
+.b......
+b.b.b...
+.w......
+..w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c5 a3] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+290.364279899597
+.b.b.b..
+b...b...
+.b......
+b...b...
+........
+b.w...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 0.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.61
+.b.b.b..
+b...b...
+.b......
+b...b...
+.w......
+b.....b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J a5 c3] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+289.464279899597
+.b.b.b..
+b...b...
+.b......
+....b...
+........
+b.b...b.
+.w.w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b2 d4 ; J d4 f6] in 3.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.48
+.b.b.b..
+b...b...
+.b...w..
+........
+........
+b.....b.
+...w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e7 g5] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+285.894279899597
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.....b.
+...w....
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d2 c3] in 45.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+290.26
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.w...b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g1 h2] in 2.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+239.984279899597
+.b.b.b..
+b.......
+.b......
+......b.
+........
+b.w...b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 14.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+287.7
+.b.b.b..
+b.......
+.b......
+......b.
+.w......
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g5 h4] in 1.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+225.404279899597
+.b.b.b..
+b.......
+.b......
+........
+.w.....b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b4 a5] in 2.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286.38
+.b.b.b..
+b.......
+.b......
+w.......
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b6 c5] in 0.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+222.914279899597
+.b.b.b..
+b.......
+........
+w.b.....
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b6] in 2.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+286.03
+.b.b.b..
+b.......
+.w......
+..b.....
+.......b
+b.....b.
+.......B
+w.w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h2 g1] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+220.264279899597
+.b.b.b..
+b.......
+.w......
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 c7] in 1.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.56
+.b.b.b..
+b.w.....
+........
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J d8 b6] in 0.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+218.524279899597
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.....b.
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e1 f2] in 5.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.4
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.....b.
+.....w..
+w.w...B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J g3 e1] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+213.084279899597
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.......
+........
+w.w.B.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c1 d2] in 0.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.33
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.......
+...w....
+w...B.B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e1 c3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+212.204279899597
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.B.....
+........
+w.....B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a1 b2] in 0.027554988861084s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+BLACK
+285.28
+.b...b..
+b.......
+.b......
+..b.....
+.......b
+b.B.....
+.w......
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 a1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+##### GAME OVER: domartin wins the game! #####
+Server said: WIN
+########## ROUND 2 GAMESCORE AFTER GAME 3: domartin=3 and shilinch=0 ##########
+#################### ROUND 2: domartin (W) vs shilinch (B): game 4 ####################
+##### game start! #####
+INPUT for shilinch:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 a5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c3 d4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.98
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a7 b6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+299.97
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b2 c3] in 2.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.96
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+...w....
+w.w.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b8 a7] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+297.63
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w....
+w.w.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g3 h4] in 1.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.95
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+...w...w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 c5] in 0.0162601470947266s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+295.98
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+...w...w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J d4 b6] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.933739852905
+...b.b.b
+b.b.b.b.
+.w.b.b.b
+b.......
+.......w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a7 c5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+295.75
+...b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a1 b2] in 3.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.913739852905
+...b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 b6] in 4.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+292.25
+...b.b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.......w
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E h4 g5] in 2.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+295.903739852905
+...b.b.b
+....b.b.
+.b.b.b.b
+b.b...w.
+........
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J f6 h4] in 4.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+289.57
+...b.b.b
+....b.b.
+.b.b...b
+b.b.....
+.......b
+w.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a3 b4] in 3.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+291.163739852905
+...b.b.b
+....b.b.
+.b.b...b
+b.b.....
+.w.....b
+..w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J c5 a3] in 7.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+286.41
+...b.b.b
+....b.b.
+.b.b...b
+b.......
+.......b
+b.w.w...
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E e3 d4] in 3.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+283.433739852905
+...b.b.b
+....b.b.
+.b.b...b
+b.......
+...w...b
+b.w.....
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d8 c7] in 3.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+282.62
+.....b.b
+..b.b.b.
+.b.b...b
+b.......
+...w...b
+b.w.....
+.w.w.w.w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 e3] in 1.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+280.323739852905
+.....b.b
+..b.b.b.
+.b.b...b
+b.......
+...w...b
+b.w.w...
+.w.w...w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e7 f6] in 2.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+281.11
+.....b.b
+..b...b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w...w
+..w.w.w.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g1 f2] in 1.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+278.203739852905
+.....b.b
+..b...b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f8 e7] in 1.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+279.45
+.......b
+..b.b.b.
+.b.b.b.b
+b.......
+...w...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d4 c5] in 1.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+277.173739852905
+.......b
+..b.b.b.
+.b.b.b.b
+b.w.....
+.......b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d4] in 0.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+278.38
+.......b
+..b.b.b.
+...b.b.b
+b.......
+...b...b
+b.w.w...
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e3 c5] in 0.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+277.033739852905
+.......b
+..b.b.b.
+...b.b.b
+b.w.....
+.......b
+b.w.....
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d6 b4] in 1.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+278.05
+.......b
+..b.b.b.
+.....b.b
+b.......
+.b.....b
+b.w.....
+.w.w.w.w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f2 e3] in 1.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+275.543739852905
+.......b
+..b.b.b.
+.....b.b
+b.......
+.b.....b
+b.w.w...
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 b6] in 0.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+276.87
+.......b
+....b.b.
+.b...b.b
+b.......
+.b.....b
+b.w.w...
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E e3 d4] in 0.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+274.773739852905
+.......b
+....b.b.
+.b...b.b
+b.......
+.b.w...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e7 d6] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+276.06
+.......b
+......b.
+.b.b.b.b
+b.......
+.b.w...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d4 c5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+274.593739852905
+.......b
+......b.
+.b.b.b.b
+b.w.....
+.b.....b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d4] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+275.7
+.......b
+......b.
+...b.b.b
+b.......
+.b.b...b
+b.w.....
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 e5 ; J e5 c7] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+274.173739852905
+.......b
+..w...b.
+.....b.b
+b.......
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 e5] in 2.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+275.51
+.......b
+..w...b.
+.......b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E c7 b8] in 1.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+271.333739852905
+.W.....b
+......b.
+.......b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 f6] in 4.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+274.21
+.W.....b
+........
+.....b.b
+b...b...
+.b.....b
+b.......
+.w.w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b2 c3] in 1.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+267.223739852905
+.W.....b
+........
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h8 g7] in 1.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+272.89
+.W......
+......b.
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 1.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+265.693739852905
+........
+W.....b.
+.....b.b
+b...b...
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 g5] in 1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+271.87
+........
+W.....b.
+.......b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+264.693739852905
+.W......
+......b.
+.......b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 f6] in 0.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+271.1
+.W......
+........
+.....b.b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+264.033739852905
+........
+W.......
+.....b.b
+b...b.b.
+.b.....b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e5 d4] in 0.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+270.59
+........
+W.......
+.....b.b
+b.....b.
+.b.b...b
+b.w.....
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c3 e5 ; J e5 g7] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+263.933739852905
+........
+W.....w.
+.......b
+b.....b.
+.b.....b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f4] in 1.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+270.37
+........
+W.....w.
+.......b
+b.......
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E g7 f8] in 1.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+262.873739852905
+.....W..
+W.......
+.......b
+b.......
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+268.99
+.....W..
+W.......
+........
+b.....b.
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E f8 e7] in 0.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+262.063739852905
+........
+W...W...
+........
+b.....b.
+.b...b.b
+b.......
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 g3] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+268.04
+........
+W...W...
+........
+b.....b.
+.b.....b
+b.....b.
+...w...w
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J h2 f4 ; J f4 h6] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+261.563739852905
+........
+W...W...
+.......w
+b.......
+.b.....b
+b.......
+...w....
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b2] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.96
+........
+W...W...
+.......w
+b.......
+.b.....b
+........
+.b.w....
+..w.w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J c1 a3 ; J a3 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+261.333739852905
+........
+W...W...
+.......w
+b.w.....
+.......b
+........
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g3] in 5.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.91
+........
+W...W...
+.......w
+b.w.....
+........
+......b.
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+255.963739852905
+.W......
+....W...
+.......w
+b.w.....
+........
+......b.
+...w....
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h2] in 6.12s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.7
+.W......
+....W...
+.......w
+b.w.....
+........
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+249.843739852905
+........
+W...W...
+.......w
+b.w.....
+........
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b4] in 6.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.59
+........
+W...W...
+.......w
+..w.....
+.b......
+........
+...w...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E d2 c3] in 0.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+243.003739852905
+........
+W...W...
+.......w
+..w.....
+.b......
+..w.....
+.......b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b4 d2] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.51
+........
+W...W...
+.......w
+..w.....
+........
+........
+...b...b
+....w...
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [J e1 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+242.753739852905
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.......b
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g1] in 6.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.47
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+235.883739852905
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+........
+......B.
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 f2] in 13.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+267.2
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+222.313739852905
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 10.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.83
+........
+W...W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+212.243739852905
+.W......
+....W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f2] in 0.0191490650177002s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.47
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+212.224590787888
+........
+W...W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 10.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+266.03
+........
+W...W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E a7 b8] in 0.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+202.034590787888
+.W......
+....W...
+.......w
+..w.....
+........
+..w.B...
+........
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f2] in 0.068228006362915s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+INPUT for domartin:
+GAME
+WHITE
+265.66
+.W......
+....W...
+.......w
+..w.....
+........
+..w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### SUCCESS: /usr/bin/time -o time_2_domartin_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on domartin #####
+##### domartin plays [E b8 a7] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_domartin_shilinch #####
+##### GAME ENDS IN A DRAW. Time left for domartin: 265.26s, shilinch: 201.966362781525s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, domartin wins by time remaining #####
+########## ROUND 2 GAMESCORE AFTER GAME 4: domartin=4 and shilinch=0 ##########
+
+
+########## GRAND WINNER ROUND 2 IS domartin BY 4 vs 0 GAMESCORE ##########

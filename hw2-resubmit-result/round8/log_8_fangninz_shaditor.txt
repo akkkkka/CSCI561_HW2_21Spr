@@ -1,0 +1,1555 @@
+#################### ROUND 8: fangninz (B) vs shaditor (W): game 1 ####################
+##### game start! #####
+INPUT for fangninz:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h6 g5] in 3.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a3 b4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+BLACK
+296.79
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g5 f4] in 3.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+299.94
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...b..
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+##### GAME OVER: shaditor loses because of illegal move [E c3 d4] #####
+Server said: FAIL
+########## ROUND 8 GAMESCORE AFTER GAME 1: fangninz=1 and shaditor=0 ##########
+#################### ROUND 8: fangninz (W) vs shaditor (B): game 2 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 h4] in 3.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.94
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+296.55
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h2 g3] in 2.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.89
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+293.89
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g1 h2] in 3.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.83
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 a5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+290.63
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 f4] in 3.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.77
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+287.44
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h2 g3] in 3.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.71
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+283.75
+...b.b.b
+..b.b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J f4 d6 ; J d6 b8] in 2.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.66
+.W.b.b.b
+....b.b.
+.b...b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e7 d6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+280.95
+.W.b.b.b
+......b.
+.b.b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 f4] in 3.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.61
+.W.b.b.b
+......b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d8 e7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+277.53
+.W...b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E f2 g3] in 3.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.55
+.W...b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+274.12
+.W...b.b
+....b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J f4 d6] in 2.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.5
+.W...b.b
+....b.b.
+.b.w.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a5 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+271.71
+.W...b.b
+....b.b.
+.b.w.b.b
+..b.....
+.b.....w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J c3 a5 ; J a5 c7] in 2.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.45
+.W...b.b
+..w.b.b.
+...w.b.b
+..b.....
+.......w
+w...w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c5 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+268.99
+.W...b.b
+..w.b.b.
+...w.b.b
+........
+...b...w
+w...w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J e3 c5] in 2.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.41
+.W...b.b
+..w.b.b.
+...w.b.b
+..w.....
+.......w
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+266.21
+.W...b.b
+..w.b.b.
+...w...b
+..w...b.
+.......w
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J h4 f6 ; J f6 d8] in 2.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.36
+.W.W.b.b
+..w...b.
+...w...b
+..w.....
+........
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+263.47
+.W.W.b.b
+..w.....
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E e1 f2] in 3.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.32
+.W.W.b.b
+..w.....
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f8 g7] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+260.1
+.W.W...b
+..w...b.
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E f2 e3] in 3.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.25
+.W.W...b
+..w...b.
+...w.b.b
+..w.....
+........
+w...w.w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+256.96
+.W.W...b
+..w...b.
+...w...b
+..w...b.
+........
+w...w.w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E d2 c3] in 4.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.21
+.W.W...b
+..w...b.
+...w...b
+..w...b.
+........
+w.w.w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+252.83
+.W.W...b
+..w.....
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E c1 d2] in 3.89s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.17
+.W.W...b
+..w.....
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h8 g7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+248.94
+.W.W....
+..w...b.
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 h4] in 3.86s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.12
+.W.W....
+..w...b.
+...w.b.b
+..w...b.
+.......w
+w.w.w...
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g5 f4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+245.08
+.W.W....
+..w...b.
+...w.b.b
+..w.....
+.....b.w
+w.w.w...
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J e3 g5 ; J g5 e7] in 2.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.07
+.W.W....
+..w.w.b.
+...w...b
+..w.....
+.......w
+w.w.....
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+242.15
+.W.W....
+..w.w.b.
+...w....
+..w...b.
+.......w
+w.w.....
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J h4 f6 ; J f6 h8] in 2.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+##### GAME OVER: fangninz wins the game! #####
+Server said: WIN
+########## ROUND 8 GAMESCORE AFTER GAME 2: fangninz=2 and shaditor=0 ##########
+#################### ROUND 8: fangninz (B) vs shaditor (W): game 3 ####################
+##### game start! #####
+INPUT for fangninz:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h6 g5] in 3.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a3 b4] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+BLACK
+296.68
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g5 f4] in 3.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+299.94
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w...b..
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+##### GAME OVER: shaditor loses because of illegal move [E c3 d4] #####
+Server said: FAIL
+########## ROUND 8 GAMESCORE AFTER GAME 3: fangninz=3 and shaditor=0 ##########
+#################### ROUND 8: fangninz (W) vs shaditor (B): game 4 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 h4] in 3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+297
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h2 g3] in 3.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.89
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+293.77
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g1 h2] in 3.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.83
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 a5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+290.57
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 f4] in 2.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.78
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+287.7
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E h2 g3] in 3.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.74
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+284.29
+...b.b.b
+..b.b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J f4 d6 ; J d6 b8] in 3.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.68
+.W.b.b.b
+....b.b.
+.b...b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e7 d6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+280.84
+.W.b.b.b
+......b.
+.b.b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 f4] in 2.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.63
+.W.b.b.b
+......b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d8 e7] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+278.26
+.W...b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E f2 g3] in 3.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.56
+.W...b.b
+....b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+274.61
+.W...b.b
+....b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J f4 d6] in 2.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.5
+.W...b.b
+....b.b.
+.b.w.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+272.15
+.W...b.b
+....b.b.
+.b.w.b.b
+..b.....
+.b.....w
+w.w.w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J c3 a5 ; J a5 c7] in 3.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.46
+.W...b.b
+..w.b.b.
+...w.b.b
+..b.....
+.......w
+w...w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c5 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+269.08
+.W...b.b
+..w.b.b.
+...w.b.b
+........
+...b...w
+w...w.w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J e3 c5] in 1.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.42
+.W...b.b
+..w.b.b.
+...w.b.b
+..w.....
+.......w
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+267.35
+.W...b.b
+..w.b.b.
+...w...b
+..w...b.
+.......w
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J h4 f6 ; J f6 d8] in 2.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.37
+.W.W.b.b
+..w...b.
+...w...b
+..w.....
+........
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+264.89
+.W.W.b.b
+..w.....
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w....
+w.w.w...
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E e1 f2] in 3.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.33
+.W.W.b.b
+..w.....
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f8 g7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+261.14
+.W.W...b
+..w...b.
+...w.b.b
+..w.....
+........
+w.....w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E f2 e3] in 3.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.28
+.W.W...b
+..w...b.
+...w.b.b
+..w.....
+........
+w...w.w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+257.83
+.W.W...b
+..w...b.
+...w...b
+..w...b.
+........
+w...w.w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E d2 c3] in 3.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.23
+.W.W...b
+..w...b.
+...w...b
+..w...b.
+........
+w.w.w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+253.85
+.W.W...b
+..w.....
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E c1 d2] in 3.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.19
+.W.W...b
+..w.....
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h8 g7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+250.07
+.W.W....
+..w...b.
+...w.b.b
+..w...b.
+........
+w.w.w.w.
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [E g3 h4] in 3.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.13
+.W.W....
+..w...b.
+...w.b.b
+..w...b.
+.......w
+w.w.w...
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g5 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+246.54
+.W.W....
+..w...b.
+...w.b.b
+..w.....
+.....b.w
+w.w.w...
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J e3 g5 ; J g5 e7] in 3.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.09
+.W.W....
+..w.w.b.
+...w...b
+..w.....
+.......w
+w.w.....
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h6 g5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+INPUT for fangninz:
+GAME
+WHITE
+243.41
+.W.W....
+..w.w.b.
+...w....
+..w...b.
+.......w
+w.w.....
+.w.w....
+w.......
+##### Running: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### SUCCESS: /usr/bin/time -o time_8_fangninz_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on fangninz #####
+##### fangninz plays [J h4 f6 ; J f6 h8] in 3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_8_fangninz_shaditor #####
+##### GAME OVER: fangninz wins the game! #####
+Server said: WIN
+########## ROUND 8 GAMESCORE AFTER GAME 4: fangninz=4 and shaditor=0 ##########
+
+
+########## GRAND WINNER ROUND 8 IS fangninz BY 4 vs 0 GAMESCORE ##########

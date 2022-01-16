@@ -1,0 +1,3107 @@
+#################### ROUND 6: kogudu (B) vs shilinch (W): game 1 ####################
+##### game start! #####
+INPUT for kogudu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 a5] in 22.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+277.81
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E a7 b6] in 10.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.98
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 0.026371955871582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+267.55
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b8 a7] in 10.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.953628044128
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+256.57
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 c5] in 5.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.943628044128
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 h2] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+251.32
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w.....w
+..w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J c5 a3] in 1.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.933628044128
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+b.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 f4] in 0.0195651054382324s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+249.84
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.....w.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E a7 b6] in 4.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.91406293869
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 e5] in 0.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+245.48
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b...w...
+.......w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J d6 f4] in 0.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.08406293869
+...b.b.b
+..b.b.b.
+.b...b.b
+b.......
+.....b.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e3 g5] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+244.64
+...b.b.b
+..b.b.b.
+.b...b.b
+b.....w.
+.......w
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h6 f4] in 2.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.65406293869
+...b.b.b
+..b.b.b.
+.b...b..
+b.......
+.....b.w
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g5] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+242.11
+...b.b.b
+..b.b.b.
+.b...b..
+b.....w.
+.....b..
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f6 h4] in 3.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.14406293869
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.....b.b
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 1.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+238.51
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.....b.b
+b.w...w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f4 h2] in 1.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+296.34406293869
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.......b
+b.w.....
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 1.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+236.71
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.w.....b
+b.......
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a5 c3] in 4.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+294.88406293869
+...b.b.b
+..b.b.b.
+.b......
+........
+.......b
+b.b.....
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b2 d4] in 27.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+232.16
+...b.b.b
+..b.b.b.
+.b......
+........
+...w...b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 c5] in 24.33s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+267.21406293869
+...b.b.b
+..b.b.b.
+........
+..b.....
+...w...b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d4 b6] in 3.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+207.83
+...b.b.b
+..b.b.b.
+.w......
+........
+.......b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J c7 a5] in 3.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+264.17406293869
+...b.b.b
+....b.b.
+........
+b.......
+.......b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a1 b2] in 22.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+204.15
+...b.b.b
+....b.b.
+........
+b.......
+.......b
+b.......
+.w.w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E e7 f6] in 4.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+241.69406293869
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.......
+.w.w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b2 c3] in 9.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+199.78
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.....
+...w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E h2 g1] in 7.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+232.04406293869
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.....
+...w.w..
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+192.2
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.w...
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E h4 g3] in 8.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+231.97406293869
+...b.b.b
+......b.
+.....b..
+b.......
+........
+b.w.w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 1.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+183.61
+...b.b.b
+......b.
+.....b..
+b.......
+.w......
+b...w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a5 c3] in 2.14s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+230.75406293869
+...b.b.b
+......b.
+.....b..
+........
+........
+b.b.w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d2 b4] in 37.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+181.47
+...b.b.b
+......b.
+.....b..
+........
+.w......
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f6 g5] in 29.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+193.33406293869
+...b.b.b
+......b.
+........
+......b.
+.w......
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b4 a5] in 25.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+151.98
+...b.b.b
+......b.
+........
+w.....b.
+........
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g3 h2] in 25.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+167.73406293869
+...b.b.b
+......b.
+........
+w.....b.
+........
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b6] in 11.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+126.66
+...b.b.b
+......b.
+.w......
+......b.
+........
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g5 h4] in 15.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+156.03406293869
+...b.b.b
+......b.
+.w......
+........
+.......b
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f4] in 14.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+111.42
+...b.b.b
+......b.
+.w......
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d8 c7] in 2.77s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+141.82406293869
+.....b.b
+..b...b.
+.w......
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d8] in 3.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+108.65
+...W.b.b
+......b.
+........
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f8 e7] in 1.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+138.48406293869
+...W...b
+....b.b.
+........
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d8 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+107.49
+.......b
+......b.
+.....W..
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J g7 e5 ; J e5 g3] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+138.45406293869
+.......b
+........
+........
+........
+.......b
+b.....b.
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e1 f2] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+107.27
+.......b
+........
+........
+........
+.......b
+b.....b.
+.....w.b
+..w...B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J g3 e1] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+138.44406293869
+.......b
+........
+........
+........
+.......b
+b.......
+.......b
+..w.B.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c1 d2] in 0.0111958980560303s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+107.2
+.......b
+........
+........
+........
+.......b
+b.......
+...w...b
+....B.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J e1 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+##### GAME OVER: kogudu wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 1: kogudu=1 and shilinch=0 ##########
+#################### ROUND 6: kogudu (W) vs shilinch (B): game 2 ####################
+##### game start! #####
+INPUT for shilinch:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 a5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E c3 b4] in 10.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.98
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a5 c3] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+289.66
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J b2 d4] in 11.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+278.03
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......b.
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g3 h4] in 9.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......b.
+...w...w
+w...w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+268.71
+.b.b.b.b
+b.b.b.b.
+...b.b..
+........
+...w.b.w
+w...w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J e3 g5] in 7.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.93
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......w.
+...w...w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d6 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+261.15
+.b.b.b.b
+b.b.b.b.
+.....b..
+..b...w.
+...w...w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J d4 b6] in 2.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.9
+.b.b.b.b
+b.b.b.b.
+.w...b..
+......w.
+.......w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a7 c5] in 50.35s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+258.22
+.b.b.b.b
+..b.b.b.
+.....b..
+..b...w.
+.......w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d2 c3] in 21.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+249.55
+.b.b.b.b
+..b.b.b.
+.....b..
+..b...w.
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b8 a7] in 37.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+236.5
+...b.b.b
+b.b.b.b.
+.....b..
+..b...w.
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g5 h6] in 12.97s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+212.32
+...b.b.b
+b.b.b.b.
+.....b.w
+..b.....
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a7 b6] in 23.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+223.53
+...b.b.b
+..b.b.b.
+.b...b.w
+..b.....
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E c3 b4] in 13.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+188.67
+...b.b.b
+..b.b.b.
+.b...b.w
+..b.....
+.w.....w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 d6] in 10.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+210.29
+...b.b.b
+....b.b.
+.b.b.b.w
+..b.....
+.w.....w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b4 a5] in 6.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+177.69
+...b.b.b
+....b.b.
+.b.b.b.w
+w.b.....
+.......w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d8 c7] in 6.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+204.23
+.....b.b
+..b.b.b.
+.b.b.b.w
+w.b.....
+.......w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f2 e3] in 9.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+170.86
+.....b.b
+..b.b.b.
+.b.b.b.w
+w.b.....
+.......w
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d6 e5] in 3.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+194.98
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.b...
+.......w
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E e3 f4] in 15.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+167.03
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.b...
+.....w.w
+w.......
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e5 g3] in 0.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+179.35
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.....
+.......w
+w.....b.
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h2 f4] in 3.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+166.2
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.....
+.....w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c5 b4] in 1.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+175.62
+.....b.b
+..b.b.b.
+.b...b.w
+w.......
+.b...w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a3 c5 ; J c5 a7] in 2.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+164.69
+.....b.b
+w.b.b.b.
+.....b.w
+w.......
+.....w.w
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 g5] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+172.89
+.....b.b
+w.b.b.b.
+.......w
+w.....b.
+.....w.w
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h4 f6 ; J f6 d8] in 2.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+164.3
+...W.b.b
+w.b...b.
+.......w
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f8 e7] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+169.94
+...W...b
+w.b.b.b.
+.......w
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h6 f8] in 3.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+163.91
+...W.W.b
+w.b.b...
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h8 g7] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+166.7
+...W.W..
+w.b.b.b.
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f8 d6 ; J d6 b8] in 1.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+163.65
+.W.W....
+w.....b.
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 h6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+165.01
+.W.W....
+w.......
+.......b
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d8 c7] in 1.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+163.61
+.W......
+w.W.....
+.......b
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.0308029651641846s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+163.54
+.W......
+w.W.....
+........
+w.....b.
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f4 h6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+##### GAME OVER: kogudu wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 2: kogudu=2 and shilinch=0 ##########
+#################### ROUND 6: kogudu (B) vs shilinch (W): game 3 ####################
+##### game start! #####
+INPUT for kogudu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 a5] in 20.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 h4] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+279.35
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E a7 b6] in 9.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.98
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 0.0154168605804443s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+269.41
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b8 a7] in 9.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.96458313942
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a3 b4] in 0.0268020629882812s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+259.45
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 c5] in 5.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.937781076431
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w.....w
+..w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g1 h2] in 0.0154662132263184s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+254.24
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w.....w
+..w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J c5 a3] in 1.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.922314863205
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+b.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g3 f4] in 0.029716968536377s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+252.87
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.....w.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E a7 b6] in 3.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+299.892597894669
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.....w.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f4 e5] in 0.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+248.99
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b...w...
+.......w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J d6 f4] in 0.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.982597894669
+...b.b.b
+..b.b.b.
+.b...b.b
+b.......
+.....b.w
+b.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e3 g5] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+248.05
+...b.b.b
+..b.b.b.
+.b...b.b
+b.....w.
+.......w
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h6 f4] in 2.86s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.722597894669
+...b.b.b
+..b.b.b.
+.b...b..
+b.......
+.....b.w
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h4 g5] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+245.19
+...b.b.b
+..b.b.b.
+.b...b..
+b.....w.
+.....b..
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f6 h4] in 3.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+298.292597894669
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.....b.b
+b.w.....
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h2 g3] in 1.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+241.94
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.....b.b
+b.w...w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f4 h2] in 1.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+296.332597894669
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.......b
+b.w.....
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 1.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+240.22
+...b.b.b
+..b.b.b.
+.b......
+b.......
+.w.....b
+b.......
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a5 c3] in 3.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+294.822597894669
+...b.b.b
+..b.b.b.
+.b......
+........
+.......b
+b.b.....
+.w.w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b2 d4] in 23.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+236.74
+...b.b.b
+..b.b.b.
+.b......
+........
+...w...b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b6 c5] in 18.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+270.942597894669
+...b.b.b
+..b.b.b.
+........
+..b.....
+...w...b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d4 b6] in 2.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+217.94
+...b.b.b
+..b.b.b.
+.w......
+........
+.......b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J c7 a5] in 2.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+268.092597894669
+...b.b.b
+....b.b.
+........
+b.......
+.......b
+b.......
+...w.w.b
+w.w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a1 b2] in 15.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+215.44
+...b.b.b
+....b.b.
+........
+b.......
+.......b
+b.......
+.w.w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E e7 f6] in 3.99s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+252.902597894669
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.......
+.w.w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b2 c3] in 7.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+211.45
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.....
+...w.w.b
+..w.w...
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E h2 g1] in 5.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+245.622597894669
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.....
+...w.w..
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f2 e3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+206.29
+...b.b.b
+......b.
+.....b..
+b.......
+.......b
+b.w.w...
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E h4 g3] in 6.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+245.592597894669
+...b.b.b
+......b.
+.....b..
+b.......
+........
+b.w.w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c3 b4] in 0.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+200.09
+...b.b.b
+......b.
+.....b..
+b.......
+.w......
+b...w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a5 c3] in 1.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+244.912597894669
+...b.b.b
+......b.
+.....b..
+........
+........
+b.b.w.b.
+...w....
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d2 b4] in 26.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+198.84
+...b.b.b
+......b.
+.....b..
+........
+.w......
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f6 g5] in 20.69s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+218.232597894669
+...b.b.b
+......b.
+........
+......b.
+.w......
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b4 a5] in 15.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+178.15
+...b.b.b
+......b.
+........
+w.....b.
+........
+b...w.b.
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g3 h2] in 15.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+202.562597894669
+...b.b.b
+......b.
+........
+w.....b.
+........
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a5 b6] in 7.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+162.24
+...b.b.b
+......b.
+.w......
+......b.
+........
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g5 h4] in 9.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+195.332597894669
+...b.b.b
+......b.
+.w......
+........
+.......b
+b...w...
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e3 f4] in 8.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+152.31
+...b.b.b
+......b.
+.w......
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d8 c7] in 2.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+186.622597894669
+.....b.b
+..b...b.
+.w......
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J b6 d8] in 2.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+150.28
+...W.b.b
+......b.
+........
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f8 e7] in 0.64s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+184.572597894669
+...W...b
+....b.b.
+........
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J d8 f6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+149.64
+.......b
+......b.
+.....W..
+........
+.....w.b
+b.......
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J g7 e5 ; J e5 g3] in 0.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+184.552597894669
+.......b
+........
+........
+........
+.......b
+b.....b.
+.......b
+..w.w.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E e1 f2] in 0.0135090351104736s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+149.48
+.......b
+........
+........
+........
+.......b
+b.....b.
+.....w.b
+..w...B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J g3 e1] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+WHITE
+184.539088859558
+.......b
+........
+........
+........
+.......b
+b.......
+.......b
+..w.B.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c1 d2] in 0.00831508636474609s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+BLACK
+149.42
+.......b
+........
+........
+........
+.......b
+b.......
+...w...b
+....B.B.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J e1 c3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+##### GAME OVER: kogudu wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 3: kogudu=3 and shilinch=0 ##########
+#################### ROUND 6: kogudu (W) vs shilinch (B): game 4 ####################
+##### game start! #####
+INPUT for shilinch:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E c3 b4] in 5.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a5 c3] in 0.0128159523010254s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+294.15
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J b2 d4] in 6.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.977184047699
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+287.31
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......b.
+...w....
+w...w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g3 h4] in 5.15s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.967184047699
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......b.
+...w...w
+w...w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g5 f4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+282.16
+.b.b.b.b
+b.b.b.b.
+...b.b..
+........
+...w.b.w
+w...w...
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J e3 g5] in 5.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.957184047699
+.b.b.b.b
+b.b.b.b.
+...b.b..
+......w.
+...w...w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d6 c5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+277.1
+.b.b.b.b
+b.b.b.b.
+.....b..
+..b...w.
+...w...w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J d4 b6] in 1.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+299.947184047699
+.b.b.b.b
+b.b.b.b.
+.w...b..
+......w.
+.......w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J a7 c5] in 31.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+275.54
+.b.b.b.b
+..b.b.b.
+.....b..
+..b...w.
+.......w
+w.......
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d2 c3] in 12.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+268.507184047699
+.b.b.b.b
+..b.b.b.
+.....b..
+..b...w.
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E b8 a7] in 20.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+262.69
+...b.b.b
+b.b.b.b.
+.....b..
+..b...w.
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E g5 h6] in 7.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+247.657184047699
+...b.b.b
+b.b.b.b.
+.....b.w
+..b.....
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E a7 b6] in 13.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+255.11
+...b.b.b
+..b.b.b.
+.b...b.w
+..b.....
+.......w
+w.w.....
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E c3 b4] in 7.1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+234.487184047699
+...b.b.b
+..b.b.b.
+.b...b.w
+..b.....
+.w.....w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c7 d6] in 5.88s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+248.01
+...b.b.b
+....b.b.
+.b.b.b.w
+..b.....
+.w.....w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E b4 a5] in 3.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+228.607184047699
+...b.b.b
+....b.b.
+.b.b.b.w
+w.b.....
+.......w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d8 c7] in 3.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+244.48
+.....b.b
+..b.b.b.
+.b.b.b.w
+w.b.....
+.......w
+w.......
+.....w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E f2 e3] in 4.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+224.777184047699
+.....b.b
+..b.b.b.
+.b.b.b.w
+w.b.....
+.......w
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E d6 e5] in 1.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+239.87
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.b...
+.......w
+w...w...
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E e3 f4] in 9.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+222.817184047699
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.b...
+.....w.w
+w.......
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [J e5 g3] in 0.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+230.83
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.....
+.......w
+w.....b.
+.......w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h2 f4] in 2.16s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+222.257184047699
+.....b.b
+..b.b.b.
+.b...b.w
+w.b.....
+.....w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E c5 b4] in 0.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+228.67
+.....b.b
+..b.b.b.
+.b...b.w
+w.......
+.b...w.w
+w.......
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J a3 c5 ; J c5 a7] in 1.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+221.297184047699
+.....b.b
+w.b.b.b.
+.....b.w
+w.......
+.....w.w
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f6 g5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+227.1
+.....b.b
+w.b.b.b.
+.......w
+w.....b.
+.....w.w
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h4 f6 ; J f6 d8] in 1.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+221.097184047699
+...W.b.b
+w.b...b.
+.......w
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E f8 e7] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+225.37
+...W...b
+w.b.b.b.
+.......w
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J h6 f8] in 2.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+220.897184047699
+...W.W.b
+w.b.b...
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h8 g7] in 0.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+223.29
+...W.W..
+w.b.b.b.
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f8 d6 ; J d6 b8] in 0.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+220.767184047699
+.W.W....
+w.....b.
+........
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E g7 h6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+222.33
+.W.W....
+w.......
+.......b
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [E d8 c7] in 0.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for shilinch:
+GAME
+BLACK
+220.747184047699
+.W......
+w.W.....
+.......b
+w.......
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" ./homework > stulog.txt 2>&1 on shilinch #####
+##### shilinch plays [E h6 g5] in 0.00779104232788086s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+INPUT for kogudu:
+GAME
+WHITE
+221.54
+.W......
+w.W.....
+........
+w.....b.
+.....w..
+........
+........
+w.w.w.w.
+##### Running: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### SUCCESS: /usr/bin/time -o time_6_kogudu_shilinch.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on kogudu #####
+##### kogudu plays [J f4 h6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_6_kogudu_shilinch #####
+##### GAME OVER: kogudu wins the game! #####
+Server said: WIN
+########## ROUND 6 GAMESCORE AFTER GAME 4: kogudu=4 and shilinch=0 ##########
+
+
+########## GRAND WINNER ROUND 6 IS kogudu BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,213 @@
+##### Single move 1 start! #####
+INPUT for reference:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00501298904418945s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 2 start! #####
+INPUT for reference:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00512194633483887s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 3 start! #####
+INPUT for reference:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00517010688781738s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 4 start! #####
+INPUT for reference:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00491905212402344s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 5 start! #####
+INPUT for reference:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.005126953125s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 6 start! #####
+INPUT for reference:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00506091117858887s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 7 start! #####
+INPUT for reference:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00512003898620605s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 8 start! #####
+INPUT for reference:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00497102737426758s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 9 start! #####
+INPUT for reference:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00503206253051758s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 10 start! #####
+INPUT for reference:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+child exited with value 126
+##### ERROR: /usr/bin/time -o time_single_reference.txt -f "%U" ./homework > stulog.txt 2>&1 on reference #####
+##### Output of failed program (stdout + stderr): #####
+/usr/bin/time: cannot run ./homework: Permission denied
+##### End of output of failed program #####
+##### reference plays [No Move] in 0.00500106811523438s #####
+##### No output.txt found. GAME OVER #####
+
+
+########## Total score: 0 ##########

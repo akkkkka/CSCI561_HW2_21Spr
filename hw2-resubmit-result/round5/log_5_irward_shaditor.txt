@@ -1,0 +1,4185 @@
+#################### ROUND 5: irward (B) vs shaditor (W): game 1 ####################
+##### game start! #####
+INPUT for irward:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 c5] in 0.0134608745574951s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+BLACK
+299.986539125443
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e5] in 0.00925302505493164s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+299.97
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b2 c3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+##### GAME OVER: shaditor loses because of illegal move [E b2 c3] #####
+Server said: FAIL
+########## ROUND 5 GAMESCORE AFTER GAME 1: irward=1 and shaditor=0 ##########
+#################### ROUND 5: irward (W) vs shaditor (B): game 2 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 d4] in 0.0116829872131348s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J c5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.988317012787
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f2 d4] in 0.0109691619873047s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.93
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.9773478508
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g1 f2] in 0.0109660625457764s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.87
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.966381788254
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f2 e3] in 0.0117380619049072s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.83
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w....
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.954643726349
+...b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d4 b6] in 0.0331180095672607s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.79
+...b.b.b
+b.b.b.b.
+.w.b.b.b
+........
+........
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J a7 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.921525716782
+...b.b.b
+..b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 d4] in 0.00919604301452637s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.76
+...b.b.b
+..b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J c5 e3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.912329673767
+...b.b.b
+..b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d2 f4] in 0.0123488903045654s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.73
+...b.b.b
+..b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c7 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.899980783463
+...b.b.b
+....b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e1 d2] in 0.00933289527893066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.68
+...b.b.b
+....b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d8 c7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.890647888184
+.....b.b
+..b.b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c3 b4] in 0.00968408584594727s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.62
+.....b.b
+..b.b.b.
+.b.b.b.b
+........
+.w...w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.880963802338
+.....b.b
+..b.b.b.
+...b.b.b
+..b.....
+.w...w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 a5] in 0.0132169723510742s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.58
+.....b.b
+..b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.867746829987
+.....b.b
+....b.b.
+.b.b.b.b
+w.b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J a5 c7] in 0.0146851539611816s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.54
+.....b.b
+..w.b.b.
+...b.b.b
+..b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.853061676025
+.....b.b
+..w.b.b.
+.....b.b
+..b.b...
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f4 d6] in 0.0105960369110107s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.5
+.....b.b
+..w.b.b.
+...w.b.b
+..b.....
+........
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.842465639114
+.....b.b
+..w.b.b.
+...w.b.b
+........
+.b......
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J a3 c5] in 0.00956392288208008s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.46
+.....b.b
+..w.b.b.
+...w.b.b
+..w.....
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.832901716232
+.....b.b
+..w.b.b.
+...w...b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 b8] in 0.0117180347442627s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.42
+.W...b.b
+....b.b.
+...w...b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e7 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.821183681488
+.W...b.b
+......b.
+...w.b.b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 f4] in 0.0140881538391113s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.38
+.W...b.b
+......b.
+...w.b.b
+..w...b.
+.....w..
+........
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J g5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.807095527649
+.W...b.b
+......b.
+...w.b.b
+..w.....
+........
+....b...
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d2 f4] in 0.00868892669677734s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.34
+.W...b.b
+......b.
+...w.b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f8 e7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.798406600952
+.W.....b
+....b.b.
+...w.b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d6 f8] in 0.0381100177764893s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.29
+.W...W.b
+......b.
+.....b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.760296583176
+.W...W.b
+......b.
+.......b
+..w...b.
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f4 e5] in 0.0138580799102783s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.24
+.W...W.b
+......b.
+.......b
+..w.w.b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.746438503265
+.W...W.b
+........
+.....b.b
+..w.w.b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e5 g7] in 0.0225288867950439s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.21
+.W...W.b
+......w.
+.......b
+..w...b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J h8 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.72390961647
+.W...W..
+........
+.....b.b
+..w...b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E h2 g3] in 0.012617826461792s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.17
+.W...W..
+........
+.....b.b
+..w...b.
+........
+......w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 e5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.711291790009
+.W...W..
+........
+.......b
+..w.b.b.
+........
+......w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 h4] in 0.0372288227081299s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.11
+.W...W..
+........
+.......b
+..w.b.b.
+.......w
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e5 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.6740629673
+.W...W..
+........
+.......b
+..w...b.
+.....b.w
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J h4 f6] in 0.0135509967803955s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.07
+.W...W..
+........
+.....w.b
+..w.....
+.....b..
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f4 g3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.66051197052
+.W...W..
+........
+.....w.b
+..w.....
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f6 e7] in 0.0111689567565918s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.03
+.W...W..
+....w...
+.......b
+..w.....
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.649343013763
+.W...W..
+....w...
+........
+..w...b.
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 a3] in 0.0154931545257568s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.99
+.W...W..
+....w...
+........
+..w...b.
+........
+w.....b.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g5 h4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.633849859238
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.....b.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c1 b2] in 0.0247819423675537s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.94
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.....b.
+.w......
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g3 h2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.60906791687
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.......
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 b6] in 0.0252230167388916s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.9
+.W...W..
+....w...
+.w......
+........
+.......b
+w.......
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h4 g3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.583844900131
+.W...W..
+....w...
+.w......
+........
+........
+w.....b.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.0208530426025391s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.87
+.W...W..
+w...w...
+........
+........
+........
+w.....b.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g3 f2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.562991857529
+.W...W..
+w...w...
+........
+........
+........
+w.......
+.w...b.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d8] in 0.0148930549621582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.83
+.W.W.W..
+w.......
+........
+........
+........
+w.......
+.w...b.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 g1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.548098802567
+.W.W.W..
+w.......
+........
+........
+........
+w.......
+.w.....b
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.0125508308410645s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.79
+...W.W..
+w.W.....
+........
+........
+........
+w.......
+.w.....b
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g1 f2] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.535547971725
+...W.W..
+w.W.....
+........
+........
+........
+w.......
+.w...B.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 c3] in 0.0264830589294434s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.76
+...W.W..
+w.W.....
+........
+........
+........
+w.w.....
+.....B.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h2 g1] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.509064912796
+...W.W..
+w.W.....
+........
+........
+........
+w.w.....
+.....B..
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c3 b4] in 0.0434029102325439s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.69
+...W.W..
+w.W.....
+........
+........
+.w......
+w.......
+.....B..
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.465662002563
+...W.W..
+w.W.....
+........
+........
+.w......
+w.......
+........
+w...B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 a5] in 0.0403671264648438s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.65
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+........
+w...B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.425294876099
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+...B....
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a1 b2] in 0.0143940448760986s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.61
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+.w.B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.410900831223
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+.w......
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a3 b4] in 0.0186989307403564s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.56
+...W.W..
+w.W.....
+........
+w.......
+.w......
+........
+.w......
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.392201900482
+...W.W..
+w.W.....
+........
+w.......
+.w......
+........
+.w.B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 a3] in 0.0297229290008545s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.5
+...W.W..
+w.W.....
+........
+w.......
+.w......
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.362478971481
+...W.W..
+w.W.....
+........
+w.......
+.w......
+w.......
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 c5] in 0.0143160820007324s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.44
+...W.W..
+w.W.....
+........
+w.w.....
+........
+w.......
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.348162889481
+...W.W..
+w.W.....
+........
+w.w.....
+........
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 b6] in 0.0380339622497559s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.39
+...W.W..
+w.W.....
+.w......
+w.......
+........
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.310128927231
+...W.W..
+w.W.....
+.w......
+w.......
+........
+w.B.....
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a3 b4] in 0.0149199962615967s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.35
+...W.W..
+w.W.....
+.w......
+w.......
+.w......
+..B.....
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.295208930969
+...W.W..
+w.W.....
+.w......
+w.......
+.w.B....
+........
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 c5] in 0.0332119464874268s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.3
+...W.W..
+w.W.....
+.w......
+w.w.....
+...B....
+........
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d4 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.261996984482
+...W.W..
+w.W.....
+.w......
+w.w.....
+........
+....B...
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 d6] in 0.0169098377227783s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.26
+...W.W..
+w.W.....
+.w.w....
+w.......
+........
+....B...
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e3 f2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.245087146759
+...W.W..
+w.W.....
+.w.w....
+w.......
+........
+........
+.....B..
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.0186450481414795s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.22
+...W.W..
+w.W.w...
+.w......
+w.......
+........
+........
+.....B..
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.226442098618
+...W.W..
+w.W.w...
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a7 b8] in 0.0304610729217529s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.18
+.W.W.W..
+..W.w...
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.195981025696
+.W.W.W..
+..W.w...
+.w......
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f8 g7] in 0.0217838287353516s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.14
+.W.W....
+..W.w.W.
+.w......
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.17419719696
+.W.W....
+..W.w.W.
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.015131950378418s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.1
+.W.W....
+w.W.w.W.
+........
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.159065246582
+.W.W....
+w.W.w.W.
+........
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a5 b6] in 0.0234231948852539s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.06
+.W.W....
+w.W.w.W.
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.135642051697
+.W.W....
+w.W.w.W.
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g7 h8] in 0.0147790908813477s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.01
+.W.W...W
+w.W.w...
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.120862960815
+.W.W...W
+w.W.w...
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 f8] in 0.029102087020874s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.97
+.W.W.W.W
+w.W.....
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.091760873795
+.W.W.W.W
+w.W.....
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 d6] in 0.0299232006072998s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.929999999999
+.W.W.W.W
+w.......
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.061837673187
+.W.W.W.W
+w.......
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.0216128826141357s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.879999999999
+...W.W.W
+w.W.....
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.040224790573
+...W.W.W
+w.W.....
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a7 b8] in 0.0724930763244629s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.839999999999
+.W.W.W.W
+..W.....
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.967731714249
+.W.W.W.W
+..W.....
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.0470578670501709s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.799999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.920673847198
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.0250461101531982s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.749999999999
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.895627737045
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d6] in 0.0132699012756348s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.699999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.88235783577
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.011897087097168s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.649999999999
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.870460748672
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d6] in 0.0121529102325439s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.619999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+##### GAME ENDS IN A DRAW. Time left for irward: 298.85830783844s, shaditor: 297.569999999999s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, irward wins by time remaining #####
+########## ROUND 5 GAMESCORE AFTER GAME 2: irward=2 and shaditor=0 ##########
+#################### ROUND 5: irward (B) vs shaditor (W): game 3 ####################
+##### game start! #####
+INPUT for irward:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 c5] in 0.0175819396972656s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+BLACK
+299.982418060303
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e5] in 0.0118730068206787s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.....b.b
+..b.b...
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b2 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+##### GAME OVER: shaditor loses because of illegal move [E b2 c3] #####
+Server said: FAIL
+########## ROUND 5 GAMESCORE AFTER GAME 3: irward=3 and shaditor=0 ##########
+#################### ROUND 5: irward (W) vs shaditor (B): game 4 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 d4] in 0.0530929565429688s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J c5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.946907043457
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f2 d4] in 0.0152931213378906s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.91
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.931613922119
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g1 f2] in 0.0203239917755127s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.85
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.911289930344
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f2 e3] in 0.031775951385498s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.79
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w....
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.879513978958
+...b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d4 b6] in 0.01059889793396s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.74
+...b.b.b
+b.b.b.b.
+.w.b.b.b
+........
+........
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J a7 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.868915081024
+...b.b.b
+..b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e3 d4] in 0.0237751007080078s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.7
+...b.b.b
+..b.b.b.
+...b.b.b
+..b.....
+...w....
+w.w...w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J c5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.845139980316
+...b.b.b
+..b.b.b.
+...b.b.b
+........
+........
+w.w.b.w.
+.w.w...w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d2 f4] in 0.0577139854431152s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.66
+...b.b.b
+..b.b.b.
+...b.b.b
+........
+.....w..
+w.w...w.
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c7 b6] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.787425994873
+...b.b.b
+....b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e1 d2] in 0.0239620208740234s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.6
+...b.b.b
+....b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d8 c7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.763463973999
+.....b.b
+..b.b.b.
+.b.b.b.b
+........
+.....w..
+w.w...w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c3 b4] in 0.0485210418701172s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.56
+.....b.b
+..b.b.b.
+.b.b.b.b
+........
+.w...w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.714942932129
+.....b.b
+..b.b.b.
+...b.b.b
+..b.....
+.w...w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 a5] in 0.0320560932159424s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.52
+.....b.b
+..b.b.b.
+...b.b.b
+w.b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c7 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.682886838913
+.....b.b
+....b.b.
+.b.b.b.b
+w.b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J a5 c7] in 0.0516297817230225s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.47
+.....b.b
+..w.b.b.
+...b.b.b
+..b.....
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.63125705719
+.....b.b
+..w.b.b.
+.....b.b
+..b.b...
+.....w..
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J f4 d6] in 0.0373969078063965s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.42
+.....b.b
+..w.b.b.
+...w.b.b
+..b.....
+........
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c5 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.593860149384
+.....b.b
+..w.b.b.
+...w.b.b
+........
+.b......
+w.....w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J a3 c5] in 0.0129251480102539s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.37
+.....b.b
+..w.b.b.
+...w.b.b
+..w.....
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.580935001373
+.....b.b
+..w.b.b.
+...w...b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 b8] in 0.0142598152160645s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.32
+.W...b.b
+....b.b.
+...w...b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e7 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.566675186157
+.W...b.b
+......b.
+...w.b.b
+..w...b.
+........
+......w.
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 f4] in 0.0225188732147217s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.27
+.W...b.b
+......b.
+...w.b.b
+..w...b.
+.....w..
+........
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J g5 e3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.544156312943
+.W...b.b
+......b.
+...w.b.b
+..w.....
+........
+....b...
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d2 f4] in 0.0454399585723877s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.23
+.W...b.b
+......b.
+...w.b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f8 e7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.49871635437
+.W.....b
+....b.b.
+...w.b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J d6 f8] in 0.011106014251709s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.18
+.W...W.b
+......b.
+.....b.b
+..w.....
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 g5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.487610340118
+.W...W.b
+......b.
+.......b
+..w...b.
+.....w..
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f4 e5] in 0.012706995010376s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.13
+.W...W.b
+......b.
+.......b
+..w.w.b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g7 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.474903345108
+.W...W.b
+........
+.....b.b
+..w.w.b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J e5 g7] in 0.0102999210357666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.08
+.W...W.b
+......w.
+.......b
+..w...b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J h8 f6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.464603424072
+.W...W..
+........
+.....b.b
+..w...b.
+........
+........
+.w.....w
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E h2 g3] in 0.012019157409668s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+299.03
+.W...W..
+........
+.....b.b
+..w...b.
+........
+......w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.452584266663
+.W...W..
+........
+.......b
+..w.b.b.
+........
+......w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g3 h4] in 0.0136008262634277s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.98
+.W...W..
+........
+.......b
+..w.b.b.
+.......w
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e5 f4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.438983440399
+.W...W..
+........
+.......b
+..w...b.
+.....b.w
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [J h4 f6] in 0.0115060806274414s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.93
+.W...W..
+........
+.....w.b
+..w.....
+.....b..
+........
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f4 g3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.427477359772
+.W...W..
+........
+.....w.b
+..w.....
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f6 e7] in 0.0142941474914551s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.88
+.W...W..
+....w...
+.......b
+..w.....
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h6 g5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.41318321228
+.W...W..
+....w...
+........
+..w...b.
+........
+......b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 a3] in 0.0198650360107422s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.82
+.W...W..
+....w...
+........
+..w...b.
+........
+w.....b.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g5 h4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.39331817627
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.....b.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c1 b2] in 0.0274009704589844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.77
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.....b.
+.w......
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g3 h2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.365917205811
+.W...W..
+....w...
+........
+..w.....
+.......b
+w.......
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 b6] in 0.0172510147094727s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.73
+.W...W..
+....w...
+.w......
+........
+.......b
+w.......
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h4 g3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.348666191101
+.W...W..
+....w...
+.w......
+........
+........
+w.....b.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.0399260520935059s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.69
+.W...W..
+w...w...
+........
+........
+........
+w.....b.
+.w.....b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g3 f2] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.308740139008
+.W...W..
+w...w...
+........
+........
+........
+w.......
+.w...b.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d8] in 0.027379035949707s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.66
+.W.W.W..
+w.......
+........
+........
+........
+w.......
+.w...b.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 g1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.281361103058
+.W.W.W..
+w.......
+........
+........
+........
+w.......
+.w.....b
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.0217680931091309s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.61
+...W.W..
+w.W.....
+........
+........
+........
+w.......
+.w.....b
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E g1 f2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.259593009949
+...W.W..
+w.W.....
+........
+........
+........
+w.......
+.w...B.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 c3] in 0.0203208923339844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.57
+...W.W..
+w.W.....
+........
+........
+........
+w.w.....
+.....B.b
+w.......
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E h2 g1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.239272117615
+...W.W..
+w.W.....
+........
+........
+........
+w.w.....
+.....B..
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c3 b4] in 0.0162680149078369s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.52
+...W.W..
+w.W.....
+........
+........
+.w......
+w.......
+.....B..
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.223004102707
+...W.W..
+w.W.....
+........
+........
+.w......
+w.......
+........
+w...B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 a5] in 0.017578125s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.48
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+........
+w...B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.205425977707
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+...B....
+w.....B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a1 b2] in 0.0140941143035889s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.44
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+.w.B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.191331863403
+...W.W..
+w.W.....
+........
+w.......
+........
+w.......
+.w......
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a3 b4] in 0.0289440155029297s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.39
+...W.W..
+w.W.....
+........
+w.......
+.w......
+........
+.w......
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.1623878479
+...W.W..
+w.W.....
+........
+w.......
+.w......
+........
+.w.B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b2 a3] in 0.0234289169311523s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.34
+...W.W..
+w.W.....
+........
+w.......
+.w......
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.138958930969
+...W.W..
+w.W.....
+........
+w.......
+.w......
+w.......
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 c5] in 0.0133988857269287s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.3
+...W.W..
+w.W.....
+........
+w.w.....
+........
+w.......
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.125560045242
+...W.W..
+w.W.....
+........
+w.w.....
+........
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 b6] in 0.0162830352783203s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.25
+...W.W..
+w.W.....
+.w......
+w.......
+........
+w.......
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.109277009964
+...W.W..
+w.W.....
+.w......
+w.......
+........
+w.B.....
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a3 b4] in 0.0155320167541504s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.21
+...W.W..
+w.W.....
+.w......
+w.......
+.w......
+..B.....
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.09374499321
+...W.W..
+w.W.....
+.w......
+w.......
+.w.B....
+........
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b4 c5] in 0.0378139019012451s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.17
+...W.W..
+w.W.....
+.w......
+w.w.....
+...B....
+........
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d4 e3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.055931091309
+...W.W..
+w.W.....
+.w......
+w.w.....
+........
+....B...
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c5 d6] in 0.00993895530700684s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.119999999999
+...W.W..
+w.W.....
+.w.w....
+w.......
+........
+....B...
+........
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e3 f2] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+299.045992136002
+...W.W..
+w.W.....
+.w.w....
+w.......
+........
+........
+.....B..
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.046626091003418s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.059999999999
+...W.W..
+w.W.w...
+.w......
+w.......
+........
+........
+.....B..
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E f2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.999366044998
+...W.W..
+w.W.w...
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a7 b8] in 0.0246641635894775s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+298.019999999999
+.W.W.W..
+..W.w...
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.974701881409
+.W.W.W..
+..W.w...
+.w......
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E f8 g7] in 0.0121619701385498s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.979999999999
+.W.W....
+..W.w.W.
+.w......
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.96253991127
+.W.W....
+..W.w.W.
+.w......
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.0121719837188721s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.929999999999
+.W.W....
+w.W.w.W.
+........
+w.......
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.950367927551
+.W.W....
+w.W.w.W.
+........
+w.......
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a5 b6] in 0.0139601230621338s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.889999999999
+.W.W....
+w.W.w.W.
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.936407804489
+.W.W....
+w.W.w.W.
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E g7 h8] in 0.0124478340148926s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.839999999999
+.W.W...W
+w.W.w...
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.923959970474
+.W.W...W
+w.W.w...
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 f8] in 0.0450470447540283s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.799999999999
+.W.W.W.W
+w.W.....
+.w......
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.87891292572
+.W.W.W.W
+w.W.....
+.w......
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E c7 d6] in 0.0168430805206299s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.759999999999
+.W.W.W.W
+w.......
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.8620698452
+.W.W.W.W
+w.......
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b8 c7] in 0.0235600471496582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.709999999999
+...W.W.W
+w.W.....
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.83850979805
+...W.W.W
+w.W.....
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E a7 b8] in 0.0184850692749023s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.649999999999
+.W.W.W.W
+..W.....
+.w.W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.820024728775
+.W.W.W.W
+..W.....
+.w.W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E b6 a7] in 0.0431709289550781s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.599999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.77685379982
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.0252900123596191s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.559999999999
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.75156378746
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d6] in 0.0401608943939209s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.529999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.711402893066
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E d6 e7] in 0.0543661117553711s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.479999999999
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+........
+....B.B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E e1 d2] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for irward:
+GAME
+WHITE
+298.657036781311
+.W.W.W.W
+w.W.W...
+........
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" ./homework > stulog.txt 2>&1 on irward #####
+##### irward plays [E e7 d6] in 0.0379559993743896s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+INPUT for shaditor:
+GAME
+BLACK
+297.439999999999
+.W.W.W.W
+w.W.....
+...W....
+........
+........
+........
+...B....
+......B.
+##### Running: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_5_irward_shaditor.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d2 e1] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_5_irward_shaditor #####
+##### GAME ENDS IN A DRAW. Time left for irward: 298.619080781937s, shaditor: 297.389999999999s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, irward wins by time remaining #####
+########## ROUND 5 GAMESCORE AFTER GAME 4: irward=4 and shaditor=0 ##########
+
+
+########## GRAND WINNER ROUND 5 IS irward BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,3897 @@
+#################### ROUND 7: cli17627 (B) vs mjmathew (W): game 1 ####################
+##### game start! #####
+INPUT for cli17627:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h6 g5] in 0.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+299.05
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 h4] in 0.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.97
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w.....b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+298.21
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+w.......
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E f6 g5] in 0.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....b.
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+297.51
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....b.
+.w.....b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 f4] in 0.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.......
+.w...b.b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J e3 g5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+296.78
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....w.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.85
+.b.b.b.b
+b.b.b.b.
+.b......
+w...b.w.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g5 f6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+296.08
+.b.b.b.b
+b.b.b.b.
+.b...w..
+w...b...
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J e7 g5] in 0.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.81
+.b.b.b.b
+b.b...b.
+.b......
+w...b.b.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g3 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+295.54
+.b.b.b.b
+b.b...b.
+.b......
+w...b.b.
+.w...w.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J g5 e3] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b...b.
+.b......
+w...b...
+.w.....b
+....b...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J d2 f4 ; J f4 d6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+295.01
+.b.b.b.b
+b.b...b.
+.b.w....
+w.......
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J c7 e5] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.73
+.b.b.b.b
+b.....b.
+.b......
+w...b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J a5 c7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+294.55
+.b.b.b.b
+b.w...b.
+........
+....b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J d8 b6] in 0.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.69
+.b...b.b
+b.....b.
+.b......
+....b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+293.89
+.b...b.b
+b.....b.
+.b......
+w...b...
+.......b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.65
+.b...b.b
+b.....b.
+.b......
+w...b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J a5 c7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+293.24
+.b...b.b
+b.w...b.
+........
+....b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J b8 d6] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.6
+.....b.b
+b.....b.
+...b....
+....b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J f2 h4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+292.76
+.....b.b
+b.....b.
+...b....
+....b...
+.......w
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e5 f4] in 0.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.57
+.....b.b
+b.....b.
+...b....
+........
+.....b.w
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E h4 g5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+292.05
+.....b.b
+b.....b.
+...b....
+......w.
+.....b..
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E f4 g3] in 0.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.54
+.....b.b
+b.....b.
+...b....
+......w.
+........
+......b.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J h2 f4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+291.37
+.....b.b
+b.....b.
+...b....
+......w.
+.....w..
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.51
+.....b.b
+b.....b.
+........
+....b.w.
+.....w..
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J f4 d6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+290.58
+.....b.b
+b.....b.
+...w....
+......w.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g7 h6] in 0.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.48
+.....b.b
+b.......
+...w...b
+......w.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g5 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+290.06
+.....b.b
+b.......
+...w.w.b
+........
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h6 g5] in 0.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.45
+.....b.b
+b.......
+...w.w..
+......b.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d6 c7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+289.5
+.....b.b
+b.w.....
+.....w..
+......b.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 h4] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.42
+.....b.b
+b.w.....
+.....w..
+........
+.......b
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+289
+.W...b.b
+b.......
+.....w..
+........
+.......b
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.38
+.W...b.b
+b.......
+.....w..
+........
+........
+......b.
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 c7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+288.43
+.....b.b
+b.W.....
+.....w..
+........
+........
+......b.
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h2] in 0.63s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.33
+.....b.b
+b.W.....
+.....w..
+........
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+287.8
+.....b.b
+b.......
+.W...w..
+........
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J a7 c5] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.29
+.....b.b
+........
+.....w..
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E f6 e7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+287.31
+.....b.b
+....w...
+........
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f8 d6] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.25
+.......b
+........
+...b....
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b2 a3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+286.84
+.......b
+........
+...b....
+..b.....
+........
+w.......
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E c5 d4] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.21
+.......b
+........
+...b....
+........
+...b....
+w.......
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+286.34
+.......b
+........
+...b....
+........
+.w.b....
+........
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d4 e3] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.18
+.......b
+........
+...b....
+........
+.w......
+....b...
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+285.83
+.......b
+........
+...b....
+w.......
+........
+....b...
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e3 f2] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.14
+.......b
+........
+...b....
+w.......
+........
+........
+.....b.b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J e1 g3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+285.4
+.......b
+........
+...b....
+w.......
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.11
+.......b
+........
+........
+w...b...
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+284.92
+.......b
+........
+.w......
+....b...
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e5 d4] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.07
+.......b
+........
+.w......
+........
+...b....
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+284.42
+.......b
+w.......
+........
+........
+...b....
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d4 e3] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.04
+.......b
+w.......
+........
+........
+........
+....b.w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+283.97
+.W.....b
+........
+........
+........
+........
+....b.w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e3 f2] in 0.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299
+.W.....b
+........
+........
+........
+........
+......w.
+.....b.b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J g1 e3] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+283.45
+.W.....b
+........
+........
+........
+........
+....w.w.
+.......b
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.95
+.W.....b
+........
+........
+........
+........
+....w.w.
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+282.92
+.......b
+W.......
+........
+........
+........
+....w.w.
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 f2] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.91
+.......b
+W.......
+........
+........
+........
+....w.w.
+.....B..
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+282.41
+.......b
+........
+.W......
+........
+........
+....w.w.
+.....B..
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f2 h4] in 0.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.87
+.......b
+........
+.W......
+........
+.......B
+....w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+281.86
+.......b
+........
+........
+W.......
+.......B
+....w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.84
+.......b
+........
+........
+W.......
+........
+....w.B.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+281.4
+.......b
+........
+........
+........
+.W......
+....w.B.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h2] in 0.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.8
+.......b
+........
+........
+........
+.W......
+....w...
+.......B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+280.62
+.......b
+........
+........
+........
+........
+W...w...
+.......B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.76
+.......b
+........
+........
+........
+........
+W...w...
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+280.16
+.......b
+........
+........
+........
+........
+....w...
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.71
+.......b
+........
+........
+........
+........
+....w...
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E e3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+279.68
+.......b
+........
+........
+........
+...w....
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.67
+.......b
+........
+........
+........
+...w....
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d4 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+279.24
+.......b
+........
+........
+..w.....
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.63
+.......b
+........
+........
+..w.....
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c5 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+278.81
+.......b
+........
+.w......
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.6
+.......b
+........
+.w......
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+278.32
+.......b
+w.......
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.56
+.......b
+w.......
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+277.87
+.W.....b
+........
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.52
+.W.....b
+........
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+277.41
+.......b
+W.......
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.49
+.......b
+W.......
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.97
+.......b
+........
+.W......
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.45
+.......b
+........
+.W......
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.48
+.......b
+........
+........
+W.......
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.41
+.......b
+........
+........
+W.......
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.03
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.37
+.......b
+........
+........
+........
+.W......
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+275.52
+.......b
+........
+........
+........
+........
+W.......
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.34
+.......b
+........
+........
+........
+........
+W.......
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+275.07
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.3
+.......b
+........
+........
+........
+.W......
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+274.62
+.......b
+........
+........
+........
+........
+W.......
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.27
+.......b
+........
+........
+........
+........
+W.......
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+274.19
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+##### GAME ENDS IN A DRAW. Time left for cli17627: 273.69s, mjmathew: 298.23s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, mjmathew wins by time remaining #####
+########## ROUND 7 GAMESCORE AFTER GAME 1: cli17627=0 and mjmathew=1 ##########
+#################### ROUND 7: cli17627 (W) vs mjmathew (B): game 2 ####################
+##### game start! #####
+INPUT for mjmathew:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h4] in 1.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+298.82
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g3] in 0.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.92
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+297.84
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 1.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.88
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+296.65
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 f4] in 0.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.85
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+295.94
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g3] in 0.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.81
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+295.2
+...b.b.b
+..b.b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f4 d6] in 0.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+##### GAME OVER: cli17627 loses because of illegal move [J f4 d6] #####
+Server said: FAIL
+########## ROUND 7 GAMESCORE AFTER GAME 2: cli17627=0 and mjmathew=2 ##########
+#################### ROUND 7: cli17627 (B) vs mjmathew (W): game 3 ####################
+##### game start! #####
+INPUT for cli17627:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h6 g5] in 0.85s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+299.15
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 h4] in 0.83s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.w.....b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+298.32
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+w.......
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E f6 g5] in 0.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....b.
+.......b
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+297.62
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....b.
+.w.....b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 f4] in 0.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.......
+.w...b.b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J e3 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+296.84
+.b.b.b.b
+b.b.b.b.
+.b.b....
+w.....w.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.84
+.b.b.b.b
+b.b.b.b.
+.b......
+w...b.w.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g5 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+296.17
+.b.b.b.b
+b.b.b.b.
+.b...w..
+w...b...
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J e7 g5] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.81
+.b.b.b.b
+b.b...b.
+.b......
+w...b.b.
+.w.....b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g3 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+295.67
+.b.b.b.b
+b.b...b.
+.b......
+w...b.b.
+.w...w.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J g5 e3] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b...b.
+.b......
+w...b...
+.w.....b
+....b...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J d2 f4 ; J f4 d6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+295.16
+.b.b.b.b
+b.b...b.
+.b.w....
+w.......
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J c7 e5] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.73
+.b.b.b.b
+b.....b.
+.b......
+w...b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J a5 c7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+294.74
+.b.b.b.b
+b.w...b.
+........
+....b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J d8 b6] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.7
+.b...b.b
+b.....b.
+.b......
+....b...
+.w.....b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+294.07
+.b...b.b
+b.....b.
+.b......
+w...b...
+.......b
+........
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.66
+.b...b.b
+b.....b.
+.b......
+w...b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J a5 c7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+293.4
+.b...b.b
+b.w...b.
+........
+....b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J b8 d6] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.63
+.....b.b
+b.....b.
+...b....
+....b...
+........
+......b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J f2 h4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+292.95
+.....b.b
+b.....b.
+...b....
+....b...
+.......w
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e5 f4] in 0.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.59
+.....b.b
+b.....b.
+...b....
+........
+.....b.w
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E h4 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+292.23
+.....b.b
+b.....b.
+...b....
+......w.
+.....b..
+........
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E f4 g3] in 0.82s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.55
+.....b.b
+b.....b.
+...b....
+......w.
+........
+......b.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J h2 f4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+291.41
+.....b.b
+b.....b.
+...b....
+......w.
+.....w..
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.52
+.....b.b
+b.....b.
+........
+....b.w.
+.....w..
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J f4 d6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+290.73
+.....b.b
+b.....b.
+...w....
+......w.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g7 h6] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.48
+.....b.b
+b.......
+...w...b
+......w.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E g5 f6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+290.2
+.....b.b
+b.......
+...w.w.b
+........
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h6 g5] in 0.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.45
+.....b.b
+b.......
+...w.w..
+......b.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d6 c7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+289.66
+.....b.b
+b.w.....
+.....w..
+......b.
+........
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g5 h4] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.41
+.....b.b
+b.w.....
+.....w..
+........
+.......b
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+289.15
+.W...b.b
+b.......
+.....w..
+........
+.......b
+........
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.37
+.W...b.b
+b.......
+.....w..
+........
+........
+......b.
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 c7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+288.59
+.....b.b
+b.W.....
+.....w..
+........
+........
+......b.
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h2] in 0.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.33
+.....b.b
+b.W.....
+.....w..
+........
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+287.98
+.....b.b
+b.......
+.W...w..
+........
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J a7 c5] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.29
+.....b.b
+........
+.....w..
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E f6 e7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+287.5
+.....b.b
+....w...
+........
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f8 d6] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.26
+.......b
+........
+...b....
+..b.....
+........
+........
+.w.....b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b2 a3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+287.05
+.......b
+........
+...b....
+..b.....
+........
+w.......
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E c5 d4] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.23
+.......b
+........
+...b....
+........
+...b....
+w.......
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+286.6
+.......b
+........
+...b....
+........
+.w.b....
+........
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d4 e3] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.19
+.......b
+........
+...b....
+........
+.w......
+....b...
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+286.17
+.......b
+........
+...b....
+w.......
+........
+....b...
+.......b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e3 f2] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.15
+.......b
+........
+...b....
+w.......
+........
+........
+.....b.b
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J e1 g3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+285.73
+.......b
+........
+...b....
+w.......
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d6 e5] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.12
+.......b
+........
+........
+w...b...
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+285.29
+.......b
+........
+.w......
+....b...
+........
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e5 d4] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.08
+.......b
+........
+.w......
+........
+...b....
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+284.86
+.......b
+w.......
+........
+........
+...b....
+......w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E d4 e3] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299.04
+.......b
+w.......
+........
+........
+........
+....b.w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b8] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+284.42
+.W.....b
+........
+........
+........
+........
+....b.w.
+.......b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E e3 f2] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+299
+.W.....b
+........
+........
+........
+........
+......w.
+.....b.b
+w.w...w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [J g1 e3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+283.96
+.W.....b
+........
+........
+........
+........
+....w.w.
+.......b
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.97
+.W.....b
+........
+........
+........
+........
+....w.w.
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+283.37
+.......b
+W.......
+........
+........
+........
+....w.w.
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 f2] in 0.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.94
+.......b
+W.......
+........
+........
+........
+....w.w.
+.....B..
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+282.85
+.......b
+........
+.W......
+........
+........
+....w.w.
+.....B..
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f2 h4] in 0.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.91
+.......b
+........
+.W......
+........
+.......B
+....w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+282.3
+.......b
+........
+........
+W.......
+.......B
+....w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h4 g3] in 0.54s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.88
+.......b
+........
+........
+W.......
+........
+....w.B.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+281.76
+.......b
+........
+........
+........
+.W......
+....w.B.
+........
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h2] in 0.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.84
+.......b
+........
+........
+........
+.W......
+....w...
+.......B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+281.03
+.......b
+........
+........
+........
+........
+W...w...
+.......B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.8
+.......b
+........
+........
+........
+........
+W...w...
+........
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b2] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+280.57
+.......b
+........
+........
+........
+........
+....w...
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.75
+.......b
+........
+........
+........
+........
+....w...
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E e3 d4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+280.06
+.......b
+........
+........
+........
+...w....
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.72
+.......b
+........
+........
+........
+...w....
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d4 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+279.65
+.......b
+........
+........
+..w.....
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.69
+.......b
+........
+........
+..w.....
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E c5 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+279.26
+.......b
+........
+.w......
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.65
+.......b
+........
+.w......
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+278.77
+.......b
+w.......
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.62
+.......b
+w.......
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b8] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+278.36
+.W.....b
+........
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.59
+.W.....b
+........
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+277.92
+.......b
+W.......
+........
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.55
+.......b
+W.......
+........
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+277.43
+.......b
+........
+.W......
+........
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.52
+.......b
+........
+.W......
+........
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.99
+.......b
+........
+........
+W.......
+........
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.48
+.......b
+........
+........
+W.......
+........
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a5 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.57
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.44
+.......b
+........
+........
+........
+.W......
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+276.12
+.......b
+........
+........
+........
+........
+W.......
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.41
+.......b
+........
+........
+........
+........
+W.......
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+275.7
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.37
+.......b
+........
+........
+........
+.W......
+........
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b4 a3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+275.22
+.......b
+........
+........
+........
+........
+W.......
+.W......
+w.w...B.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+WHITE
+298.34
+.......b
+........
+........
+........
+........
+W.......
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+BLACK
+274.79
+.......b
+........
+........
+........
+.W......
+........
+.W.....B
+w.w.....
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g1] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+##### GAME ENDS IN A DRAW. Time left for cli17627: 274.29s, mjmathew: 298.3s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, mjmathew wins by time remaining #####
+########## ROUND 7 GAMESCORE AFTER GAME 3: cli17627=0 and mjmathew=3 ##########
+#################### ROUND 7: cli17627 (W) vs mjmathew (B): game 4 ####################
+##### game start! #####
+INPUT for mjmathew:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 a5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 h4] in 1.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+298.82
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g3] in 0.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.94
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b8 a7] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+297.84
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g1 h2] in 1.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.91
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+b.......
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E b6 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+296.43
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E g3 f4] in 0.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.87
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E a7 b6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+295.7
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w...
+.w.w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [E h2 g3] in 0.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for mjmathew:
+GAME
+BLACK
+299.83
+...b.b.b
+..b.b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on mjmathew #####
+##### mjmathew plays [E d6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+INPUT for cli17627:
+GAME
+WHITE
+294.9
+...b.b.b
+..b.b.b.
+.b...b.b
+b.b.b...
+.....w.w
+w.w.w.w.
+.w.w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### SUCCESS: /usr/bin/time -o time_7_cli17627_mjmathew.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on cli17627 #####
+##### cli17627 plays [J f4 d6] in 0.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_7_cli17627_mjmathew #####
+##### GAME OVER: cli17627 loses because of illegal move [J f4 d6] #####
+Server said: FAIL
+########## ROUND 7 GAMESCORE AFTER GAME 4: cli17627=0 and mjmathew=4 ##########
+
+
+########## GRAND WINNER ROUND 7 IS mjmathew BY 4 vs 0 GAMESCORE ##########

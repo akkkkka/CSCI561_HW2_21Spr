@@ -1,0 +1,581 @@
+#################### ROUND 2: alsayedm (W) vs liusiche (B): game 1 ####################
+##### game start! #####
+INPUT for liusiche:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E b6 c5] in 1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 232.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+BLACK
+299
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E a7 b6] in 0.91s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+WHITE
+67.98
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  2763789 2763800 2763821
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 1: alsayedm=0 and liusiche=1 ##########
+#################### ROUND 2: alsayedm (B) vs liusiche (W): game 2 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 84.76s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E c3 d4] in 1.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+215.24
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 42.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+298.94
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E d4 e5] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+173.18
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.w...
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f6 d4] in 7.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+298.29
+.b.b.b.b
+..b.b.b.
+.b.b...b
+..b.....
+...b....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E a3 b4] in 0.66s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+165.84
+.b.b.b.b
+..b.b.b.
+.b.b...b
+..b.....
+.w.b....
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 a3] in 11.98s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+297.63
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...b....
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [J e3 c5 ; J c5 a7] in 1.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+153.86
+.b.b.b.b
+w.b.b.b.
+...b...b
+........
+........
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 106.87s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+296.56
+.b.b.b.b
+w.b.b...
+...b.b.b
+........
+........
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E g3 h4] in 2.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+46.99
+.b.b.b.b
+w.b.b...
+...b.b.b
+........
+.......w
+b.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  2763789 3237390 3237394 3237399
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 2: alsayedm=0 and liusiche=2 ##########
+#################### ROUND 2: alsayedm (W) vs liusiche (B): game 3 ####################
+##### game start! #####
+INPUT for liusiche:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E b6 c5] in 1.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g3 f4] in 233.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+BLACK
+298.98
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E a7 b6] in 1.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+WHITE
+66.49
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  2763789 3237390 3621720 3621722 3621724
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 3: alsayedm=0 and liusiche=3 ##########
+#################### ROUND 2: alsayedm (B) vs liusiche (W): game 4 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 84.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E c3 d4] in 1.13s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+215.59
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 41.89s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+298.87
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E d4 e5] in 0.59s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+173.7
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.w...
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f6 d4] in 7.56s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+298.28
+.b.b.b.b
+..b.b.b.
+.b.b...b
+..b.....
+...b....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E a3 b4] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+166.14
+.b.b.b.b
+..b.b.b.
+.b.b...b
+..b.....
+.w.b....
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J c5 a3] in 12.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+297.63
+.b.b.b.b
+..b.b.b.
+.b.b...b
+........
+...b....
+b...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [J e3 c5 ; J c5 a7] in 1.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+153.93
+.b.b.b.b
+w.b.b.b.
+...b...b
+........
+........
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 106.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for liusiche:
+GAME
+WHITE
+296.54
+.b.b.b.b
+w.b.b...
+...b.b.b
+........
+........
+b.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### SUCCESS: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liusiche #####
+##### liusiche plays [E g3 h4] in 2.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_alsayedm_liusiche #####
+INPUT for alsayedm:
+GAME
+BLACK
+47.53
+.b.b.b.b
+w.b.b...
+...b.b.b
+........
+.......w
+b.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_alsayedm_liusiche.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  2763789 3237390 3621720 4053067 4053069 4053070
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 2 GAMESCORE AFTER GAME 4: alsayedm=0 and liusiche=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS liusiche BY 4 vs 0 GAMESCORE ##########

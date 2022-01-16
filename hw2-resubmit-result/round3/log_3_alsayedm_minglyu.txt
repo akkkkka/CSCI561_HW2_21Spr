@@ -1,0 +1,580 @@
+#################### ROUND 3: alsayedm (W) vs minglyu (B): game 1 ####################
+##### game start! #####
+INPUT for minglyu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E f6 g5] in 2.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  744283 744284 744285
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 3 GAMESCORE AFTER GAME 1: alsayedm=0 and minglyu=1 ##########
+#################### ROUND 3: alsayedm (B) vs minglyu (W): game 2 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 84.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E c3 b4] in 2.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+215.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 64.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+297.63
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E e3 f4] in 3.08s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+151.37
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w...w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 69.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+294.55
+.b.b.b.b
+..b.b.b.
+.b.b...b
+..b.b...
+.w...w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E b4 a5] in 2.78s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+81.87
+.b.b.b.b
+..b.b.b.
+.b.b...b
+w.b.b...
+.....w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E g7 f6] in 66.72s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+291.77
+.b.b.b.b
+..b.b...
+.b.b.b.b
+w.b.b...
+.....w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E d2 c3] in 2.8s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+15.15
+.b.b.b.b
+..b.b...
+.b.b.b.b
+w.b.b...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  744283 1723988 1723991 1723992
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 3 GAMESCORE AFTER GAME 2: alsayedm=0 and minglyu=2 ##########
+#################### ROUND 3: alsayedm (W) vs minglyu (B): game 3 ####################
+##### game start! #####
+INPUT for minglyu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E f6 g5] in 4.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### Killing alsayedm after timeout #####
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [sh] ***
+*** Killing lingering child process [time] ***
+*** Killing lingering child process [python3] ***
+kill -9  744283 1723988 1762749 1762759 1762760
+##### GAME OVER: alsayedm ran over time limit by 12s #####
+########## ROUND 3 GAMESCORE AFTER GAME 3: alsayedm=0 and minglyu=3 ##########
+#################### ROUND 3: alsayedm (B) vs minglyu (W): game 4 ####################
+##### game start! #####
+INPUT for alsayedm:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b6 c5] in 83.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E c3 b4] in 2.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+216.06
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E a7 b6] in 63.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+297.33
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E b4 a5] in 2.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+152.44
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E b8 a7] in 44.7s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+294.38
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+........
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E e3 f4] in 2.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+107.74
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.b.....
+.....w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E c5 d4] in 44.79s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+291.94
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+...b.w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E d2 c3] in 2.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+62.95
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+w.......
+...b.w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E f6 e5] in 27.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+289.87
+...b.b.b
+b.b.b.b.
+.b.b...b
+w...b...
+...b.w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E g3 h4] in 2.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+35.68
+...b.b.b
+b.b.b.b.
+.b.b...b
+w...b...
+...b.w.w
+w.w.....
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J e5 g3] in 2.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+287.68
+...b.b.b
+b.b.b.b.
+.b.b...b
+w.......
+...b...w
+w.w...b.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [J h2 f4] in 0.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+33.41
+...b.b.b
+b.b.b.b.
+.b.b...b
+w.......
+...b.w.w
+w.w.....
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [E e7 f6] in 24.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+286.78
+...b.b.b
+b.b...b.
+.b.b.b.b
+w.......
+...b.w.w
+w.w.....
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [J c3 e5] in 0.17s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+8.67999999999999
+...b.b.b
+b.b...b.
+.b.b.b.b
+w...w...
+.....w.w
+w.......
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on alsayedm #####
+##### alsayedm plays [J f6 d4] in 17.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for minglyu:
+GAME
+WHITE
+286.61
+...b.b.b
+b.b...b.
+.b.b...b
+w.......
+...b.w.w
+w.......
+.w...w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### SUCCESS: /usr/bin/time -o time_3_alsayedm_minglyu.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on minglyu #####
+##### minglyu plays [E e1 d2] in 5.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+INPUT for alsayedm:
+GAME
+BLACK
+-9.06000000000001
+...b.b.b
+b.b...b.
+.b.b...b
+w.......
+...b.w.w
+w.......
+.w.w.w..
+w.w...w.
+Not running alsayedm because of negative remaining time -- passing illegal move instead
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_3_alsayedm_minglyu #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: alsayedm loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 3 GAMESCORE AFTER GAME 4: alsayedm=0 and minglyu=4 ##########
+
+
+########## GRAND WINNER ROUND 3 IS minglyu BY 4 vs 0 GAMESCORE ##########

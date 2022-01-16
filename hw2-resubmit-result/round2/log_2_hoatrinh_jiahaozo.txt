@@ -1,0 +1,567 @@
+#################### ROUND 2: hoatrinh (W) vs jiahaozo (B): game 1 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.0158231258392334s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E e3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.984176874161
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E d6 e5] in 0.406466007232666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+299.96
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b...b...
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E d4 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.577710866928
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b.w.b...
+........
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E f6 g5] in 0.36913800239563s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b.b.b.b.
+.......b
+b.w.b.b.
+........
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E d2 e3] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.208572864532
+.b.b.b.b
+b.b.b.b.
+.......b
+b.w.b.b.
+........
+w.w.w.w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.332360029220581s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+4
+########## ROUND 2 GAMESCORE AFTER GAME 1: hoatrinh=1 and jiahaozo=0 ##########
+#################### ROUND 2: hoatrinh (B) vs jiahaozo (W): game 2 ####################
+##### game start! #####
+INPUT for hoatrinh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E b6 c5] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.012408971786499s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+BLACK
+299.97
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E a7 b6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.987591028214
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E c3 d4] in 0.37638521194458s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+BLACK
+299.94
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E b8 a7] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.611205816269
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.325604915618896s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 2: hoatrinh=2 and jiahaozo=0 ##########
+#################### ROUND 2: hoatrinh (W) vs jiahaozo (B): game 3 ####################
+##### game start! #####
+INPUT for jiahaozo:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E b6 a5] in 0.00976300239562988s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E e3 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.990236997604
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E d6 e5] in 0.385609865188599s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+299.96
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b...b...
+...w....
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E d4 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.604627132416
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b.w.b...
+........
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E f6 g5] in 0.468641042709351s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b.b.b.b.
+.......b
+b.w.b.b.
+........
+w.w...w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E d2 e3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+BLACK
+299.135986089706
+.b.b.b.b
+b.b.b.b.
+.......b
+b.w.b.b.
+........
+w.w.w.w.
+.w...w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.364028930664062s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+4
+########## ROUND 2 GAMESCORE AFTER GAME 3: hoatrinh=3 and jiahaozo=0 ##########
+#################### ROUND 2: hoatrinh (B) vs jiahaozo (W): game 4 ####################
+##### game start! #####
+INPUT for hoatrinh:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E b6 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### jiahaozo plays [E g3 h4] in 0.0106439590454102s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E a7 b6] in 0.02s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.989356040955
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 134
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+double free or corruption (fasttop)
+##### End of output of failed program #####
+##### jiahaozo plays [E c3 d4] in 0.343756198883057s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for hoatrinh:
+GAME
+BLACK
+299.93
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### SUCCESS: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on hoatrinh #####
+##### hoatrinh plays [E b8 a7] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+INPUT for jiahaozo:
+GAME
+WHITE
+299.645599842072
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+...w...w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+child exited with value 139
+##### ERROR: /usr/bin/time -o time_2_hoatrinh_jiahaozo.txt -f "%U" ./homework > stulog.txt 2>&1 on jiahaozo #####
+##### Output of failed program (stdout + stderr): #####
+##### End of output of failed program #####
+##### jiahaozo plays [No Move] in 0.355303049087524s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_hoatrinh_jiahaozo #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: jiahaozo loses because of illegal move [No Move] #####
+Server said: FAIL
+##### playdata.txt before move was: #####
+3
+########## ROUND 2 GAMESCORE AFTER GAME 4: hoatrinh=4 and jiahaozo=0 ##########
+
+
+########## GRAND WINNER ROUND 2 IS hoatrinh BY 4 vs 0 GAMESCORE ##########

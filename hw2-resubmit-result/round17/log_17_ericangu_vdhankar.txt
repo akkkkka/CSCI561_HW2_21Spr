@@ -1,0 +1,3967 @@
+#################### ROUND 17: ericangu (W) vs vdhankar (B): game 1 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 10.5692129135132s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c3 d4] in 0.00973796844482422s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+289.430787086487
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 6.09554600715637s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.990262031555
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+...w...b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d4 c5] in 0.0746581554412842s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+283.33524107933
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+..w.....
+.......b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b4] in 0.408270120620728s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.915603876114
+.b.b.b.b
+b.b.b.b.
+.b...b..
+........
+.b.....b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J a3 c5] in 0.0146410465240479s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+282.92697095871
+.b.b.b.b
+b.b.b.b.
+.b...b..
+..w.....
+.......b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.862236976623535s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.90096282959
+.b.b.b.b
+b.b.b.b.
+.....b..
+........
+...b...b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J e3 c5] in 0.017848014831543s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+282.064733982086
+.b.b.b.b
+b.b.b.b.
+.....b..
+..w.....
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 7.76012992858887s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.883114814758
+.b.b.b.b
+b.b.b.b.
+........
+..w.b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d6] in 0.0432009696960449s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+274.304604053497
+.b.b.b.b
+b.b.b.b.
+...w....
+....b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e7 c5] in 1.2561948299408s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.839913845062
+.b.b.b.b
+b.b...b.
+........
+..b.b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g3 f4] in 0.017815113067627s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+273.048409223557
+.b.b.b.b
+b.b...b.
+........
+..b.b...
+.....w.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 g3] in 6.95013999938965s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.822098731995
+.b.b.b.b
+b.b...b.
+........
+..b.....
+.......b
+......b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h2 f4] in 0.022939920425415s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+266.098269224167
+.b.b.b.b
+b.b...b.
+........
+..b.....
+.....w.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 75.1607940196991s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.799158811569
+.b.b.b.b
+b.b.....
+.......b
+..b.....
+.....w.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f4 g5] in 0.0122890472412109s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+190.937475204468
+.b.b.b.b
+b.b.....
+.......b
+..b...w.
+.......b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f4] in 15.207160949707s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.786869764328
+.b.b.b.b
+b.b.....
+........
+..b.....
+.....b.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b2 a3] in 0.0479209423065186s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+175.730314254761
+.b.b.b.b
+b.b.....
+........
+..b.....
+.....b.b
+w.......
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g3] in 76.0771110057831s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.738948822021
+.b.b.b.b
+b.b.....
+........
+..b.....
+.......b
+w.....b.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g1 h2] in 0.0123798847198486s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+99.6532032489777
+.b.b.b.b
+b.b.....
+........
+..b.....
+.......b
+w.....b.
+...w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d4] in 16.2944169044495s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.726568937302
+.b.b.b.b
+b.b.....
+........
+........
+...b...b
+w.....b.
+...w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h2 f4] in 0.0289969444274902s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+83.3587863445282
+.b.b.b.b
+b.b.....
+........
+........
+...b.w.b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 34.2864348888397s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.697571992874
+.b.b.b.b
+b.......
+.b......
+........
+...b.w.b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f4 e5] in 0.0539188385009766s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+49.0723514556885
+.b.b.b.b
+b.......
+.b......
+....w...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 8.10690903663635s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.643653154373
+.b.b.b..
+b.....b.
+.b......
+....w...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e5 f6] in 0.0300109386444092s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+40.9654424190521
+.b.b.b..
+b.....b.
+.b...w..
+........
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g7 e5] in 1.07225608825684s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.613642215729
+.b.b.b..
+b.......
+.b......
+....b...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a3 b4] in 0.0236570835113525s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+39.8931863307953
+.b.b.b..
+b.......
+.b......
+....b...
+.w.b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 g7] in 3.39449000358582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.589985132217
+.b.b....
+b.....b.
+.b......
+....b...
+.w.b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b4 c5] in 0.0260999202728271s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+36.4986963272095
+.b.b....
+b.....b.
+.b......
+..w.b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 3.30924677848816s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.563885211945
+.b.b....
+b.......
+.b.....b
+..w.b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d6] in 0.00929999351501465s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+33.1894495487213
+.b.b....
+b.......
+.b.w...b
+....b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 3.44353604316711s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.55458521843
+.b.b....
+b.......
+.b.w....
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d6 e7] in 0.0147051811218262s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+29.7459135055542
+.b.b....
+b...w...
+.b......
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.751820802688599s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.539880037308
+.b......
+b.......
+.b...b..
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d2 e3] in 0.0730299949645996s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+28.9940927028656
+.b......
+b.......
+.b...b..
+....b.b.
+...b...b
+....w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 c5] in 1.37872695922852s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.466850042343
+.b......
+b.......
+.....b..
+..b.b.b.
+...b...b
+....w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e3 f4] in 0.063666820526123s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+27.6153657436371
+.b......
+b.......
+.....b..
+..b.b.b.
+...b.w.b
+........
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e3 ; J e3 g1] in 1.78132486343384s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.403183221817
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+........
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a1 b2] in 0.01027512550354s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+25.8340408802032
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+........
+.w......
+..w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 4.09855008125305s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.392908096313
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+........
+.w.....B
+..w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b2 c3] in 0.0255918502807617s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.7354907989502
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+..w.....
+.......B
+..w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b2] in 0.353672981262207s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.367316246033
+.b......
+b.......
+.....b..
+..b.b...
+.......b
+........
+.b.....B
+..w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J c1 a3] in 0.0366759300231934s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.381817817688
+.b......
+b.......
+.....b..
+..b.b...
+.......b
+w.......
+.......B
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 0.409645080566406s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.33064031601
+.b......
+b.......
+.....b..
+..b.b...
+.......b
+w.....B.
+........
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a3 b4] in 0.0339341163635254s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.9721727371216
+.b......
+b.......
+.....b..
+..b.b...
+.w.....b
+......B.
+........
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c5 a3] in 0.35254693031311s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.296706199646
+.b......
+b.......
+.....b..
+....b...
+.......b
+b.....B.
+........
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e1 d2] in 0.026386022567749s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.6196258068085
+.b......
+b.......
+.....b..
+....b...
+.......b
+b.....B.
+...w....
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 0.38237190246582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.270320177078
+.b......
+b.......
+.....b..
+........
+...b...b
+b.....B.
+...w....
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d2 e3] in 0.011911153793335s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+20.2372539043427
+.b......
+b.......
+.....b..
+........
+...b...b
+b...w.B.
+........
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 f2] in 0.340188980102539s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 17 GAMESCORE AFTER GAME 1: ericangu=0 and vdhankar=1 ##########
+#################### ROUND 17: ericangu (B) vs vdhankar (W): game 2 ####################
+##### game start! #####
+INPUT for ericangu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.0142269134521484s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 9.59263920783997s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.985773086548
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a7 b6] in 0.0146610736846924s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+290.40736079216
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 14.395012140274s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.971112012863
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 a5] in 0.0112628936767578s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+276.012348651886
+.b.b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 4.88178896903992s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.959849119186
+.b.b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b8 a7] in 0.0323541164398193s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+271.130559682846
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 3.65778589248657s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.927495002747
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c7 b6] in 0.0264878273010254s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+267.472773790359
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 6.13145518302917s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.901007175446
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.b.....
+...w.w.w
+w.w...w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J c5 e3] in 0.0364258289337158s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+261.34131860733
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g5] in 2.51533007621765s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.864581346512
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.....w.
+.......w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h6 f4] in 0.0627951622009277s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+258.825988531113
+...b.b.b
+b...b.b.
+.b.b.b..
+b.......
+.....b.w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5 ; J e5 c7] in 4.48658394813538s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.801786184311
+...b.b.b
+b.w.b.b.
+.b...b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e7 d6] in 0.0110750198364258s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+254.339404582977
+...b.b.b
+b.w...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b8] in 22.4270000457764s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.790711164474
+.W.b.b.b
+b.....b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d8 c7] in 0.0108389854431152s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+231.912404537201
+.W...b.b
+b.b...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 f2] in 13.3746149539948s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.779872179031
+.W...b.b
+b.b...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w...w.w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f8 e7] in 0.0117518901824951s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+218.537789583206
+.W.....b
+b.b.b.b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w...w.w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4] in 1.13880801200867s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.768120288849
+.W.....b
+b.b.b.b.
+.b.b.b..
+b.......
+...w...w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.0289030075073242s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+217.398981571198
+.W.....b
+b.b.b.b.
+...b.b..
+b.b.....
+...w...w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b6 ; J b6 d8] in 2.90111804008484s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.739217281342
+.W.W...b
+b...b.b.
+...b.b..
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g7 h6] in 0.0117118358612061s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+214.497863531113
+.W.W...b
+b...b...
+...b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d8 c7] in 12.3221070766449s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.72750544548
+.W.....b
+b.W.b...
+...b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a7 b6] in 0.0144400596618652s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+202.175756454468
+.W.....b
+..W.b...
+.b.b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 e5 ; J e5 g7] in 0.775750875473022s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.713065385818
+.W.....b
+....b.W.
+.b.....b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h8 f6] in 0.0372130870819092s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+201.400005578995
+.W......
+....b...
+.b...b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 3.46565103530884s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.675852298737
+.W......
+....b...
+.b...b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e7 d6] in 0.0125770568847656s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+197.934354543686
+.W......
+........
+.b.b.b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b8 c7] in 3.10524702072144s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.663275241852
+........
+..W.....
+.b.b.b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.0115458965301514s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+194.829107522964
+........
+..W.....
+...b.b.b
+b.b.....
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 e5 ; J e5 g7] in 0.533000946044922s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.651729345322
+........
+......W.
+.......b
+b.b.....
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a5 b4] in 0.0120000839233398s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+194.29610657692
+........
+......W.
+.......b
+..b.....
+.b.....w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c3 a5] in 0.603837966918945s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.639729261398
+........
+......W.
+.......b
+w.b.....
+.......w
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E h6 g5] in 0.0168378353118896s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+193.692268610001
+........
+......W.
+........
+w.b...b.
+.......w
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 0.396701097488403s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.622891426086
+........
+......W.
+.....w..
+w.b.....
+........
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d4] in 0.0206639766693115s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+193.295567512512
+........
+......W.
+.....w..
+w.......
+...b....
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 f8] in 0.350519895553589s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.602227449417
+.....W..
+........
+.....w..
+w.......
+...b....
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d4 c3] in 0.0147769451141357s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+192.945047616959
+.....W..
+........
+.....w..
+w.......
+........
+w.b...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4] in 0.34050989151001s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 17 GAMESCORE AFTER GAME 2: ericangu=0 and vdhankar=2 ##########
+#################### ROUND 17: ericangu (W) vs vdhankar (B): game 3 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 12.1790111064911s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c3 d4] in 0.0137770175933838s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+287.820988893509
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+...w....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 6.70061182975769s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.986222982407
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+...w...b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d4 c5] in 0.0395140647888184s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+281.120377063751
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+..w.....
+.......b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d6 b4] in 0.738744974136353s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.946708917618
+.b.b.b.b
+b.b.b.b.
+.b...b..
+........
+.b.....b
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J a3 c5] in 0.0326089859008789s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+280.381632089615
+.b.b.b.b
+b.b.b.b.
+.b...b..
+..w.....
+.......b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b6 d4] in 0.835683107376099s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.914099931717
+.b.b.b.b
+b.b.b.b.
+.....b..
+........
+...b...b
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J e3 c5] in 0.0360291004180908s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+279.545948982239
+.b.b.b.b
+b.b.b.b.
+.....b..
+..w.....
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 e5] in 7.84368896484375s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.878070831299
+.b.b.b.b
+b.b.b.b.
+........
+..w.b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d6] in 0.0112390518188477s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+271.702260017395
+.b.b.b.b
+b.b.b.b.
+...w....
+....b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e7 c5] in 1.44481301307678s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.86683177948
+.b.b.b.b
+b.b...b.
+........
+..b.b...
+.......b
+......w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g3 f4] in 0.0551869869232178s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+270.257447004318
+.b.b.b.b
+b.b...b.
+........
+..b.b...
+.....w.b
+........
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e5 g3] in 6.89909291267395s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.811644792557
+.b.b.b.b
+b.b...b.
+........
+..b.....
+.......b
+......b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h2 f4] in 0.0374119281768799s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+263.358354091644
+.b.b.b.b
+b.b...b.
+........
+..b.....
+.....w.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 79.6485910415649s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.77423286438
+.b.b.b.b
+b.b.....
+.......b
+..b.....
+.....w.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f4 g5] in 0.0124239921569824s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+183.709763050079
+.b.b.b.b
+b.b.....
+.......b
+..b...w.
+.......b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h6 f4] in 15.0875630378723s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.761808872223
+.b.b.b.b
+b.b.....
+........
+..b.....
+.....b.b
+........
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b2 a3] in 0.0114049911499023s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+168.622200012207
+.b.b.b.b
+b.b.....
+........
+..b.....
+.....b.b
+w.......
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g3] in 78.0124261379242s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.750403881073
+.b.b.b.b
+b.b.....
+........
+..b.....
+.......b
+w.....b.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g1 h2] in 0.0357890129089355s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+90.6097738742828
+.b.b.b.b
+b.b.....
+........
+..b.....
+.......b
+w.....b.
+...w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d4] in 15.226212978363s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.714614868164
+.b.b.b.b
+b.b.....
+........
+........
+...b...b
+w.....b.
+...w.w.w
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h2 f4] in 0.024914026260376s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+75.3835608959198
+.b.b.b.b
+b.b.....
+........
+........
+...b.w.b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 32.3389458656311s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.689700841904
+.b.b.b.b
+b.......
+.b......
+........
+...b.w.b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f4 e5] in 0.0195090770721436s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+43.0446150302887
+.b.b.b.b
+b.......
+.b......
+....w...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h8 g7] in 8.16325283050537s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.670191764832
+.b.b.b..
+b.....b.
+.b......
+....w...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e5 f6] in 0.0100479125976562s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+34.8813621997833
+.b.b.b..
+b.....b.
+.b...w..
+........
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g7 e5] in 0.850143194198608s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.660143852234
+.b.b.b..
+b.......
+.b......
+....b...
+...b...b
+w.......
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a3 b4] in 0.0460741519927979s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+34.0312190055847
+.b.b.b..
+b.......
+.b......
+....b...
+.w.b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f8 g7] in 3.21928596496582s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.614069700241
+.b.b....
+b.....b.
+.b......
+....b...
+.w.b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b4 c5] in 0.0106520652770996s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+30.8119330406189
+.b.b....
+b.....b.
+.b......
+..w.b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 h6] in 3.30690908432007s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.603417634964
+.b.b....
+b.......
+.b.....b
+..w.b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d6] in 0.0105068683624268s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+27.5050239562988
+.b.b....
+b.......
+.b.w...b
+....b...
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 3.4973258972168s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.592910766602
+.b.b....
+b.......
+.b.w....
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d6 e7] in 0.0104889869689941s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+24.007698059082
+.b.b....
+b...w...
+.b......
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.288005113601685s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.582421779633
+.b......
+b.......
+.b...b..
+....b.b.
+...b...b
+........
+...w.w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d2 e3] in 0.0101099014282227s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+23.7196929454803
+.b......
+b.......
+.b...b..
+....b.b.
+...b...b
+....w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 c5] in 0.369002103805542s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.572311878204
+.b......
+b.......
+.....b..
+..b.b.b.
+...b...b
+....w...
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e3 f4] in 0.0119907855987549s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+23.3506908416748
+.b......
+b.......
+.....b..
+..b.b.b.
+...b.w.b
+........
+.....w..
+w.w.w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g5 e3 ; J e3 g1] in 0.390223026275635s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.560321092606
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+........
+........
+w.w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a1 b2] in 0.0107319355010986s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+22.9604678153992
+.b......
+b.......
+.....b..
+..b.b...
+...b...b
+........
+.w......
+..w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 0.395470142364502s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.549589157104
+.b......
+b.......
+........
+..b.b.b.
+...b...b
+........
+.w......
+..w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b2 c3] in 0.0701229572296143s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+22.5649976730347
+.b......
+b.......
+........
+..b.b.b.
+...b...b
+..w.....
+........
+..w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b2] in 0.294673919677734s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.479466199875
+.b......
+b.......
+........
+..b.b.b.
+.......b
+........
+.b......
+..w.w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J c1 a3] in 0.0107049942016602s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+22.2703237533569
+.b......
+b.......
+........
+..b.b.b.
+.......b
+w.......
+........
+....w.B.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 0.361418008804321s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.468761205673
+.b......
+b.......
+........
+..b.b.b.
+.......b
+w.......
+.......B
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a3 b4] in 0.0123341083526611s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.9089057445526
+.b......
+b.......
+........
+..b.b.b.
+.w.....b
+........
+.......B
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c5 a3] in 0.318998098373413s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.456427097321
+.b......
+b.......
+........
+....b.b.
+.......b
+b.......
+.......B
+....w...
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e1 f2] in 0.0114760398864746s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.5899076461792
+.b......
+b.......
+........
+....b.b.
+.......b
+b.......
+.....w.B
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e5 d4] in 0.334043979644775s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+WHITE
+299.444951057434
+.b......
+b.......
+........
+......b.
+...b...b
+b.......
+.....w.B
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f2 g3] in 0.024712085723877s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+BLACK
+21.2558636665344
+.b......
+b.......
+........
+......b.
+...b...b
+b.....w.
+.......B
+........
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 0.317078113555908s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+After this move, player WHITE cannot make any moves
+*** Winner: BLACK ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 17 GAMESCORE AFTER GAME 3: ericangu=0 and vdhankar=3 ##########
+#################### ROUND 17: ericangu (B) vs vdhankar (W): game 4 ####################
+##### game start! #####
+INPUT for ericangu:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.0109841823577881s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 8.45581793785095s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.989015817642
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a7 b6] in 0.0123758316040039s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+291.544182062149
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 g3] in 13.353982925415s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.976639986038
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.......w
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 a5] in 0.0115690231323242s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+278.190199136734
+.b.b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.......w
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 4.78313899040222s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.965070962906
+.b.b.b.b
+..b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b8 a7] in 0.0126919746398926s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+273.407060146332
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w...w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 3.2975800037384s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.952378988266
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c7 b6] in 0.0105280876159668s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+270.109480142593
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.b.....
+.....w.w
+w.w.w.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 5.99580192565918s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.94185090065
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.b.....
+...w.w.w
+w.w...w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J c5 e3] in 0.0142650604248047s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+264.113678216934
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.......
+.....w.w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g5] in 2.16094303131104s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.927585840225
+...b.b.b
+b...b.b.
+.b.b.b.b
+b.....w.
+.......w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h6 f4] in 0.0272970199584961s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+261.952735185623
+...b.b.b
+b...b.b.
+.b.b.b..
+b.......
+.....b.w
+w.w.b.w.
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J g3 e5 ; J e5 c7] in 4.12503886222839s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.900288820267
+...b.b.b
+b.w.b.b.
+.b...b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e7 d6] in 0.0112528800964355s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+257.827696323395
+...b.b.b
+b.w...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b8] in 21.5924761295319s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.88903594017
+.W.b.b.b
+b.....b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d8 c7] in 0.00865602493286133s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+236.235220193863
+.W...b.b
+b.b...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w.....w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 f2] in 10.4875400066376s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.880379915237
+.W...b.b
+b.b...b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w...w.w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E f8 e7] in 0.00841999053955078s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+225.747680187225
+.W.....b
+b.b.b.b.
+.b.b.b..
+b.......
+.......w
+w.w.b...
+.w...w.w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 d4] in 0.948467016220093s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.871959924698
+.W.....b
+b.b.b.b.
+.b.b.b..
+b.......
+...w...w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.0339961051940918s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+224.799213171005
+.W.....b
+b.b.b.b.
+...b.b..
+b.b.....
+...w...w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d4 b6 ; J b6 d8] in 1.90318894386292s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.837963819504
+.W.W...b
+b...b.b.
+...b.b..
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E g7 h6] in 0.0130341053009033s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+222.896024227142
+.W.W...b
+b...b...
+...b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d8 c7] in 9.59584903717041s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.824929714203
+.W.....b
+b.W.b...
+...b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a7 b6] in 0.00928807258605957s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+213.300175189972
+.W.....b
+..W.b...
+.b.b.b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 e5 ; J e5 g7] in 0.502976179122925s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.815641641617
+.W.....b
+....b.W.
+.b.....b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [J h8 f6] in 0.0090019702911377s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+212.797199010849
+.W......
+....b...
+.b...b.b
+b.......
+.......w
+w.w.....
+.w.....w
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 2.6300528049469s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.806639671326
+.W......
+....b...
+.b...b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E e7 d6] in 0.0501489639282227s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+210.167146205902
+.W......
+........
+.b.b.b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b8 c7] in 2.02723002433777s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.756490707397
+........
+..W.....
+.b.b.b.b
+b.......
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E b6 c5] in 0.00821089744567871s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+208.139916181564
+........
+..W.....
+...b.b.b
+b.b.....
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c7 e5 ; J e5 g7] in 0.351172924041748s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.748279809952
+........
+......W.
+.......b
+b.b.....
+.......w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E a5 b4] in 0.00931596755981445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+207.788743257523
+........
+......W.
+.......b
+..b.....
+.b.....w
+w.w...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c3 a5] in 0.586457014083862s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.738963842392
+........
+......W.
+.......b
+w.b.....
+.......w
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E h6 g5] in 0.00845599174499512s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+207.202286243439
+........
+......W.
+........
+w.b...b.
+.......w
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 0.221200942993164s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.730507850647
+........
+......W.
+.....w..
+w.b.....
+........
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E c5 d4] in 0.00835204124450684s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+206.981085300446
+........
+......W.
+.....w..
+w.......
+...b....
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g7 f8] in 0.298915147781372s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for ericangu:
+GAME
+BLACK
+299.722155809402
+.....W..
+........
+.....w..
+w.......
+...b....
+w.....w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### SUCCESS: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" ./homework > stulog.txt 2>&1 on ericangu #####
+##### ericangu plays [E d4 c3] in 0.00909209251403809s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+INPUT for vdhankar:
+GAME
+WHITE
+206.682170152664
+.....W..
+........
+.....w..
+w.......
+........
+w.b...w.
+.w......
+w.w...w.
+##### Running: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_17_ericangu_vdhankar.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4] in 0.294142007827759s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_17_ericangu_vdhankar #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 17 GAMESCORE AFTER GAME 4: ericangu=0 and vdhankar=4 ##########
+
+
+########## GRAND WINNER ROUND 17 IS vdhankar BY 4 vs 0 GAMESCORE ##########

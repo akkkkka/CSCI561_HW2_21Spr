@@ -1,0 +1,951 @@
+#################### ROUND 50: ravilla (B) vs devbhank (W): game 1 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E a3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E d6 c5] in 0.0295870304107666s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.96
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b.b.....
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b4 d6] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.960412969589
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+b.......
+........
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J c7 e5] in 0.0136590003967285s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b...b.b.
+.....b.b
+b...b...
+........
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E c3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.946753969193
+.b.b.b.b
+b...b.b.
+.....b.b
+b...b...
+.w......
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J a5 c3] in 0.0260939598083496s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+........
+..b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b2 d4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.920660009384
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+...w....
+....w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J e5 c3] in 0.0312659740447998s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.83
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+........
+..b.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d2 b4 ; E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move [d2 b4
+, b4 a5
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+##### GAME OVER: devbhank loses because of illegal move [J d2 b4 ; E b4 a5] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 1: ravilla=1 and devbhank=0 ##########
+#################### ROUND 50: ravilla (W) vs devbhank (B): game 2 ####################
+##### game start! #####
+INPUT for devbhank:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g3 f4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E g5 h4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.99
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f4 g5] in 0.0491201877593994s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h4 g3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.940879812241
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J f2 h4] in 0.0202569961547852s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.920622816086
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.w.
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g5 h6] in 0.0148670673370361s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.84
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....b...
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e5 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.905755748749
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+.....b.w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J e3 g5] in 0.026947021484375s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.8
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+......w.
+.......w
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E d6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.878808727264
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.w.
+.......w
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.75
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.w.
+.w.....w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e5 f4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.868808727264
+.b.b.b.b
+b.b.b.b.
+.b.....w
+......w.
+.w...b.w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b4 c5] in 0.0219118595123291s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.72
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..w...w.
+.....b.w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b6 d4 ; E d4 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move [b6 d4
+, d4 c3
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+##### GAME OVER: devbhank loses because of illegal move [J b6 d4 ; E d4 c3] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 2: ravilla=2 and devbhank=0 ##########
+#################### ROUND 50: ravilla (B) vs devbhank (W): game 3 ####################
+##### game start! #####
+INPUT for ravilla:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b6 a5] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E a3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.99
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+b.......
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E d6 c5] in 0.0267279148101807s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.....b.b
+b.b.....
+.w......
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b4 d6] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.96327208519
+.b.b.b.b
+b.b.b.b.
+...w.b.b
+b.......
+........
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J c7 e5] in 0.0158960819244385s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.92
+.b.b.b.b
+b...b.b.
+.....b.b
+b...b...
+........
+..w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E c3 b4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.947376003265
+.b.b.b.b
+b...b.b.
+.....b.b
+b...b...
+.w......
+....w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J a5 c3] in 0.0136251449584961s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.88
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+........
+..b.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b2 d4] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+BLACK
+299.933750858307
+.b.b.b.b
+b...b.b.
+.....b.b
+....b...
+...w....
+....w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J e5 c3] in 0.0510189533233643s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+WHITE
+299.85
+.b.b.b.b
+b...b.b.
+.....b.b
+........
+........
+..b.w.w.
+...w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J d2 b4 ; E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move [d2 b4
+, b4 a5
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+##### GAME OVER: devbhank loses because of illegal move [J d2 b4 ; E b4 a5] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 3: ravilla=3 and devbhank=0 ##########
+#################### ROUND 50: ravilla (W) vs devbhank (B): game 4 ####################
+##### game start! #####
+INPUT for devbhank:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h6 g5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g3 f4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E g5 h4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.99
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E f4 g5] in 0.0262041091918945s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.92
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E h4 g3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.963795890808
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+........
+w.w.w.b.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J f2 h4] in 0.0361309051513672s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.88
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......w.
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E f6 e5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.927664985657
+.b.b.b.b
+b.b.b.b.
+.b.b....
+....b.w.
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E g5 h6] in 0.0366799831390381s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.83
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+....b...
+.......w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e5 f4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.890985002518
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+.....b.w
+w.w.w...
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [J e3 g5] in 0.0111870765686035s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.78
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+......w.
+.......w
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E d6 e5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.879797925949
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.w.
+.......w
+w.w.....
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E c3 b4] in 0.01s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.74
+.b.b.b.b
+b.b.b.b.
+.b.....w
+....b.w.
+.w.....w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [E e5 f4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for ravilla:
+GAME
+WHITE
+299.869797925949
+.b.b.b.b
+b.b.b.b.
+.b.....w
+......w.
+.w...b.w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" ./homework > stulog.txt 2>&1 on ravilla #####
+##### ravilla plays [E b4 c5] in 0.0171570777893066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+INPUT for devbhank:
+GAME
+BLACK
+299.7
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..w...w.
+.....b.w
+w.......
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### SUCCESS: /usr/bin/time -o time_50_ravilla_devbhank.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on devbhank #####
+##### devbhank plays [J b6 d4 ; E d4 c3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+Move [b6 d4
+, d4 c3
+] is invalid
+All steps in a move need to be of the same type!
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_50_ravilla_devbhank #####
+##### GAME OVER: devbhank loses because of illegal move [J b6 d4 ; E d4 c3] #####
+Server said: FAIL
+########## ROUND 50 GAMESCORE AFTER GAME 4: ravilla=4 and devbhank=0 ##########
+
+
+########## GRAND WINNER ROUND 50 IS ravilla BY 4 vs 0 GAMESCORE ##########

@@ -1,0 +1,723 @@
+#################### ROUND 2: shaditor (B) vs wjiang10 (W): game 1 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E c3 b4] in 3.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.95
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+296.78
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E g3 h4] in 2.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.9
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w.....w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+294.11
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.w.....w
+w...w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E e3 f4] in 3.9s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.85
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.w...w.w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 a5] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+290.21
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w...w.w
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E h2 g3] in 2.95s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.79
+...b.b.b
+b.b.b.b.
+...b.b.b
+b.b.....
+.w...w.w
+w.....w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J a5 c3] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+287.26
+...b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.....w.w
+w.b...w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [J b2 d4 ; J d4 b6] in 1s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.75
+...b.b.b
+b.b.b.b.
+.w.b.b.b
+........
+.....w.w
+w.....w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J a7 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+286.26
+...b.b.b
+..b.b.b.
+...b.b.b
+..b.....
+.....w.w
+w.....w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E h4 g5] in 5.73s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.7
+...b.b.b
+..b.b.b.
+...b.b.b
+..b...w.
+.....w..
+w.....w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J f6 h4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+280.53
+...b.b.b
+..b.b.b.
+...b...b
+..b.....
+.....w.b
+w.....w.
+...w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E d2 c3] in 4.94s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.66
+...b.b.b
+..b.b.b.
+...b...b
+..b.....
+.....w.b
+w.w...w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c7 b6] in 0.07s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+275.59
+...b.b.b
+....b.b.
+.b.b...b
+..b.....
+.....w.b
+w.w...w.
+.....w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E c1 b2] in 8.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.59
+...b.b.b
+....b.b.
+.b.b...b
+..b.....
+.....w.b
+w.w...w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E d8 c7] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+267.22
+.....b.b
+..b.b.b.
+.b.b...b
+..b.....
+.....w.b
+w.w...w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E c3 d4] in 3.34s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.54
+.....b.b
+..b.b.b.
+.b.b...b
+..b.....
+...w.w.b
+w.....w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J c5 e3] in 0.03s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+263.88
+.....b.b
+..b.b.b.
+.b.b...b
+........
+.....w.b
+w...b.w.
+.w...w..
+w...w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+##### GAME OVER: wjiang10 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: shaditor=1 and wjiang10=0 ##########
+#################### ROUND 2: shaditor (W) vs wjiang10 (B): game 2 ####################
+##### game start! #####
+INPUT for wjiang10:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E d6 c5] in 3.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+BLACK
+296.64
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E h6 g5] in 1.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.b...b..
+..b...b.
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b4 a5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+##### GAME OVER: shaditor loses because of illegal move [E b4 a5] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: shaditor=1 and wjiang10=1 ##########
+#################### ROUND 2: shaditor (B) vs wjiang10 (W): game 3 ####################
+##### game start! #####
+INPUT for shaditor:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b6 c5] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E c3 b4] in 3.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.96
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E a7 b6] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+296.91
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E e3 f4] in 3.62s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.91
+.b.b.b.b
+..b.b.b.
+.b.b.b.b
+..b.....
+.w...w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b8 a7] in 0.06s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+293.29
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.....
+.w...w..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E f4 e5] in 4.11s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.85
+...b.b.b
+b.b.b.b.
+.b.b.b.b
+..b.w...
+.w......
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J d6 f4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+289.18
+...b.b.b
+b.b.b.b.
+.b...b.b
+..b.....
+.w...b..
+w.....w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [J g3 e5] in 0.81s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+BLACK
+299.8
+...b.b.b
+b.b.b.b.
+.b...b.b
+..b.w...
+.w......
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [J f6 d4] in 0.04s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+WHITE
+288.37
+...b.b.b
+b.b.b.b.
+.b.....b
+..b.....
+.w.b....
+w.......
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+##### GAME OVER: wjiang10 loses because of illegal move [] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: shaditor=2 and wjiang10=1 ##########
+#################### ROUND 2: shaditor (W) vs wjiang10 (B): game 4 ####################
+##### game start! #####
+INPUT for wjiang10:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E d6 c5] in 3.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E c3 b4] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for wjiang10:
+GAME
+BLACK
+296.72
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+..b.....
+.w......
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on wjiang10 #####
+##### wjiang10 plays [E c5 d4] in 1.37s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+INPUT for shaditor:
+GAME
+WHITE
+299.95
+.b.b.b.b
+b.b.b.b.
+.b...b.b
+........
+.w.b....
+w...w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### SUCCESS: /usr/bin/time -o time_2_shaditor_wjiang10.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on shaditor #####
+##### shaditor plays [E b4 c5] in 0.05s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+Move is not valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_shaditor_wjiang10 #####
+##### GAME OVER: shaditor loses because of illegal move [E b4 c5] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: shaditor=2 and wjiang10=2 ##########
+
+
+########## TIE ON ROUND 2 - BOTH PLAYERS ADVANCE TO NEXT ROUND ##########

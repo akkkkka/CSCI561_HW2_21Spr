@@ -1,0 +1,406 @@
+#################### ROUND 1: reference (W) vs daweiwei (B): game 1 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.242995977401733s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 1: reference=1 and daweiwei=0 ##########
+#################### ROUND 1: reference (B) vs daweiwei (W): game 2 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.315471887588501s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 2: reference=2 and daweiwei=0 ##########
+#################### ROUND 1: reference (W) vs daweiwei (B): game 3 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.316479921340942s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 3: reference=3 and daweiwei=0 ##########
+#################### ROUND 1: reference (B) vs daweiwei (W): game 4 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.285521984100342s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 4: reference=4 and daweiwei=0 ##########
+#################### ROUND 1: reference (W) vs daweiwei (B): game 5 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.241606950759888s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 5: reference=5 and daweiwei=0 ##########
+#################### ROUND 1: reference (B) vs daweiwei (W): game 6 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.404875993728638s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 6: reference=6 and daweiwei=0 ##########
+#################### ROUND 1: reference (W) vs daweiwei (B): game 7 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.339545965194702s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 7: reference=7 and daweiwei=0 ##########
+#################### ROUND 1: reference (B) vs daweiwei (W): game 8 ####################
+##### game start! #####
+INPUT for reference:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### SUCCESS: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on reference #####
+##### reference plays [E b6 c5] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+...b.b.b
+..b.....
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.338957071304321s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 8: reference=8 and daweiwei=0 ##########
+#################### ROUND 1: reference (W) vs daweiwei (B): game 9 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_1_reference_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.415542840957642s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_1_reference_daweiwei #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 1 GAMESCORE AFTER GAME 9: reference=9 and daweiwei=0 ##########
+
+
+########## GRAND WINNER ROUND 1 IS reference BY 9 vs 0 GAMESCORE ##########

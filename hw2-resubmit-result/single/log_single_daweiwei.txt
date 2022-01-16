@@ -1,0 +1,263 @@
+##### Single move 1 start! #####
+INPUT for daweiwei:
+SINGLE
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.195211887359619s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 2 start! #####
+INPUT for daweiwei:
+SINGLE
+BLACK
+300
+........
+........
+........
+......W.
+.....B..
+........
+.b.B....
+....B...
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.191921949386597s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 3 start! #####
+INPUT for daweiwei:
+SINGLE
+BLACK
+300
+.....b.b
+........
+.....b.b
+b.......
+........
+b...b...
+.w.....b
+B.......
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.190156936645508s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 4 start! #####
+INPUT for daweiwei:
+SINGLE
+WHITE
+300
+.b.b.b.b
+b.......
+...b...b
+........
+.w...w.w
+..w...w.
+.....b..
+..w.B...
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.190341949462891s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 5 start! #####
+INPUT for daweiwei:
+SINGLE
+WHITE
+300
+.b.b.b..
+b.b.b...
+.b.b.b..
+........
+...w....
+w.w.....
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.190346002578735s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 6 start! #####
+INPUT for daweiwei:
+SINGLE
+BLACK
+293.84
+........
+........
+...b.b..
+..b.....
+.......b
+w.......
+.w.....w
+..w.....
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.189332008361816s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 7 start! #####
+INPUT for daweiwei:
+SINGLE
+WHITE
+292.24
+........
+....b.W.
+...b...b
+b.......
+.w......
+w.w.....
+.....B..
+........
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.190548896789551s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 8 start! #####
+INPUT for daweiwei:
+SINGLE
+WHITE
+300
+........
+..b...W.
+.....b..
+w.......
+.....b.w
+w.B.....
+.....b..
+w.......
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.189505100250244s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 9 start! #####
+INPUT for daweiwei:
+SINGLE
+BLACK
+300
+...b....
+w.b.b...
+...b...b
+w...b.b.
+.w...w..
+w.....w.
+.w.w.w..
+........
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.190277814865112s #####
+##### No output.txt found. GAME OVER #####
+##### Single move 10 start! #####
+INPUT for daweiwei:
+SINGLE
+WHITE
+300
+........
+......b.
+...W....
+....W...
+...w.b..
+........
+...B.b.B
+........
+##### Running: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_single_daweiwei.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.189034938812256s #####
+##### No output.txt found. GAME OVER #####
+
+
+########## Total score: 0 ##########

@@ -1,0 +1,4693 @@
+#################### ROUND 22: vdhankar (W) vs dongwanx (B): game 1 ####################
+##### game start! #####
+INPUT for dongwanx:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h6 g5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 15.2222990989685s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.77
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g7 h6] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+284.777700901031
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 13.6770849227905s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.57
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f6 e5] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+271.100615978241
+.b.b.b.b
+b.b.b...
+.b.b...b
+....b.b.
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 1.78918790817261s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.32
+.b.b.b.b
+b.b.b...
+.b.b.w.b
+....b...
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e7 g5] in 0.4s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+269.311428070068
+.b.b.b.b
+b.b.....
+.b.b...b
+....b.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 15.4108328819275s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.92
+.b.b.b.b
+b.b.....
+.b.b...b
+....b.b.
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e5 g3] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+253.900595188141
+.b.b.b.b
+b.b.....
+.b.b...b
+......b.
+........
+w.w.w.b.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 h4 ; J h4 f6] in 4.53391194343567s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.69
+.b.b.b.b
+b.b.....
+.b.b.w.b
+........
+........
+w.w.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d6 c5] in 0.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+249.366683244705
+.b.b.b.b
+b.b.....
+.b...w.b
+..b.....
+........
+w.w.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 10.7744879722595s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.11
+.b.b.b.b
+b.b.....
+.b...w.b
+..b.....
+.....w..
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h6 g5] in 0.75s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+238.592195272446
+.b.b.b.b
+b.b.....
+.b...w..
+..b...b.
+.....w..
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h6] in 2.18295001983643s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+297.36
+.b.b.b.b
+b.b.....
+.b...w.w
+..b.....
+........
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c7 d6] in 0.58s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+236.409245252609
+.b.b.b.b
+b.......
+.b.b.w.w
+..b.....
+........
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 d4] in 18.2028431892395s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+296.78
+.b.b.b.b
+b.......
+.b.b.w.w
+..b.....
+...w....
+w.......
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J c5 e3] in 0.31s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+218.20640206337
+.b.b.b.b
+b.......
+.b.b.w.w
+........
+........
+w...b...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 f4] in 11.4609370231628s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+296.47
+.b.b.b.b
+b.......
+.b.b.w.w
+........
+.....w..
+w.......
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 c5] in 1.09s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+206.745465040207
+.b.b.b.b
+b.......
+...b.w.w
+..b.....
+.....w..
+w.......
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 53.1117119789124s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+295.38
+.b.b.b.b
+b.......
+...b.w.w
+..b.....
+.....w..
+w.......
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+153.633753061295
+.b.b.b.b
+........
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 36.5883028507233s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+294.71
+.b.b.b.b
+........
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.93s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+117.045450210571
+...b.b.b
+b.......
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 19.2748851776123s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+293.78
+...b.b.b
+b.......
+.b.b.w.w
+..b.....
+.....w..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a5] in 0.74s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+97.770565032959
+...b.b.b
+b.......
+...b.w.w
+b.b.....
+.....w..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 17.4939880371094s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+293.04
+...b.b.b
+b.......
+...b.w.w
+b.b.....
+.....w..
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d6 e5] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+80.2765769958496
+...b.b.b
+b.......
+.....w.w
+b.b.b...
+.....w..
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 d6] in 3.91889595985413s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+292.54
+...b.b.b
+b.......
+...w.w.w
+b.b.....
+........
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a5 b4] in 0.65s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+76.3576810359955
+...b.b.b
+b.......
+...w.w.w
+..b.....
+.b......
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 9.24026989936829s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+291.89
+...b.b.b
+b.......
+...w.w.w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d8 e7] in 0.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+67.1174111366272
+.....b.b
+b...b...
+...w.w.w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d8] in 1.4933168888092s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+291.37
+...W.b.b
+b.......
+...w...w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b4 c3] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+65.624094247818
+...W.b.b
+b.......
+...w...w
+..b.....
+.......w
+w.b.w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4 ; J d4 b6] in 1.04482388496399s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.84
+...W.b.b
+b.......
+.w.w...w
+........
+.......w
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J a7 c5] in 0.39s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+64.579270362854
+...W.b.b
+........
+...w...w
+..b.....
+.......w
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h4 g5] in 3.15090394020081s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.45
+...W.b.b
+........
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f8 e7] in 0.29s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+61.4283664226532
+...W...b
+....b...
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.356683015823364s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.16
+.......b
+........
+...w.W.w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h8 g7] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+61.0716834068298
+........
+......b.
+...w.W.w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 h8] in 0.325837850570679s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+289.92
+.......W
+........
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c5 d4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+60.7458455562592
+.......W
+........
+...w...w
+......w.
+...b....
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 c5] in 0.330600023269653s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 1: vdhankar=1 and dongwanx=0 ##########
+#################### ROUND 22: vdhankar (B) vs dongwanx (W): game 2 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.9397881031036s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.060211896896
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 9.68359303474426s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f2 g3] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+278.376618862152
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 1.88427996635437s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.52
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w..
+w.w.w...
+.w.w.b.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e1 g3] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+276.492338895798
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w..
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 8.81636691093445s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.33
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+.....w..
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J f4 h6] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+267.675971984863
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+........
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 18.1154990196228s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.14
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..b.....
+........
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+249.56047296524
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..b.....
+.....w..
+w.w.w...
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 f6] in 13.7563440799713s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.92
+.b.b.b.b
+b.b...b.
+.b...b.w
+..b.....
+.....w..
+w.w.w...
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h2 g3] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+235.804128885269
+.b.b.b.b
+b.b...b.
+.b...b.w
+..b.....
+.....w..
+w.w.w.w.
+.w.w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 11.0133531093597s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.66
+.b.b.b.b
+b.b...b.
+.b.....w
+..b...b.
+.....w..
+w.w.w.w.
+.w.w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g1 f2] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+224.790775775909
+.b.b.b.b
+b.b...b.
+.b.....w
+..b...b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 a5] in 8.90756106376648s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.39
+.b.b.b.b
+b.b...b.
+.......w
+b.b...b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f4 e5] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+215.883214712143
+.b.b.b.b
+b.b...b.
+.......w
+b.b.w.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a5 b4] in 7.38260507583618s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.15
+.b.b.b.b
+b.b...b.
+.......w
+..b.w.b.
+.b......
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J c3 a5] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+208.500609636307
+.b.b.b.b
+b.b...b.
+.......w
+w.b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 6.08484482765198s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.95
+.b.b.b.b
+b.....b.
+.b.....w
+w.b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J a5 c7] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+202.415764808655
+.b.b.b.b
+b.w...b.
+.......w
+..b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b8 d6 ; J d6 f4 ; J f4 h2] in 6.16657090187073s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.72
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w...
+.w.w.w.b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f2 g3] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+196.249193906784
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w.w.
+.w.w...b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 18.2486698627472s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.46
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w.w.
+.w.w....
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d2 c3] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+178.000524044037
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d8 e7] in 12.8881599903107s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.2
+.....b.b
+b...b.b.
+.......w
+..b...b.
+........
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+165.112364053726
+.....b.b
+b...b.b.
+.......w
+..b...b.
+.....w..
+w.w.w...
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 5.43341994285583s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.95
+.....b.b
+b...b.b.
+.......w
+..b...b.
+.....w..
+w.w.w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c3 d4] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+159.67894411087
+.....b.b
+b...b.b.
+.......w
+..b...b.
+...w.w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 f6] in 2.68645906448364s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.75
+.....b.b
+b.....b.
+.....b.w
+..b...b.
+...w.w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J d4 b6] in 0.19s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+156.992485046387
+.....b.b
+b.....b.
+.w...b.w
+......b.
+.....w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a7 c5] in 0.631215810775757s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.56
+.....b.b
+......b.
+.....b.w
+..b...b.
+.....w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f4 e5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+156.361269235611
+.....b.b
+......b.
+.....b.w
+..b.w.b.
+........
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d4] in 0.849009990692139s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.33
+.....b.b
+......b.
+.......w
+..b...b.
+...b....
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a3 b4] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+155.512259244919
+.....b.b
+......b.
+.......w
+..b...b.
+.w.b....
+....w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c5 a3] in 0.836864948272705s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.05
+.....b.b
+......b.
+.......w
+......b.
+...b....
+b...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e3 c5] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+154.675394296646
+.....b.b
+......b.
+.......w
+..w...b.
+........
+b.......
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 e3] in 5.48148202896118s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.75
+.....b.b
+......b.
+.......w
+..w...b.
+........
+b...B...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c5 b6] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+149.193912267685
+.....b.b
+......b.
+.w.....w
+......b.
+........
+b...B...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 4.46306991577148s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.34
+.....b.b
+......b.
+.w.....w
+......b.
+...B....
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+144.730842351913
+.....b.b
+w.....b.
+.......w
+......b.
+...B....
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 c5] in 6.28211402893066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.02
+.....b.b
+w.....b.
+.......w
+..B...b.
+........
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+138.448728322983
+.W...b.b
+......b.
+.......w
+..B...b.
+........
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 f4] in 6.8288722038269s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+294.58
+.W...b.b
+......b.
+.......w
+..B.....
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+131.619856119156
+.....b.b
+W.....b.
+.......w
+..B.....
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d6] in 10.7031178474426s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+294.09
+.....b.b
+W.....b.
+...B...w
+........
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+120.916738271713
+.....b.b
+......b.
+.W.B...w
+........
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g3] in 13.4795939922333s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+293.59
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.....b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.45s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+107.43714427948
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.....b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h2] in 16.1564290523529s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+293.14
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w.....b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+91.2807152271271
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w.....b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 12.5899448394775s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+292.67
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.51s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+78.6907703876495
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 19.3129289150238s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+292.16
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.55s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+59.3778414726257
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 12.3992919921875s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+291.61
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+46.9785494804382
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 3.61442017555237s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+291.12
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.5s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+43.3641293048859
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 3.05019593238831s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+290.62
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+40.3139333724976
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 2.78589701652527s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+290.15
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.53s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+37.5280363559723
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 3.30775213241577s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+289.62
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+34.2202842235565
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 3.06209278106689s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+289.13
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+##### GAME ENDS IN A DRAW. Time left for vdhankar: 31.1581914424896s, dongwanx: 288.66s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, dongwanx wins by time remaining #####
+########## ROUND 22 GAMESCORE AFTER GAME 2: vdhankar=1 and dongwanx=1 ##########
+#################### ROUND 22: vdhankar (W) vs dongwanx (B): game 3 ####################
+##### game start! #####
+INPUT for dongwanx:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h6 g5] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 14.4404771327972s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.74
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g7 h6] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+285.559522867203
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.......w
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 13.2078149318695s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.53
+.b.b.b.b
+b.b.b...
+.b.b.b.b
+......b.
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f6 e5] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+272.351707935333
+.b.b.b.b
+b.b.b...
+.b.b...b
+....b.b.
+.......w
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f6] in 1.61184597015381s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+299.25
+.b.b.b.b
+b.b.b...
+.b.b.w.b
+....b...
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e7 g5] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+270.739861965179
+.b.b.b.b
+b.b.....
+.b.b...b
+....b.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 f4] in 14.515487909317s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.89
+.b.b.b.b
+b.b.....
+.b.b...b
+....b.b.
+.....w..
+w.w.w...
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e5 g3] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+256.224374055862
+.b.b.b.b
+b.b.....
+.b.b...b
+......b.
+........
+w.w.w.b.
+.w.w.w..
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f2 h4 ; J h4 f6] in 4.24214911460876s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.67
+.b.b.b.b
+b.b.....
+.b.b.w.b
+........
+........
+w.w.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d6 c5] in 0.57s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+251.982224941254
+.b.b.b.b
+b.b.....
+.b...w.b
+..b.....
+........
+w.w.w...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 f4] in 10.4516401290894s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+298.1
+.b.b.b.b
+b.b.....
+.b...w.b
+..b.....
+.....w..
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h6 g5] in 0.67s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+241.530584812164
+.b.b.b.b
+b.b.....
+.b...w..
+..b...b.
+.....w..
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 h6] in 2.66932010650635s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+297.43
+.b.b.b.b
+b.b.....
+.b...w.w
+..b.....
+........
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c7 d6] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+238.861264705658
+.b.b.b.b
+b.......
+.b.b.w.w
+..b.....
+........
+w.w.....
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c3 d4] in 16.6274518966675s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+296.99
+.b.b.b.b
+b.......
+.b.b.w.w
+..b.....
+...w....
+w.......
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J c5 e3] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+222.23381280899
+.b.b.b.b
+b.......
+.b.b.w.w
+........
+........
+w...b...
+.w.w....
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d2 f4] in 11.7974729537964s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+296.69
+.b.b.b.b
+b.......
+.b.b.w.w
+........
+.....w..
+w.......
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 c5] in 0.96s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+210.436339855194
+.b.b.b.b
+b.......
+...b.w.w
+..b.....
+.....w..
+w.......
+.w......
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 54.3739070892334s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+295.73
+.b.b.b.b
+b.......
+...b.w.w
+..b.....
+.....w..
+w.......
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.71s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+156.062432765961
+.b.b.b.b
+........
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.....w
+w.w.w...
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e1 d2] in 36.3694868087769s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+295.02
+.b.b.b.b
+........
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.84s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+119.692945957184
+...b.b.b
+b.......
+.b.b.w.w
+..b.....
+.....w..
+w.......
+.w.w...w
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g3] in 18.4207489490509s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+294.18
+...b.b.b
+b.......
+.b.b.w.w
+..b.....
+.....w..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a5] in 0.6s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+101.272197008133
+...b.b.b
+b.......
+...b.w.w
+b.b.....
+.....w..
+w.....w.
+.w.w....
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d2 e3] in 17.6728551387787s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+293.58
+...b.b.b
+b.......
+...b.w.w
+b.b.....
+.....w..
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d6 e5] in 0.61s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+83.5993418693542
+...b.b.b
+b.......
+.....w.w
+b.b.b...
+.....w..
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f4 d6] in 3.85475301742554s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+292.97
+...b.b.b
+b.......
+...w.w.w
+b.b.....
+........
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a5 b4] in 0.68s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+79.7445888519287
+...b.b.b
+b.......
+...w.w.w
+..b.....
+.b......
+w...w.w.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h4] in 9.43701100349426s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+292.29
+...b.b.b
+b.......
+...w.w.w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d8 e7] in 0.47s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+70.3075778484344
+.....b.b
+b...b...
+...w.w.w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d8] in 1.37349700927734s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+291.82
+...W.b.b
+b.......
+...w...w
+..b.....
+.b.....w
+w...w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b4 c3] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+68.9340808391571
+...W.b.b
+b.......
+...w...w
+..b.....
+.......w
+w.b.w...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b2 d4 ; J d4 b6] in 0.982647895812988s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+291.33
+...W.b.b
+b.......
+.w.w...w
+........
+.......w
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J a7 c5] in 0.38s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+67.9514329433441
+...W.b.b
+........
+...w...w
+..b.....
+.......w
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h4 g5] in 2.94636392593384s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.95
+...W.b.b
+........
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f8 e7] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+65.0050690174103
+...W...b
+....b...
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J d8 f6] in 0.361268043518066s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.68
+.......b
+........
+...w.W.w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h8 g7] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+64.6438009738922
+........
+......b.
+...w.W.w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 h8] in 0.332578897476196s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+BLACK
+290.47
+.......W
+........
+...w...w
+..b...w.
+........
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c5 d4] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+WHITE
+64.311222076416
+.......W
+........
+...w...w
+......w.
+...b....
+w...w...
+........
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J e3 c5] in 0.409056901931763s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+After this move, player BLACK cannot make any moves
+*** Winner: WHITE ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+##### GAME OVER: vdhankar wins the game! #####
+Server said: WIN
+########## ROUND 22 GAMESCORE AFTER GAME 3: vdhankar=2 and dongwanx=1 ##########
+#################### ROUND 22: vdhankar (B) vs dongwanx (W): game 4 ####################
+##### game start! #####
+INPUT for vdhankar:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h6 g5] in 11.0950720310211s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+288.904927968979
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+......b.
+.....w..
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 h4] in 8.45838284492493s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.77
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w...
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f2 g3] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+280.446545124054
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w.b
+w.w.w.w.
+.w.w...w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J h4 f2] in 1.78392601013184s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.53
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w..
+w.w.w...
+.w.w.b.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e1 g3] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+278.662619113922
+.b.b.b.b
+b.b.b.b.
+.b.b.b..
+........
+.....w..
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 9.01486110687256s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.32
+.b.b.b.b
+b.b.b.b.
+.b.b....
+......b.
+.....w..
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J f4 h6] in 0.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+269.64775800705
+.b.b.b.b
+b.b.b.b.
+.b.b...w
+........
+........
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 18.6061391830444s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+299.14
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..b.....
+........
+w.w.w.w.
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+251.041618824005
+.b.b.b.b
+b.b.b.b.
+.b.....w
+..b.....
+.....w..
+w.w.w...
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 f6] in 13.3297250270844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.9
+.b.b.b.b
+b.b...b.
+.b...b.w
+..b.....
+.....w..
+w.w.w...
+.w.w...w
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E h2 g3] in 0.27s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+237.711893796921
+.b.b.b.b
+b.b...b.
+.b...b.w
+..b.....
+.....w..
+w.w.w.w.
+.w.w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f6 g5] in 10.0132579803467s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.63
+.b.b.b.b
+b.b...b.
+.b.....w
+..b...b.
+.....w..
+w.w.w.w.
+.w.w....
+w.w...w.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g1 f2] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+227.698635816574
+.b.b.b.b
+b.b...b.
+.b.....w
+..b...b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E b6 a5] in 9.5594699382782s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.37
+.b.b.b.b
+b.b...b.
+.......w
+b.b...b.
+.....w..
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f4 e5] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+218.139165878296
+.b.b.b.b
+b.b...b.
+.......w
+b.b.w.b.
+........
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E a5 b4] in 7.20573592185974s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+298.12
+.b.b.b.b
+b.b...b.
+.......w
+..b.w.b.
+.b......
+w.w.w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J c3 a5] in 0.23s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+210.933429956436
+.b.b.b.b
+b.b...b.
+.......w
+w.b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c7 b6] in 6.24239611625671s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.89
+.b.b.b.b
+b.....b.
+.b.....w
+w.b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J a5 c7] in 0.22s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+204.691033840179
+.b.b.b.b
+b.w...b.
+.......w
+..b.w.b.
+........
+w...w.w.
+.w.w.w..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J b8 d6 ; J d6 f4 ; J f4 h2] in 6.383544921875s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.67
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w...
+.w.w.w.b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f2 g3] in 0.26s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+198.307488918304
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w.w.
+.w.w...b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 18.8292889595032s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.41
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w...w.w.
+.w.w....
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E d2 c3] in 0.25s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+179.478199958801
+...b.b.b
+b.....b.
+.......w
+..b...b.
+........
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d8 e7] in 13.6734430789948s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+297.16
+.....b.b
+b...b.b.
+.......w
+..b...b.
+........
+w.w.w.w.
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E g3 f4] in 0.28s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+165.804756879807
+.....b.b
+b...b.b.
+.......w
+..b...b.
+.....w..
+w.w.w...
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 f2] in 5.61389112472534s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.88
+.....b.b
+b...b.b.
+.......w
+..b...b.
+.....w..
+w.w.w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c3 d4] in 0.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+160.190865755081
+.....b.b
+b...b.b.
+.......w
+..b...b.
+...w.w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e7 f6] in 2.46170496940613s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.67
+.....b.b
+b.....b.
+.....b.w
+..b...b.
+...w.w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J d4 b6] in 0.2s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+157.729160785675
+.....b.b
+b.....b.
+.w...b.w
+......b.
+.....w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J a7 c5] in 0.64625883102417s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.47
+.....b.b
+......b.
+.....b.w
+..b...b.
+.....w..
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E f4 e5] in 0.24s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+157.082901954651
+.....b.b
+......b.
+.....b.w
+..b.w.b.
+........
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J f6 d4] in 0.926048994064331s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+296.23
+.....b.b
+......b.
+.......w
+..b...b.
+...b....
+w...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a3 b4] in 0.3s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+156.156852960587
+.....b.b
+......b.
+.......w
+..b...b.
+.w.b....
+....w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [J c5 a3] in 0.930325031280518s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.93
+.....b.b
+......b.
+.......w
+......b.
+...b....
+b...w...
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [J e3 c5] in 0.32s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+155.226527929306
+.....b.b
+......b.
+.......w
+..w...b.
+........
+b.......
+.w...B..
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f2 e3] in 5.73620009422302s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.61
+.....b.b
+......b.
+.......w
+..w...b.
+........
+b...B...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E c5 b6] in 0.41s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+149.490327835083
+.....b.b
+......b.
+.w.....w
+......b.
+........
+b...B...
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E e3 d4] in 4.57358002662659s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+295.2
+.....b.b
+......b.
+.w.....w
+......b.
+...B....
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.36s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+144.916747808456
+.....b.b
+w.....b.
+.......w
+......b.
+...B....
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d4 c5] in 6.47311401367188s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+294.84
+.....b.b
+w.....b.
+.......w
+..B...b.
+........
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.46s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+138.443633794785
+.W...b.b
+......b.
+.......w
+..B...b.
+........
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g5 f4] in 7.61334085464478s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+294.38
+.W...b.b
+......b.
+.......w
+..B.....
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+130.83029294014
+.....b.b
+W.....b.
+.......w
+..B.....
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E c5 d6] in 11.3227460384369s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+293.96
+.....b.b
+W.....b.
+...B...w
+........
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+119.507546901703
+.....b.b
+......b.
+.W.B...w
+........
+.....b..
+b.......
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E f4 g3] in 12.8746960163116s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+293.48
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.....b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.43s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+106.632850885391
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.....b.
+.w......
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g3 h2] in 16.6638929843903s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+293.05
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w.....b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+89.968957901001
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w.....b
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 11.9556579589844s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+292.61
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.52s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+78.0132999420166
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 19.9363601207733s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+292.09
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b6] in 0.44s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+58.0769398212433
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 11.6875238418579s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+291.65
+.....b.b
+......b.
+.W.B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b6 a7] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+46.3894159793854
+.....b.b
+W.....b.
+...B...w
+........
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E d6 c5] in 3.18572402000427s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+291.23
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.49s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+43.2036919593811
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 2.93482398986816s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+290.74
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.42s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+40.2688679695129
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 2.86744618415833s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+290.32
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+37.4014217853546
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E g1 h2] in 2.9205379486084s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+289.84
+.W...b.b
+......b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E b8 a7] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for vdhankar:
+GAME
+BLACK
+34.4808838367462
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w.....B
+w.w.....
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on vdhankar #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 546, in <module>
+    print(end-start)
+NameError: name 'end' is not defined
+##### End of output of failed program #####
+##### vdhankar plays [E h2 g1] in 2.84227108955383s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+INPUT for dongwanx:
+GAME
+WHITE
+289.36
+.....b.b
+W.....b.
+.......w
+..B.....
+........
+b.......
+.w......
+w.w...B.
+##### Running: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### SUCCESS: /usr/bin/time -o time_22_vdhankar_dongwanx.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on dongwanx #####
+##### dongwanx plays [E a7 b8] in 0.48s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+Move is valid
+Seen this position 3 times
+*** Game ends in draw ***
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_22_vdhankar_dongwanx #####
+##### GAME ENDS IN A DRAW. Time left for vdhankar: 31.6386127471924s, dongwanx: 288.88s
+Server said: DRAW
+##### GAME OVER: the game ends in a draw, dongwanx wins by time remaining #####
+########## ROUND 22 GAMESCORE AFTER GAME 4: vdhankar=2 and dongwanx=2 ##########
+
+
+########## TIE ON ROUND 22 - BOTH PLAYERS ADVANCE TO NEXT ROUND ##########

@@ -1,0 +1,187 @@
+#################### ROUND 2: daweiwei (B) vs liujunyi (W): game 1 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.391247987747192s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 1: daweiwei=0 and liujunyi=1 ##########
+#################### ROUND 2: daweiwei (W) vs liujunyi (B): game 2 ####################
+##### game start! #####
+INPUT for liujunyi:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E f6 g5] in 4.21s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.444370031356812s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 2: daweiwei=0 and liujunyi=2 ##########
+#################### ROUND 2: daweiwei (B) vs liujunyi (W): game 3 ####################
+##### game start! #####
+INPUT for daweiwei:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.39319109916687s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 3: daweiwei=0 and liujunyi=3 ##########
+#################### ROUND 2: daweiwei (W) vs liujunyi (B): game 4 ####################
+##### game start! #####
+INPUT for liujunyi:
+GAME
+BLACK
+300
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### SUCCESS: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" /usr/lib/jvm/jdk-14.0.1/bin/java homework > stulog.txt 2>&1 on liujunyi #####
+##### liujunyi plays [E f6 g5] in 4.18s #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Move is valid
+Couldn't read file 'current_ply.txt'
+Couldn't read content from file 'current_ply.txt'
+Couldn't read file 'lastmatchange_ply.txt'
+Couldn't read content from file 'lastmatchange_ply.txt'
+##### SUCCESS: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+INPUT for daweiwei:
+GAME
+WHITE
+300
+.b.b.b.b
+b.b.b.b.
+.b.b...b
+......b.
+........
+w.w.w.w.
+.w.w.w.w
+w.w.w.w.
+##### Running: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+child exited with value 1
+##### ERROR: /usr/bin/time -o time_2_daweiwei_liujunyi.txt -f "%U" python3 homework.py > stulog.txt 2>&1 on daweiwei #####
+##### Output of failed program (stdout + stderr): #####
+Traceback (most recent call last):
+  File "homework.py", line 279, in <module>
+    g.setUp()
+  File "homework.py", line 21, in setUp
+    for line in open("input1.txt"):  # .readlines():
+FileNotFoundError: [Errno 2] No such file or directory: 'input1.txt'
+##### End of output of failed program #####
+##### daweiwei plays [No Move] in 0.389381885528564s #####
+##### No output.txt found. Making a bogus one... #####
+##### Running: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Step in a move needs to have 3 sections, found 1 in 'illegal'.
+child exited with value 255
+##### ERROR: /usr/lib/jvm/jdk-14.0.1/bin/java -jar /lab/itti/projects/checkers-competition/server/referee.jar on run_2_daweiwei_liujunyi #####
+Game server reported error. Assuming bogus move.
+##### GAME OVER: daweiwei loses because of illegal move [No Move] #####
+Server said: FAIL
+########## ROUND 2 GAMESCORE AFTER GAME 4: daweiwei=0 and liujunyi=4 ##########
+
+
+########## GRAND WINNER ROUND 2 IS liujunyi BY 4 vs 0 GAMESCORE ##########
